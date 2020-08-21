@@ -2,7 +2,7 @@
 title: PIC16A
 subtitle: Python with Applications
 description: 
-baseurl: "/PIC16A" # the subpath of your site, e.g. /blog/
+baseurl: "/PIC16A/" # the subpath of your site, e.g. /blog/
 url: "http://philchodrow.github.io/PIC16A" # the base hostname & protocol for your site
 syllabus: "http://philchodrow.github.io/PIC16A/syllabus/"
 materials: "http://philchodrow.github.io/PIC16A/materials/"
