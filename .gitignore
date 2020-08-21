@@ -1,0 +1,5 @@
+.jekyll-cache
+.ipynb_checkpoints
+.DS_Store
+*.code-workspace
+_site

@@ -1,0 +1,71 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$header-font-family: 'Raleway', sans-serif;
+$base-font-family: 'Lato', sans-serif;
+$base-font-size:   .95em;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #0f4c81;
+// $gameday-sky: #109dc0;
+// $clemson-purple:      #0f4c81;
+// $clemson-orange:      #f5b895;
+
+$primary-color:        #0f4c81;
+$secondary-color:      #f5b895;
+$pink:                 #f5b895;
+$pink-30:              #F5B89530;
+$yellow:               #F4DBB3;
+$yellow-30:            #F4DBB330;
+$lightblue:            #B6CADA;
+$lightblue-30:         #B6CADA30;
+$monument:             #84898C;
+$monument-30:          #84898C30;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+
+// Width of the content area
+$content-width:    950px;
+
+$on-palm:          600px;
+$on-laptop:        950px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "header",
+	"mobile-header",
+        "base",
+        "layout",
+        "syntax-highlighting",
+	"fancy-image"
+;
