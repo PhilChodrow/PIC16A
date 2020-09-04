@@ -217,7 +217,7 @@ h1.post-title {
     }
 
     h4 {
-/*       font-size: 20px; */
+        font-size: 17px; 
 
         @include media-query($on-laptop) {
 /*            font-size: 18px; */
