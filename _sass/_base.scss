@@ -37,7 +37,7 @@ h1, h2, h3 {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
@@ -284,7 +284,12 @@ dd {
 margin: 0 0 0 0.5em;
 padding: 0 0 0.5em 0;
 text-align: left;
+display: block;
 }
+// dd:after {
+// 	content: '\A';
+// 	white-space: pre;
+// }
 
 .fancy-h1  {
     color: $background-color;
@@ -322,7 +327,7 @@ text-align: left;
 
 
 li {
-    padding: 0.5em 0.0em 0.5em 0.5em;
+    padding: 0.5em 0.0em 0.0em 0.5em;
 }
 
 h4 { 

@@ -75,9 +75,9 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 10%</dd>
+  <dd> 15%</dd>
   <dt>Participation &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 15%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 20%</dd>
   <dt>Midterm Exam &nbsp;</dt>
@@ -150,7 +150,7 @@ There is a discussion forum associated with this course, where you can post both
     </div>
     <div class="lightblue-bg">
         <h3>Title IX</h3>
-        You deserve a learning environment free from discrimination, sexual harassment, sexual assault, domestic violence, dating violence, and stalking. If you experience these behaviors or otherwise know of a Title IX violation, you have many options for support and/or reporting. The UCLA <a href="https://www.sexualharassment.ucla.edu/">Title IX Office</a>> can help you navigate your options.  
+        You deserve a learning environment free from discrimination, sexual harassment, sexual assault, domestic violence, dating violence, and stalking. If you experience these behaviors or otherwise know of a Title IX violation, you have many options for support and/or reporting. The UCLA <a href="https://www.sexualharassment.ucla.edu/">Title IX Office</a> can help you navigate your options.  
     </div>
     <div class="yellow-bg">
         <h3>Accessibility</h3>
