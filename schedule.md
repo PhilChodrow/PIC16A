@@ -12,20 +12,20 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
 </dl>
 
 <dl>
-    <dt>10/1 &nbsp; Thursday</dt>
+    <dt>10/01 &nbsp; Thursday</dt>
     <dd>Install <a ref="https://docs.anaconda.com/anaconda/user-guide/getting-started/"> Anaconda. </a></dd>
-    <dt> 10/2 &nbsp; Friday</dt>
-    <dl>Data types, binary operators, and lists.</dl>
+    <dt> 10/02 &nbsp; Friday</dt>
+    <dl>Welcome to PIC16A!</dl>
 </dl>  
 
 <div class="fancy-h1-inverse"> Week 1 </div>
 
 <dl>
-    <dt>10/5 &nbsp; Monday</dt>
+    <dt>10/05 &nbsp; Monday</dt>
     <dd>Data types, binary operators, and lists.</dd>
-    <dt>10/7 &nbsp; Wednesday</dt>
+    <dt>10/07 &nbsp; Wednesday</dt>
     <dd>Control flow: iteration and branching. &nbsp; <ul><li>HW1 assigned.</li></ul></dd>
-    <dt>10/9 &nbsp; Friday</dt>
+    <dt>10/09 &nbsp; Friday</dt>
     <dd>Collections: dictionaries, tuples, and sets. </dd>
 </dl>
 
@@ -80,58 +80,138 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         </ul>
     </dd>
     <dt>10/28 &nbsp; Wednesday</dt>
-    <dd>Input/output: reading and writing files.
-        <ul>
-            <li>Quiz 3.</li>
-            <li>HW4 assigned.</li>
-        </ul> 
-    </dd>
+    <dd>Midterm review.</dd>
     <dt>10/30 &nbsp; Friday</dt>
-    <dd>Regular expressions I.</dd>
+    <dd>Midterm exam.</dd>
 </dl>
 
 <div class="fancy-h1-inverse"> Week 5 </div>
 
 <dl>
-    <dt>11/2 &nbsp; Monday</dt>
+    <dt>11/02 &nbsp; Monday</dt>
+    <dd>Regular expressions I.</dd>
+    <dt>11/03 &nbsp; Tuesday</dt>
+    <dd>U.S. Election Day, <b>no discussion section.</b></dd>
+    <dt>11/04 &nbsp; Wednesday</dt>
     <dd>Regular expressions II.
         <ul>
-            <li>HW4 due.</li>
-        </ul>
+            <li>Quiz 3. </li>
+            <li>HW4 assigned.</li>
+        </ul> 
     </dd>
-    <dt>11/3 &nbsp; Tuesday</dt>
-    <dd>U.S. Election Day, <b>no discussion section.</b></dd>
-    <dt>11/4 &nbsp; Wednesday</dt>
-    <dd>Midterm review.</dd>
-    <dt>11/6 &nbsp; Friday</dt>
-    <dd>Midterm exam.</dd>
+    <dt>11/06 &nbsp; Friday</dt>
+    <dd>Input/output: reading and writing files.
+    </dd>
 </dl>
 
 <div class="fancy-h1"> Week 6 </div>
 
-1. Numerical computation with `numpy`. 
-2. Data visualization with `matplotlib` and `pyplot`. 
-3. More on data visualization
+<dl>
+    <dt>11/09 &nbsp; Monday</dt>
+    <dd>Numerical computation.
+        <ul>
+            <li>HW4 due.</li>
+            <li>HW5 assigned.</li>
+        </ul>
+    </dd>
+    <dt>11/11 &nbsp; Wednesday</dt>
+    <dd><b>Veterans Day, no class</b></dd>
+    <dt>11/13 &nbsp; Friday</dt>
+    <dd>Data visualization. 
+        <ul>
+            <li>Quiz 4.</li>
+        </ul> 
+    </dd>
+    
+</dl>
+
+
 
 <div class="fancy-h1-inverse"> Week 7 </div>
 
-1. Image processing I: color scales and noise. 
-2. Image processing II: blur and edge-detection.
-3. Tabular data I: introduction to `pandas`. 
+<dl>
+    <dt>11/16 &nbsp; Monday</dt>
+    <dd>More numerical computation and data visualization.
+        <ul>
+            <li>HW5 due.</li>
+        </ul>
+    </dd>
+    <dt>11/18 &nbsp; Wednesday</dt>
+    <dd>Tabular data I. 
+        <ul>
+            <li>Quiz 5.</li>
+            <li>HW6 assigned.</li>
+        </ul> 
+    </dd>
+    <dt>11/20 &nbsp; Friday</dt>
+    <dd>Tabular data II. 
+    </dd>
+</dl>
 
 <div class="fancy-h1"> Week 8 </div>
 
-1. Tabular data II: more `pandas`. 
-2. Natural language processing (NLTK)
-3. Machine learning I: supervised methods. 
+<dl>
+    <dt>11/23 &nbsp; Monday</dt>
+    <dd>Image processing I: color scales and noise. 
+        <ul>
+            <li>HW6 due.</li>
+        </ul>
+    </dd>
+    <dt>11/25 &nbsp; Wednesday</dt>
+    <dd>Image processing II: blur and edge-detection.
+        <ul>
+            <li>Quiz 6.</li>
+            <li>HW7 assigned.</li>
+        </ul> 
+    </dd>
+    <dt>11/26 &nbsp; Thursday</dt>
+    <dd><b>Thanksgiving Holiday, no discussion.</b></dd>
+    <dt>11/27 &nbsp; Friday</dt>
+    <dd><b>Thanksgiving Holiday, no class.</b></dd>
+</dl>
 
 <div class="fancy-h1-inverse"> Week 9 </div>
 
-1. Machine learning II: unsupervised methods. 
-2. Machine learning III: interpretability. 
-3. Graphical interfaces: introduction to TkInter
+
+<dl>
+    <dt>11/30 &nbsp; Monday</dt>
+    <dd>Machine Learning I.
+        <ul>
+            <li>HW7 due.</li>
+        </ul>
+    </dd>
+    <dt>12/02 &nbsp; Wednesday</dt>
+    <dd>Machine Learning II. 
+        <ul>
+            <li>Quiz 7.</li>
+            <li>HW8 assigned.</li>
+        </ul> 
+    </dd>
+    <dt>12/04 &nbsp; Friday</dt>
+    <dd>Machine Learning III. 
+    </dd>
+</dl>
 
 <div class="fancy-h1"> Week 10 </div>
 
-1. Graphical interfaces II: widgets, events, and bindings. 
-2. Final Review
+<dl>
+    <dt>12/07 &nbsp; Monday</dt>
+    <dd>Natural language processing.
+        <ul>
+            <li>HW8 due.</li>
+        </ul>
+    </dd>
+    <dt>12/09 &nbsp; Wednesday</dt>
+    <dd>Graphical interfaces. 
+    </dd>
+    <dt>12/11 &nbsp; Friday</dt>
+    <dd>Final exam review.
+    <ul>
+    <li>Last day to submit extra credit essays.</li>
+    </ul>
+    </dd>
+</dl>
+
+# Final exam
+
+The final exam will take place on December 17th, 2020. You will have 3 hours to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm on December 17th. This exam is open-book and open-notes. 
