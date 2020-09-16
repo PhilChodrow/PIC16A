@@ -333,3 +333,63 @@ li {
 h4 { 
     font: italic bold;
 }
+
+th {
+    text-align: left;
+  }
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 0.5em 0.0em 0.0em 0.5em;
+}
+
+td {
+    border-bottom: 2px solid $grey-color-light;
+    border-top: 2px solid $grey-color-light;
+    border-collapse: collapse;
+    border-spacing: 4px;
+    padding: 0.2em 0.0em 0.2em 0.5em;
+}
+
+.week{
+    border-bottom: 4px solid $grey-color-light;
+    border-top: 4px solid $grey-color-light;
+  border-collapse: separate;
+  border-spacing: 4px;
+}
+
+.week_marker_even {
+    background-color : $grey-color-light;
+    // color: $background-color;
+    text-align: center;
+    padding : 0px 10px 0px 10px
+}
+
+.week_marker_odd {
+    // background-color : lightgrey;
+    // color: $background-color;
+    text-align: center;
+    background-color : $background-color;
+    padding : 0px 10px 0px 10px
+}
+
+.assignment{
+    padding: 0.2em 0.0em 0.2em 0.5em;
+}
+
+.quiz {
+    background-color : $lightblue-90;
+    padding: 0.2em 0.0em 0.2em 0.5em;
+}
+.hw {
+    background-color : $yellow-90;
+    padding: 0.2em 0.0em 0.2em 0.5em;
+}
+
+.exam {
+    background-color : $pink-90;
+    padding: 0.2em 0.0em 0.2em 0.5em;
+}
