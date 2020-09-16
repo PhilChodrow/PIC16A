@@ -52,7 +52,7 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 <dl>
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
-<dt> Teaching Assistants &nbsp; </dt>
+<dt> Teaching Assistant &nbsp; </dt>
 <dd> Kirill Gura. Contact: <a href = "mailto:gura@math.ucla.edu">gura@math.ucla.edu</a> &nbsp;</dd>
 <dt> Learning Assistants &nbsp; </dt>
 <dd> TBD </dd>
@@ -61,9 +61,9 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 ## Office Hours
 
 <dl>
-<dt>Prof. Chodrow </dt> <dd> via Zoom, hours <b>TBD</b></dd>
+<dt>Phil </dt> <dd> via Zoom, hours <b>TBD</b></dd>
 
-<dt> Teaching Assistant </dt> <dd>via Zoom, <b>TBD</b> </dd>
+<dt> Kirill </dt> <dd>via Zoom, <b>TBD</b> </dd>
 </dl>
 
 
