@@ -105,7 +105,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         </td>
         <td>
             <a href="https://docs.python.org/3/tutorial/controlflow.html">
-                Python Tutorial, 4.1-4.5
+                Python Tutorial 4.1-4.5
             </a>
         </td>
     </tr>
