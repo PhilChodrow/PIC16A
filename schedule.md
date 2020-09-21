@@ -143,25 +143,42 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td rowspan="5" class="week_marker_even"> W2 </td>
             <td>10/12</td>
             <td>Monday</td>
-            <td>Functions I</td>
+            <td>Functions</td>
             <td><div class="hw">HW1 due</div></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_1.ipynb"> 
+                Functions I
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_2.ipynb"> 
+                Functions II
+                </a>
+                <br>      
+            </td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>10/14</td>
             <td>Wednesday</td>
-            <td>Functions II</td>
+            <td>Functions</td>
             <td><div class="quiz">Quiz 2</div> <div class="assignment"> HW2 assigned</div></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_3.ipynb"> 
+                Functions III
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/exceptions.ipynb"> 
+                Exceptions
+                </a>
+            </td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>10/16</td>
             <td>Friday</td>
-            <td>Exceptions</td>
+            <td>TBD</td>
             <td></td>
             <td></td>
             <td></td>
