@@ -75,11 +75,11 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 15%</dd>
-  <dt>Participation &nbsp;</dt>
-  <dd> 15%</dd>
-  <dt>Quizzes &nbsp;</dt>
   <dd> 20%</dd>
+  <dt>Participation &nbsp;</dt>
+  <dd> 20%</dd>
+  <dt>Quizzes &nbsp;</dt>
+  <dd> 10%</dd>
   <dt>Midterm Exam &nbsp;</dt>
   <dd> 20%</dd>
   <dt>Final Exam &nbsp;</dt>
@@ -88,19 +88,19 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 ### Homework
 
-There will be approximately 7 homework assignments throughout the quarter. You may want to consult the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. The lowest two homework scores will be dropped. 
+There will be approximately 7 homework assignments throughout the quarter. You should consult the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. The lowest two homework scores will be dropped. 
 
 ### Participation
 
-Scheduled lecture sessions will include Q&A, discussion, and both individual and group activities. Attendance at scheduled lecture sessions is **optional**. 
+Your participation score does **not** include lecture attendance. Attendance at scheduled lecture sessions is **encouraged but optional**. You can, in principle, achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, and both individual and group activities.
 
-All traditional lectures will be pre-recorded and available online. There will typically be a few comprehension questions associated to each day's worth of lectures. These comprehension questions cover half your participation score (i.e. 10% of your total grade). 
+**Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). In this case, the preferred solution is for a group of students in similar circumstances to arrange an alternate meeting time. 
 
-**Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the other half of your participation score (i.e. 10% of your total grade). I will send a questionnaire during Week 0 in which you can state inability to attend discussion sections. In this case, I will contact you and we will find alternative arrangements. 
+Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. I will send a questionnaire during Week 0 in which you can state inability to attend discussion sections. In this case, I will contact you and we will find alternative arrangements. The lowest five grades from discussion assignments will be dropped. 
 
 ### Quizzes
 
-There will be short quizzes, which will typically fall on Wednesdays. You will typically have 30 minutes to complete the quiz, and can take the quiz at any time between 12:00am Wednesday morning and 11:59pm Wednesday night. The lowest two quiz scores will be dropped. 
+All traditional lectures will be pre-recorded and available online. Each week on Wednesdays, there will be a quiz consisting primarily of comprehension questions related to the lecture videos. Quizzes will be **timed**. The lowest two quiz grades will be dropped. 
 
 ### Midterm Exam
 
@@ -158,7 +158,7 @@ There is a discussion forum associated with this course, where you can post both
     </div>
     <div class="grey-bg">
         <h3>Names and Pronouns</h3>
-        You deserve to be addressed in the manner you prefer. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their expressed preferences. 
+        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their expressed preferences. 
     </div>
 </div>
 
