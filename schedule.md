@@ -83,7 +83,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <td>10/07</td>
         <td>Wednesday</td>
         <td>Control flow</td>
-        <td><div class="assignment"> HW1 assigned</div></td>
+        <td><div class="quiz">Quiz 1</div><div class="assignment"> HW1 assigned</div></td>
         <td> 
             <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/basics/for_loops_and_comprehensions.ipynb"> 
                 Iteration
@@ -153,7 +153,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/14</td>
             <td>Wednesday</td>
             <td>Functions II</td>
-            <td><div class="quiz">Quiz 1</div> <div class="assignment"> HW2 assigned</div></td>
+            <td><div class="quiz">Quiz 2</div> <div class="assignment"> HW2 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -183,7 +183,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/21</td>
             <td>Wednesday</td>
             <td>Inheritance</td>
-            <td><div class="quiz">Quiz 2</div><div class="assignment"> HW3 assigned</div></td>
+            <td><div class="quiz">Quiz 3</div><div class="assignment"> HW3 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -252,7 +252,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/04</td>
             <td>Wednesday</td>
             <td>Regular expressions II</td>
-            <td><div class="quiz">Quiz 3</div><div class="assignment"> HW4 assigned</div></td>
+            <td><div class="quiz">Quiz 4</div><div class="assignment"> HW4 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -291,7 +291,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/13</td>
             <td>Friday</td>
             <td>Data visualization I</td>
-            <td><div class="quiz">Quiz 4</div></td>
+            <td><div class="quiz">Quiz 5</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -312,7 +312,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/18</td>
             <td>Wednesday</td>
             <td><b>Tabular data I</b></td>
-            <td><div class="quiz"> Quiz 5</div><div class="assignment"> HW6 assigned</div></td>
+            <td><div class="quiz"> Quiz 6</div><div class="assignment"> HW6 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -342,7 +342,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/25</td>
             <td>Wednesday</td>
             <td>Image processing II</td>
-            <td><div class="quiz"> Quiz 6</div><div class="assignment"> HW7 assigned</div></td>
+            <td><div class="quiz"> Quiz 7</div><div class="assignment"> HW7 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -381,7 +381,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>12/02</td>
             <td>Wednesday</td>
             <td>Machine learning II</td>
-            <td><div class="quiz"> Quiz 7</div><div class="assignment"> HW8 assigned</div></td>
+            <td><div class="quiz"> Quiz 8</div><div class="assignment"> HW8 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
