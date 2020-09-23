@@ -207,7 +207,15 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     OOP II
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/_GrQScemoz4">
+                    OOP I
+                </a>
+                <br>
+                <a href="https://youtu.be/PjOpuWaK40k">
+                    OOP II
+                </a>
+            </td>
             <td>
                 <a href="https://docs.python.org/3/tutorial/classes.html">
                     Python Tutorial 9
