@@ -187,7 +187,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 Functions III
                 </a>
                 <br>
-                <a href=""> 
+                <a href="https://youtu.be/JEKXteMktwA"> 
+                Exceptions
                 </a>
             </td>
             <td><a href="https://docs.python.org/3/tutorial/errors.html">Python Tutorial 8</a></td>
@@ -494,4 +495,4 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
 
 # Final exam
 
-The final exam will take place on December 17th, 2020. You will have 3 hours to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm on December 17th. This exam is open-book and open-notes. 
+The final exam will take place on December 17th, 2020. It will be released at 8am on 12/17. The exam is intended to require approximately 3 hours of effort. You will have 24 hours to complete the the exam. This exam is open-book and open-notes. 

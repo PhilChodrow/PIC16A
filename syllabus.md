@@ -104,7 +104,7 @@ All traditional lectures will be pre-recorded and available online. Each lecture
 
 ### Midterm Exam
 
-The midterm exam will take place on Friday, October 30th. You will have one hour to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm. This exam is open-book and open-notes.  
+The midterm exam will take place on Friday, October 30th. It will be released at 8am on the 10/30, and you will have 24 hours to complete it. The exam is intended to require approximately one hour of effort. This exam is open-book and open-notes.  
 
 ### Final Exam
 
