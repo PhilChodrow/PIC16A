@@ -195,24 +195,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>10/16</td>
             <td>Friday</td>
-            <td>Input/output</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>
-                <a href = "https://docs.python.org/3/tutorial/inputoutput.html">
-                Python Tutorial 7.2
-                </a>
-            </td>
-        </tr>
-    </tbody>
-    <tbody class="week">
-        <tr>
-            <td rowspan="5" class="week_marker_odd"> W3 </td>
-            <td>10/19</td>
-            <td>Monday</td>
             <td>Object-Oriented Programming</td>
-            <td><div class="hw">HW2 due</div></td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/class_and_objects_I.ipynb">
                     OOP I
@@ -229,11 +213,14 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>10/21</td>
-            <td>Wednesday</td>
+            <td rowspan="5" class="week_marker_odd"> W3 </td>
+            <td>10/19</td>
+            <td>Monday</td>
             <td>Inheritance</td>
-            <td><div class="assignment"> HW3 assigned</div></td>
+            <td><div class="hw">HW2 due</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/inheritance_I.ipynb">
                     Inheritance I
@@ -251,13 +238,26 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
+            <td>10/21</td>
+            <td>Wednesday</td>
+            <td>More Iteration</td>
+            <td><div class="assignment"> HW3 assigned</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>10/23</td>
             <td>Friday</td>
-            <td>Iterators and generators</td>
+            <td>Input/Output</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://docs.python.org/3/tutorial/inputoutput.html">
+                Python Tutorial 7.2
+                </a>
+            </td>
         </tr>
     </tbody>
     <tbody class="week">

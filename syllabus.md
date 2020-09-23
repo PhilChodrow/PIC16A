@@ -143,6 +143,18 @@ You are free to use any sources to which you have access. If you are having trou
 
 There is a discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.5% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 2% extra credit.
 
+<div class="fancy-h1">Learning on Zoom</div>
+
+## Cameras
+
+  We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation admits. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
+
+  When working in groups in your discussion section, it is especially important to engage with your group members as peers, mentors, and individuals. You are **strongly encouraged** to turn your cameras on when working with your teams. LAs rotating through the groups may ask you why your camera is off. 
+
+## Microphones
+
+  In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise. 
+
 <div class="fancy-h1">Course Environment </div>
 
 <div class="blocks">
@@ -191,6 +203,18 @@ If you are struggling with a problem on a homework assignment, or wondering abou
 ## General Academic Concerns
 
 If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in PIC16A. 
+
+## Screen Reader Accessibility
+
+It is my sincere goal to ensure that this course is accessible to users of screen readers. It has come to my attention that, the posted lecture notes, it may at times be difficult for screen reader users to distinguish between code input  and code output. I have done the following: 
+
+1. Code blocks are preceded by an indicator of the form `In [2]`, standing for "Input Number 2."  
+2. When a code block returns a value, the output is preceded by an indicator of the form `Out[2]`, standing for "Output Number 2."
+3. When a code block does not return a value, such as when a `print` statement is used, the output is not preceded by an output indicator. Instead, I have added a comment `# ---` between the input code and the printed output. 
+
+Thus, input and output blocks are separated by either an `Out[2]` indicator or a comment `# ---`. 
+
+If you have additional suggestions for how the course can be better made accessible to users of screen readers or other assistive technologies, I will receive them gratefully. 
 
 <div class="fancy-h1"> Listening </div>
 
