@@ -6,6 +6,8 @@ permalink: schedule/
 
 All assignments, including homework and quizzes, are due at 11:59pm, Pacific Time, on the stated day. 
 
+<br>
+
 
 
 <table style="width:100%">
@@ -83,7 +85,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <td>10/07</td>
         <td>Wednesday</td>
         <td>Control flow</td>
-        <td><div class="quiz">Quiz 1</div><div class="assignment"> HW1 assigned</div></td>
+        <td><div class="assignment"> HW1 assigned</div></td>
         <td> 
             <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/basics/for_loops_and_comprehensions.ipynb"> 
                 Iteration
@@ -152,17 +154,25 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 <br>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_2.ipynb"> 
                 Functions II
-                </a>
-                <br>      
+                </a>      
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/Y6c-1VxXYvE"> 
+                Functions I
+                </a>
+                <br>
+                <a href="https://youtu.be/N1jT_ZpplQs"> 
+                Functions II
+                </a>
+                <br>
+            </td>
             <td><a href="https://docs.python.org/3/tutorial/controlflow.html#defining-functions">Python Tutorial 4.6-7</a></td>
         </tr>
         <tr>
             <td>10/14</td>
             <td>Wednesday</td>
             <td>Functions</td>
-            <td><div class="quiz">Quiz 2</div> <div class="assignment"> HW2 assigned</div></td>
+            <td><div class="assignment"> HW2 assigned</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_3.ipynb"> 
                 Functions III
@@ -172,7 +182,14 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 Exceptions
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/ojdHJ4qSkaM"> 
+                Functions III
+                </a>
+                <br>
+                <a href=""> 
+                </a>
+            </td>
             <td><a href="https://docs.python.org/3/tutorial/errors.html">Python Tutorial 8</a></td>
         </tr>
         <tr>
@@ -216,7 +233,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/21</td>
             <td>Wednesday</td>
             <td>Inheritance</td>
-            <td><div class="quiz">Quiz 3</div><div class="assignment"> HW3 assigned</div></td>
+            <td><div class="assignment"> HW3 assigned</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/inheritance_I.ipynb">
                     Inheritance I
@@ -297,7 +314,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/04</td>
             <td>Wednesday</td>
             <td>Regular expressions II</td>
-            <td><div class="quiz">Quiz 4</div><div class="assignment"> HW4 assigned</div></td>
+            <td><div class="assignment"> HW4 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -336,7 +353,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/13</td>
             <td>Friday</td>
             <td>Data visualization I</td>
-            <td><div class="quiz">Quiz 5</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -357,7 +374,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/18</td>
             <td>Wednesday</td>
             <td>Tabular data I</td>
-            <td><div class="quiz"> Quiz 6</div><div class="assignment"> HW6 assigned</div></td>
+            <td><div class="assignment"> HW6 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -387,7 +404,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/25</td>
             <td>Wednesday</td>
             <td>Image processing II</td>
-            <td><div class="quiz"> Quiz 7</div><div class="assignment"> HW7 assigned</div></td>
+            <td><div class="assignment"> HW7 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -426,7 +443,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>12/02</td>
             <td>Wednesday</td>
             <td>Machine learning II</td>
-            <td><div class="quiz"> Quiz 8</div><div class="assignment"> HW8 assigned</div></td>
+            <td><div class="assignment"> HW8 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -474,6 +491,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
 </table>
 
 <br>
+
 # Final exam
 
 The final exam will take place on December 17th, 2020. You will have 3 hours to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm on December 17th. This exam is open-book and open-notes. 

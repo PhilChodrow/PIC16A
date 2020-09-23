@@ -100,11 +100,11 @@ Discussion sections will include **graded** group work, including exercises and 
 
 ### Quizzes
 
-All traditional lectures will be pre-recorded and available online. Each week on Wednesdays, there will be a quiz consisting primarily of comprehension questions related to the lecture videos. Quizzes will be **timed**. The lowest two quiz grades will be dropped. 
+All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ### Midterm Exam
 
-The midterm exam will take place on _____. You will have one hour to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm on _____. This exam is open-book and open-notes.  
+The midterm exam will take place on Friday, October 30th. You will have one hour to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm. This exam is open-book and open-notes.  
 
 ### Final Exam
 
@@ -173,6 +173,12 @@ I heartily encourage you to collaborate with your peers on homework and many in-
 The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
 
 <div class="fancy-h1"> Getting Help </div>
+
+## Extensions Policy
+
+These are challenging times. From disease to internet access to political unrest, there are many reasons why you might struggle to complete your work on time. In awareness of this situation, PIC16A includes an large number of drops for homework, participation assignments, and quizzes -- around two weeks worth of drops in each category.  Additionally, there are several opportunities to earn a substantial amount of extra credit. 
+
+Research indicates that students of varying cultural backgrounds may feel more or less comfortable asking for extensions on assignments. Because of this, **I will generally not grant extensions** on assignments. If you are not able to complete an assignment on time, you will need to use of your drops. If you foresee that you will be unable to complete multiple weeks worth of assignments, then please contact me and we will find a route.   
 
 ## Coding Problems
 
@@ -255,8 +261,6 @@ The [Community Programs Office](http://www.cpo.ucla.edu/cpo/) offers several stu
 
 [Dashew Center for International Students and Scholars](https://www.internationalcenter.ucla.edu/resources/menu) 
   - [List of resources](https://www.internationalcenter.ucla.edu/resources/resource-guide) related to visas, arrival in the US, housing, and other important topics. 
-
-
 
 <div class="fancy-h1"> Acknowledgements </div>
 
