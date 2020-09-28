@@ -12,18 +12,18 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
 
 <table style="width:100%">
     <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>Week</th>
+        <th>Date</th>
+        <th>Day</th>
+        <th>Topic</th>
+        <th>Assignment</th>
         <th>Notes</th>
         <th>Videos</th>
         <th>Readings</th>
     </tr>
     <tbody class="week">
     <tr>
-        <td rowspan="4" class="week_marker_even"> W0 </td>
+        <th rowspan="2" class="week_marker_even"> W0 </th>
         <td>10/01</td>
         <td>Thursday</td>
         <td>Install Anaconda</td>
@@ -41,12 +41,14 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <td></td>
         <td></td>
         <td></td>
-        <td> <a href="https://docs.python.org/3/tutorial/appetite.html">Python Tutorial 1 </a></td>
+        <td> 
+            <a href="https://docs.python.org/3/tutorial/appetite.html">Python Tutorial 1 </a>
+        </td>
     </tr>
     </tbody>
     <tbody class="week">
     <tr>
-        <td rowspan="5" class="week_marker_odd"> W1 </td>
+        <th rowspan="3" class="week_marker_odd"> W1 </th>
         <td>10/05</td>
         <td>Monday</td>
         <td>Data types, lists</td>
@@ -142,7 +144,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_even"> W2 </td>
+            <th rowspan="3" class="week_marker_even"> W2 </th>
             <td>10/12</td>
             <td>Monday</td>
             <td>Functions</td>
@@ -225,7 +227,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_odd"> W3 </td>
+            <th rowspan="3" class="week_marker_odd"> W3 </th>
             <td>10/19</td>
             <td>Monday</td>
             <td>Inheritance</td>
@@ -271,7 +273,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_even"> W4 </td>
+            <th rowspan="3" class="week_marker_even"> W4 </th>
             <td>10/26</td>
             <td>Monday</td>
             <td>Modules and scripts</td>
@@ -301,7 +303,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_odd"> W5 </td>
+            <th rowspan="4" class="week_marker_odd"> W5 </th>
             <td>11/02</td>
             <td>Monday</td>
             <td>Regular expressions I</td>
@@ -340,7 +342,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_even"> W6 </td>
+            <th rowspan="3" class="week_marker_even"> W6 </th>
             <td>11/09</td>
             <td>Monday</td>
             <td>Numerical Computation</td>
@@ -370,7 +372,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_odd"> W7 </td>
+            <th rowspan="3" class="week_marker_odd"> W7 </th>
             <td>11/16</td>
             <td>Monday</td>
             <td>Data visualization II </td>
@@ -400,7 +402,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_even"> W8 </td>
+            <th rowspan="4" class="week_marker_even"> W8 </th>
             <td>11/23</td>
             <td>Monday</td>
             <td>Image processing I </td>
@@ -439,7 +441,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_odd"> W9 </td>
+            <th rowspan="3" class="week_marker_odd"> W9 </th>
             <td>11/30</td>
             <td>Monday</td>
             <td>Machine learning I </td>
@@ -469,7 +471,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <td rowspan="5" class="week_marker_even"> W10 </td>
+            <th rowspan="3" class="week_marker_even"> W10 </th>
             <td>12/07</td>
             <td>Monday</td>
             <td>Natural language processing </td>
@@ -498,8 +500,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         </tr>
     </tbody>
 </table>
-
-<br>
 
 # Final exam
 
