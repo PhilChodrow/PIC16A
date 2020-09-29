@@ -12,11 +12,11 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
 
 <table style="width:100%">
     <tr>
-        <th>Week</th>
-        <th>Date</th>
-        <th>Day</th>
-        <th>Topic</th>
-        <th>Assignment</th>
+        <th><div class="sr_only">Week</div></th>
+        <th><div class="sr_only">Date</div></th>
+        <th><div class="sr_only">Day</div></th>
+        <th><div class="sr_only">Topic</div></th>
+        <th><div class="sr_only">Assignment</div></th>
         <th>Notes</th>
         <th>Videos</th>
         <th>Readings</th>
@@ -253,7 +253,24 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Wednesday</td>
             <td>More Iteration</td>
             <td><div class="assignment"> HW3 assigned</div></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
+                    Iterators I
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
+                    Iterators II
+                </a>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/generators.ipynb">
+                    Generators
+                </a>
+            </td>
             <td></td>
+            <td>
+                <a href="https://docs.python.org/3/tutorial/classes.html">
+                    Python Tutorial 9.8-9.10
+                </a>
+            </td>
             <td></td>
             <td></td>
         </tr>
@@ -262,11 +279,23 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Friday</td>
             <td>Input/Output</td>
             <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/IO.ipynb">
+                    Local data
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/online_data.ipynb">
+                    Online data
+                </a>
+            </td>
             <td></td>
             <td>
                 <a href = "https://docs.python.org/3/tutorial/inputoutput.html">
                 Python Tutorial 7.2
+                </a>
+                <br>
+                <a href = "https://docs.python.org/3/library/csv.html#reader-objects">
+                CSV docs
                 </a>
             </td>
         </tr>
