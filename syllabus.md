@@ -4,7 +4,13 @@ title: Syllabus
 permalink: syllabus/
 ---
 
+
+
 **Welcome to PIC16A!** I'm Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+
+<figure style="float:right">
+  <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
+</figure>
 
 1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) are able to learn some cool stuff and get a good grade in this course. 
 2. **None of us signed up for this.** We are all doing the best we can during a time of catastrophe and intense uncertainty. My main aims in designing this course are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your experience during these difficult times. 
@@ -18,9 +24,10 @@ Ok, now on to the usual syllabus stuff.
 This course covers the fundamental constructs of the Python programming language, and then surveys some tools often used in computational and data science. Together, we will:  
 
 1. Construct Python programs using functions, loops, classes, and other tools. 
-2. Make design decisions about the programming constructs best suited to a given problem. 
-3. Write *reusable* code, by encapsulating core operations inside functions and documenting these functions carefully. 
-4. Use our skills to study data sets from science, economics, politics, and literature. 
+2. Use existing modules and self-written code to solve complex problems. 
+3. Make design decisions about the programming constructs best suited to a given problem. 
+4. Write *reusable* code, by encapsulating core operations in functions and classes, and documenting these constructs carefully. 
+5. Study problems and data sets from science, economics, politics, and literature. 
 
 You can also consult the provisional [course schedule](https://philchodrow.github.io/PIC16A/schedule/). 
 
@@ -58,10 +65,11 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 <dd> TBD </dd>
 </dl>
 
-## Office Hours
+## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> via Zoom, hours <b>TBD</b></dd>
+<dt>Phil </dt> <dd> Mondays, 2:30pm-3:30pm </dd> 
+<dt> &nbsp;</dt> <dd>Tuesdays, 8:00pm-9:00pm (priority given to students outside the US) </dd>
 
 <dt> Kirill </dt> <dd>via Zoom, <b>TBD</b> </dd>
 </dl>
@@ -100,7 +108,11 @@ Discussion sections will include **graded** group work, including exercises and 
 
 ### Quizzes
 
-All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
+
+Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
+
+The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ### Midterm Exam
 
@@ -108,7 +120,7 @@ The midterm exam will take place on Friday, October 30th. It will be released at
 
 ### Final Exam
 
-The final exam for this course is scheduled for December 17th, 2020. You will have 3 hours to complete the final exam, and can take the exam at any time between 12:00am and 11:59pm on December 17th. This exam is open-book and open-notes.  
+The final exam for this course is scheduled for December 17th, 2020. The exame will be released at 8am on 12/17, and you will have 24 hours to complete it. The exam is intended to require approximately three hours of effort. This exam is open-book and open-notes.  
 
 ### Extra Credit
 
@@ -190,15 +202,15 @@ The quizzes, midterm, and finals are open-book and open-notes. You should not di
 
 These are challenging times. From disease to internet access to political unrest, there are many reasons why you might struggle to complete your work on time. In awareness of this situation, PIC16A includes an large number of drops for homework, participation assignments, and quizzes -- around two weeks worth of drops in each category.  Additionally, there are several opportunities to earn a substantial amount of extra credit. 
 
-Research indicates that students of varying cultural backgrounds may feel more or less comfortable asking for extensions on assignments. Because of this, **I will generally not grant extensions** on assignments. If you are not able to complete an assignment on time, you will need to use of your drops. If you foresee that you will be unable to complete multiple weeks worth of assignments, then please contact me and we will find a route.   
+Research indicates that students of varying cultural backgrounds may feel more or less comfortable asking for extensions on assignments. Because of this, **I will generally not grant extensions** on assignments. If you are not able to complete an assignment on time, you will need to use one of your drops. If you foresee that you will be unable to complete multiple weeks worth of assignments, then please contact me and we will find a solution.   
 
 ## Coding Problems
 
 If you are struggling with a problem on a homework assignment, or wondering about an in-class activity, you have several ways to get help. In approximate order, you should try: 
 
-1. Posting your question on the class discussion forum. 
-2. Attending the next MWF lecture period, which I will often use for Q&A. 
-3. Attending the office hours of either myself or the TA. 
+1. Posting your question on the class discussion forum AND/OR asking your Discussion group members.  
+2. Attending the next MWF lecture period, which will often be used for relevant examples or Q&A. 
+3. Attending the office hours of either Kirill or myself. 
 
 ## General Academic Concerns
 
@@ -206,7 +218,7 @@ If you have concerns about your grades, general understanding, or ability to kee
 
 ## Screen Reader Accessibility
 
-It is my sincere goal to ensure that this course is accessible to users of screen readers. It has come to my attention that, the posted lecture notes, it may at times be difficult for screen reader users to distinguish between code input  and code output. I have done the following: 
+It is my sincere goal to ensure that this course is accessible to users of screen readers. It has come to my attention that, the posted lecture notes, it may at times be difficult for screen reader users to distinguish between code input and code output. I have done the following: 
 
 1. Code blocks are preceded by an indicator of the form `In [2]`, standing for "Input Number 2."  
 2. When a code block returns a value, the output is preceded by an indicator of the form `Out[2]`, standing for "Output Number 2."
