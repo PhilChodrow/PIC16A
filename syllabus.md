@@ -88,10 +88,12 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
   <dd> 20%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
+  <dt>Mini-Project &nbsp;</dt>
+  <dd> 10%</dd>
   <dt>Midterm Exam &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 15%</dd>
   <dt>Final Exam &nbsp;</dt>
-  <dd> 30%</dd>
+  <dd> 25%</dd>
 </dl>
 
 ### Homework
@@ -113,6 +115,10 @@ All traditional lectures will be pre-recorded and available online. Each lecture
 Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
 
 The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+
+### Mini-Project
+
+There will be a short group mini-project due at the end of the course. Working with your group, you will produce a small data science project in which you will read, explore, train machine learning models, and communicate your findings using a real data set. Several Discussion sections in the second half of the course will be devoted to helping you get started on the stages of this mini-project. The project will be designed to require approximately 3-5 hours of group coding sessions outside of class times. It will be possible to start on the project by the end of Week 7, and you will have all the tools you need to finish the project by the end of Week 9. 
 
 ### Midterm Exam
 
