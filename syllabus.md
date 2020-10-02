@@ -98,7 +98,7 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 ### Homework
 
-There will be approximately 7 homework assignments throughout the quarter. You should consult the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. The lowest two homework scores will be dropped. 
+There will be approximately 8 homework assignments throughout the quarter. You should consult the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. The lowest two homework scores will be dropped. 
 
 ### Participation
 
