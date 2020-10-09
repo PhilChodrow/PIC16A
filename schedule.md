@@ -241,7 +241,15 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Inheritance II
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/XChF4v8FLq4">
+                    Inheritance I
+                </a>
+                <br>
+                <a href="https://youtu.be/PHiAsOuApgg">
+                    Inheritance II
+                </a>
+            </td>
             <td>
                 <a href="https://docs.python.org/3/tutorial/classes.html">
                     Python Tutorial 9
@@ -265,7 +273,18 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Generators
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/kn5yT12ohlk">
+                    Iterators I
+                </a>
+                <br>
+                <a href="https://youtu.be/Nid6KGKeZ2E">
+                    Iterators II
+                </a>
+                <a href="https://youtu.be/okVpT_PrOx4">
+                    Generators
+                </a>
+            </td>
             <td>
                 <a href="https://docs.python.org/3/tutorial/classes.html">
                     Python Tutorial 9.8-9.10
@@ -305,11 +324,36 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_even"> W4 </th>
             <td>10/26</td>
             <td>Monday</td>
-            <td>Modules and scripts</td>
+            <td>Modules and tests</td>
             <td><div class="hw">H3 due</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/modules.ipynb">
+                    Modules
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/unit_testing.ipynb">
+                    Unit-Testing
+                </a> 
+            </td>
+            <td>
+                <a href="https://youtu.be/dfH0-x1tgRo">
+                    Modules
+                </a>
+                <br>
+                <a href="https://youtu.be/TwOmk9oSaR8">
+                    Unit-Testing
+                </a> 
+            </td>
+            <td>
+                <a href="https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/">
+                    <code>__name__ == "__main__"</code>?
+                </a>
+                <br>
+                <a href="https://docs.python.org/3/library/unittest.html">
+                    Basic Example <br> 
+                    (unittest docs)
+                </a> 
+            </td>
         </tr>
         <tr>
             <td>10/28</td>
