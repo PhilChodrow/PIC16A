@@ -220,7 +220,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
             <td>
                 <a href="https://docs.python.org/3/tutorial/classes.html">
-                    Python Tutorial 9
+                    Python Tutorial 9.1-9.4
                 </a>
             </td>
         </tr>
@@ -252,7 +252,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
             <td>
                 <a href="https://docs.python.org/3/tutorial/classes.html">
-                    Python Tutorial 9
+                    Python Tutorial 9.5-.9.6
                 </a>
             </td>
         </tr>
@@ -266,7 +266,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Iterators I
                 </a>
                 <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_2.ipynb">
                     Iterators II
                 </a>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/generators.ipynb">
@@ -307,7 +307,15 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Online data
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/jZaj3rDnW34">
+                    Local data
+                </a>
+                <br>
+                <a href="https://youtu.be/kHKzuFi5Omw">
+                    Online data
+                </a>
+            </td>
             <td>
                 <a href = "https://docs.python.org/3/tutorial/inputoutput.html">
                 Python Tutorial 7.2
