@@ -296,44 +296,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>10/23</td>
             <td>Friday</td>
-            <td>Input/Output</td>
-            <td></td>
-            <td>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/IO.ipynb">
-                    Local data
-                </a>
-                <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/online_data.ipynb">
-                    Online data
-                </a>
-            </td>
-            <td>
-                <a href="https://youtu.be/jZaj3rDnW34">
-                    Local data
-                </a>
-                <br>
-                <a href="https://youtu.be/kHKzuFi5Omw">
-                    Online data
-                </a>
-            </td>
-            <td>
-                <a href = "https://docs.python.org/3/tutorial/inputoutput.html">
-                Python Tutorial 7.2
-                </a>
-                <br>
-                <a href = "https://docs.python.org/3/library/csv.html#reader-objects">
-                CSV docs
-                </a>
-            </td>
-        </tr>
-    </tbody>
-    <tbody class="week">
-        <tr>
-            <th rowspan="3" class="week_marker_even"> W4 </th>
-            <td>10/26</td>
-            <td>Monday</td>
             <td>Modules and tests</td>
-            <td><div class="hw">H3 due</div></td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/modules.ipynb">
                     Modules
@@ -361,6 +325,42 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Basic Example <br> 
                     (unittest docs)
                 </a> 
+            </td>
+        </tr>
+    </tbody>
+    <tbody class="week">
+        <tr>
+            <th rowspan="3" class="week_marker_even"> W4 </th>
+            <td>10/26</td>
+            <td>Monday</td>
+            <td>Input/Output</td>
+            <td><div class="hw">H3 due</div></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/IO.ipynb">
+                    Local data
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/online_data.ipynb">
+                    Online data
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/jZaj3rDnW34">
+                    Local data
+                </a>
+                <br>
+                <a href="https://youtu.be/kHKzuFi5Omw">
+                    Online data
+                </a>
+            </td>
+            <td>
+                <a href = "https://docs.python.org/3/tutorial/inputoutput.html">
+                Python Tutorial 7.2
+                </a>
+                <br>
+                <a href = "https://docs.python.org/3/library/csv.html#reader-objects">
+                CSV docs
+                </a>
             </td>
         </tr>
         <tr>
