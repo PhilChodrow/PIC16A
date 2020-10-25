@@ -231,7 +231,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/19</td>
             <td>Monday</td>
             <td>Inheritance</td>
-            <td><div class="hw">HW2 due</div></td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/inheritance_I.ipynb">
                     Inheritance I
@@ -260,7 +260,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/21</td>
             <td>Wednesday</td>
             <td>More Iteration</td>
-            <td><div class="assignment"> HW3 assigned</div></td>
+            <td><div class="hw">HW2 due</div><div class="assignment"> HW3 assigned</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
                     Iterators I
@@ -334,7 +334,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/26</td>
             <td>Monday</td>
             <td>Input/Output</td>
-            <td><div class="hw">H3 due</div></td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/IO/IO.ipynb">
                     Local data
@@ -367,7 +367,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>10/28</td>
             <td>Wednesday</td>
             <td>Midterm review</td>
-            <td></td>
+            <td><div class="hw">HW3 due</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -387,11 +387,33 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="4" class="week_marker_odd"> W5 </th>
             <td>11/02</td>
             <td>Monday</td>
-            <td>Regular expressions I</td>
+            <td>Regular Expressions</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
+                    Regex I
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_2.ipynb">
+                    Regex II
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/XTcSES2Ya_w">
+                    Regex I
+                </a>
+                <br>
+                <a href="https://youtu.be/z2EYSZ-xPJ4">
+                    Regex II
+                </a>
+            </td>
+            <td>
+                <a href = "https://regexone.com/">
+                RegexOne Tutorial
+                </a>
+                <br>
+                (through Lesson 9)
+            </td>
         </tr>
         <tr>
             <td>11/03</td>
@@ -405,20 +427,66 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/04</td>
             <td>Wednesday</td>
-            <td>Regular expressions II</td>
+            <td>More Regular Expressions</td>
             <td><div class="assignment"> HW4 assigned</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_3.ipynb">
+                    Regex III
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_4.ipynb">
+                    Regex IV
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/FMfTQcke158">
+                    Regex III
+                </a>
+                <br>
+                <a href="https://youtu.be/8KWirXCC-fA">
+                    Regex IV
+                </a>
+            </td>
+            <td>
+                <a href = "https://regexone.com/">
+                RegexOne Tutorial
+                </a>
+                <br>
+                (through Lesson 15)
+            </td>
         </tr>
         <tr>
             <td>11/06</td>
             <td>Friday</td>
-            <td>TBD</td>
+            <td>Numerical Computation</td>
             <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_1.ipynb">
+                    NumPy I
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_2.ipynb">
+                    NumPy II
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_2.ipynb">
+                    NumPy III
+                </a>
+            </td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html">
+                Data Types Review
+                </a>
+                <br>
+                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html">
+                Array Basics
+                </a>
+                <br>
+                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.06-boolean-arrays-and-masks.html">
+                Boolean Arrays
+                </a>
+            </td>
         </tr>
     </tbody>
     <tbody class="week">
@@ -426,17 +494,35 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_even"> W6 </th>
             <td>11/09</td>
             <td>Monday</td>
-            <td>Numerical Computation</td>
-            <td><div class="hw"> HW4 due</div><div class="assignment"> HW5 assigned</div></td>
+            <td>More Numerical Computation</td>
             <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_4.ipynb">
+                    NumPy IV
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_5.ipynb">
+                    NumPy V
+                </a>
+            </td>
             <td></td>
-            <td></td>
+            <td>
+                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html">
+                Universal Functions
+                </a>
+                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.04-computation-on-arrays-aggregates.html">
+                Aggregation
+                </a>
+                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html">
+                Broadcasting
+                </a>
+            </td>
         </tr>
         <tr>
             <td>11/11</td>
             <td>Wednesday</td>
             <td><b>Veterans Day, no class</b></td>
-            <td></td>
+            <td><div class="hw"> HW4 due</div><div class="assignment"> HW5 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -457,7 +543,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/16</td>
             <td>Monday</td>
             <td>Data visualization II </td>
-            <td><div class="hw"> HW5 due</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -466,7 +552,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/18</td>
             <td>Wednesday</td>
             <td>Tabular data I</td>
-            <td><div class="assignment"> HW6 assigned</div></td>
+            <td><div class="hw"> HW5 due</div><div class="assignment"> HW6 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -487,7 +573,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/23</td>
             <td>Monday</td>
             <td>Image processing I </td>
-            <td><div class="hw"> HW6 due</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -496,7 +582,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/25</td>
             <td>Wednesday</td>
             <td>Image processing II</td>
-            <td><div class="assignment"> HW7 assigned</div></td>
+            <td><div class="hw"> HW6 due</div><div class="assignment"> HW7 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -526,7 +612,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>11/30</td>
             <td>Monday</td>
             <td>Machine learning I </td>
-            <td><div class="hw"> HW7 due</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -535,7 +621,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>12/02</td>
             <td>Wednesday</td>
             <td>Machine learning II</td>
-            <td><div class="assignment"> HW8 assigned</div></td>
+            <td><div class="hw"> HW7 due</div><div class="assignment"> HW8 assigned</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -556,7 +642,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>12/07</td>
             <td>Monday</td>
             <td>Natural language processing </td>
-            <td><div class="hw"> HW8 due</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -565,7 +651,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>12/09</td>
             <td>Wednesday</td>
             <td>Graphical interfaces.</td>
-            <td></td>
+            <td><div class="hw"> HW8 due</div></td>
             <td></td>
             <td></td>
             <td></td>
