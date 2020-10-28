@@ -473,7 +473,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     NumPy III
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/JJtkGdTNC44">
+                    NumPy I
+                </a>
+                <br>
+                <a href="https://youtu.be/-w0SVtO-1hw">
+                    NumPy II
+                </a>
+                <br>
+                <a href="https://youtu.be/e_wLhPUvzvs">
+                    NumPy III 
+                </a>
+            </td>
             <td>
                 <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html">
                 Data Types Review
@@ -505,16 +517,21 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     NumPy V
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/hqFq9DV8Dyc">
+                    NumPy IV
+                </a>
+                <br>
+                <a href="https://youtu.be/lJp9Tk_caDc">
+                    NumPy V
+                </a>
+            </td>
             <td>
                 <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html">
                 Universal Functions
                 </a>
                 <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.04-computation-on-arrays-aggregates.html">
                 Aggregation
-                </a>
-                <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html">
-                Broadcasting
                 </a>
             </td>
         </tr>
