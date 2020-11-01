@@ -469,7 +469,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     NumPy II
                 </a>
                 <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_2.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_3.ipynb">
                     NumPy III
                 </a>
             </td>
@@ -556,11 +556,20 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="3" class="week_marker_odd"> W7 </th>
+            <th rowspan="5" class="week_marker_odd"> W7 </th>
             <td>11/16</td>
             <td>Monday</td>
-            <td>Data visualization II </td>
+            <td>Tabular data I</td>
             <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/17</td>
+            <td>Tuesday</td>
+            <td></td>
+            <td><div class="project">Project time</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -568,8 +577,17 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/18</td>
             <td>Wednesday</td>
-            <td>Tabular data I</td>
+            <td>Tabular data II</td>
             <td><div class="hw"> HW5 due</div><div class="assignment"> HW6 assigned</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/19</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="project">Project time</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -577,7 +595,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/20</td>
             <td>Friday</td>
-            <td>Tabular data II</td>
+            <td>Data visualization II</td>
             <td></td>
             <td></td>
             <td></td>
@@ -586,11 +604,20 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_even"> W8 </th>
+            <th rowspan="5" class="week_marker_even"> W8 </th>
             <td>11/23</td>
             <td>Monday</td>
-            <td>Image processing I </td>
+            <td>Machine Learning I</td>
             <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/24</td>
+            <td>Tuesday</td>
+            <td></td>
+            <td><div class="project">Project time</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -598,7 +625,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/25</td>
             <td>Wednesday</td>
-            <td>Image processing II</td>
+            <td>Machine Learning II</td>
             <td><div class="hw"> HW6 due</div><div class="assignment"> HW7 assigned</div></td>
             <td></td>
             <td></td>
@@ -628,7 +655,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_odd"> W9 </th>
             <td>11/30</td>
             <td>Monday</td>
-            <td>Machine learning I </td>
+            <td>Machine learning III </td>
             <td></td>
             <td></td>
             <td></td>
@@ -637,7 +664,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>12/02</td>
             <td>Wednesday</td>
-            <td>Machine learning II</td>
+            <td>Image Processing I</td>
             <td><div class="hw"> HW7 due</div><div class="assignment"> HW8 assigned</div></td>
             <td></td>
             <td></td>
@@ -646,7 +673,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>12/04</td>
             <td>Friday</td>
-            <td>Machine learning III</td>
+            <td>Image Processing II</td>
             <td></td>
             <td></td>
             <td></td>
@@ -677,7 +704,10 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>12/11</td>
             <td>Friday</td>
             <td>Final exam review</td>
-            <td><div class="hw">EC essays due</div></td>
+            <td>
+                <div class="project">Projects due</div>
+                <div class="hw">EC essays due</div>
+            </td>
             <td></td>
             <td></td>
             <td></td>
