@@ -563,7 +563,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
             <td></td>
-            <td></td>
+            <td>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html">
+                    Introduction
+                </a>
+                <br>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html">
+                    Simple line plots
+                </a>
+                <br>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html">
+                    Simple scatter plots
+                </a>
+            </td>
         </tr>
     </tbody>
     <tbody class="week">
