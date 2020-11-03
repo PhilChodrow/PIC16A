@@ -550,15 +550,15 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Data visualization I</td>
             <td></td>
             <td>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_1.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/plt/plt_1.ipynb">
                     Matplotlib I
                 </a>
                 <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_2.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/plt/plt_2.ipynb">
                     Matplotlib II
                 </a>
                 <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_3.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/plt/plt_3.ipynb">
                     Matplotlib III
                 </a>
             </td>
@@ -585,9 +585,33 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Tabular data I</td>
             <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_1.ipynb">
+                    Pandas I
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_2.ipynb">
+                    Pandas II
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_3.ipynb">
+                    Pandas III
+                </a>
+            </td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html">
+                    Introduction
+                </a>
+                <br>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html">
+                    Pandas Objects
+                </a>
+                <br>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html">
+                    Indexing
+                </a>
+            </td>
         </tr>
         <tr>
             <td>11/17</td>
