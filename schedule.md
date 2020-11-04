@@ -601,7 +601,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td></td>
             <td>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html">
-                    Pandas Objects
+                    Pandas objects
                 </a>
                 <br>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html">
@@ -609,7 +609,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
                 <br>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html">
-                    String Operations
+                    String operations
                 </a>
             </td>
         </tr>
