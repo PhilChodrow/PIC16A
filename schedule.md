@@ -600,16 +600,16 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
             <td></td>
             <td>
-                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html">
-                    Introduction
-                </a>
-                <br>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html">
                     Pandas Objects
                 </a>
                 <br>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html">
                     Indexing
+                </a>
+                <br>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html">
+                    String Operations
                 </a>
             </td>
         </tr>
@@ -627,9 +627,21 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Wednesday</td>
             <td>Tabular data II</td>
             <td><div class="hw"> HW5 due</div><div class="assignment"> HW6 assigned</div></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_4.ipynb">
+                    Pandas IV
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_5.ipynb">
+                    Pandas V
+                </a>
+            </td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html">
+                    Aggregation and Grouping
+                </a>
+            </td>
         </tr>
         <tr>
             <td>11/19</td>
