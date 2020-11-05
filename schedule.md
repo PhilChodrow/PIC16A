@@ -655,10 +655,22 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/20</td>
             <td>Friday</td>
-            <td>Data visualization II</td>
+            <td>Machine Learning Theory</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_1.jpg">
+                    Basic Concepts
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_2.ipynb">
+                    Machine Learning by Hand
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/TOjJcMR053I">
+                    Basic Concepts
+                </a>
+            </td>
             <td></td>
         </tr>
     </tbody>
