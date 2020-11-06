@@ -598,7 +598,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Pandas III
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/e8jeluCJzTI">
+                    Pandas I
+                </a>
+                <br>
+                <a href="https://youtu.be/jw9yHCS0SZ8">
+                    Pandas II
+                </a>
+                <br>
+                <a href="https://youtu.be/RV8syujW5Tk">
+                    Pandas III
+                </a>
+            </td>
             <td>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html">
                     Pandas objects
@@ -636,7 +648,15 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Pandas V
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://youtu.be/Havu_hOOiZY">
+                    Pandas IV
+                </a>
+                <br>
+                <a href="https://youtu.be/k0pvvty_ePI">
+                    Pandas V
+                </a>
+            </td>
             <td>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html">
                     Aggregation and Grouping
