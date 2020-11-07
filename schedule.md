@@ -562,7 +562,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Matplotlib III
                 </a>
             </td>
-            <td></td>
+             <td>
+                <a href="https://youtu.be/g0-9oxrSjfw">
+                    Matplotlib I
+                </a>
+                <br>
+                <a href="https://youtu.be/9q3MW-aycmM">
+                    Matplotlib II
+                </a>
+                <br>
+                <a href="https://youtu.be/y7eWGzsrQOY">
+                    Matplotlib III
+                </a>
+            </td>
             <td>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html">
                     Introduction
