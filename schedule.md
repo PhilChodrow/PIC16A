@@ -550,15 +550,15 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Data visualization I</td>
             <td></td>
             <td>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/plt/plt_1.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_1.ipynb">
                     Matplotlib I
                 </a>
                 <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/plt/plt_2.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_2.ipynb">
                     Matplotlib II
                 </a>
                 <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/plt/plt_3.ipynb">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_3.ipynb">
                     Matplotlib III
                 </a>
             </td>
