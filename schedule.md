@@ -530,6 +530,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html">
                 Universal Functions
                 </a>
+                <br>
                 <a href = "https://jakevdp.github.io/PythonDataScienceHandbook/02.04-computation-on-arrays-aggregates.html">
                 Aggregation
                 </a>
@@ -687,23 +688,43 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/20</td>
             <td>Friday</td>
-            <td>Machine Learning Theory</td>
+            <td>Machine Learning I</td>
             <td></td>
             <td>
                 <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_1.jpg">
-                    Basic Concepts
+                    Fundamentals
                 </a>
                 <br>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_2.ipynb">
                     Machine Learning by Hand
                 </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_3.ipynb">
+                    From Concepts to Code
+                </a>
             </td>
             <td>
                 <a href="https://youtu.be/TOjJcMR053I">
-                    Basic Concepts
+                    Fundamentals
+                </a>
+                <br>
+                <a href="https://youtu.be/l-UkQoBlgek">
+                    Machine Learning by Hand
+                </a>
+                <br>
+                <a href="https://youtu.be/KRn6nxKunR8">
+                    From Concepts to Code
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html">
+                    Scikit-Learn Intro
+                </a>
+                <br>
+                <a href="http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf">
+                    Chapter 1: Intro to ML with Python
+                </a>
+            </td>
         </tr>
     </tbody>
     <tbody class="week">
@@ -711,11 +732,34 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="5" class="week_marker_even"> W8 </th>
             <td>11/23</td>
             <td>Monday</td>
-            <td>Machine Learning I</td>
+            <td>Machine Learning II</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_4.jpg">
+                    Overfitting 
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_5.ipynb">
+                    Prediction
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_6.ipynb">
+                    Cross-Validation and Testing
+                </a>
+            </td>
+            <td>
+                <td>
+                <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html">
+                    Hyperparameters and Validation
+                </a>
+                <br>
+                <a href="http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf">
+                    Chapter 2: Supervised Algorithms 
+                    <br>
+                    (optional, highly recommended for projects)
+                </a>
+            </td>
+            </td>
         </tr>
         <tr>
             <td>11/24</td>
@@ -729,7 +773,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>11/25</td>
             <td>Wednesday</td>
-            <td>Machine Learning II</td>
+            <td>Machine Learning III</td>
             <td><div class="hw"> HW6 due</div><div class="assignment"> HW7 assigned</div></td>
             <td></td>
             <td></td>
@@ -759,7 +803,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_odd"> W9 </th>
             <td>11/30</td>
             <td>Monday</td>
-            <td>Machine learning III </td>
+            <td>Machine learning IV </td>
             <td></td>
             <td></td>
             <td></td>
