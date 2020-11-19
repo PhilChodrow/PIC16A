@@ -736,11 +736,11 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td></td>
             <td>
                 <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_4.jpg">
-                    Overfitting 
+                    Overfitting I
                 </a>
                 <br>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_5.ipynb">
-                    Prediction
+                    Overfitting II
                 </a>
                 <br>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_6.ipynb">
@@ -748,7 +748,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
             <td>
-                <td>
+                <a href="https://youtu.be/8mO3DA4SFtQ">
+                    Overfitting I
+                </a>
+                <br>
+                <a href="https://youtu.be/d9B0YhdP2t4">
+                    Overfitting II
+                </a>
+                <br>
+                <a href="https://youtu.be/uXzxamAtFZw">
+                    Cross-Validation and Testing
+                </a>
+            </td>
+            <td>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html">
                     Hyperparameters and Validation
                 </a>
@@ -775,9 +787,27 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Wednesday</td>
             <td>Machine Learning III</td>
             <td><div class="hw"> HW6 due</div><div class="assignment"> HW7 assigned</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_7.jpg">
+                    Feature Selection
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_8.ipynb">
+                    Clustering
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/B80bDMItLYw">
+                    Feature Selection
+                </a>
+                <br>
+                <a href="https://youtu.be/xzyqXSLBJ9A">
+                    Clustering
+                </a>
+            </td>
+            <td>
+                <a href="https://blog.floydhub.com/introduction-to-k-means-clustering-in-python-with-scikit-learn/">Introduction to K-Means Clustering in Python</a>
+            </td>
         </tr>
         <tr>
             <td>11/26</td>
