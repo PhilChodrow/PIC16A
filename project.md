@@ -5,12 +5,9 @@ permalink: project/
 ---
 
 Part of your final assessment in PIC16A is via a **group mini-project.** In this project, you and your partners will perform and communicate about a complete data analysis of a real data set. 
-
-
-
 <div class="fancy-h1"> Timeline </div>
 
-You'll have three scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. Projects will be due on the last day of instruction, Friday, 12/11. 
+You'll have three scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. Projects are due on the last day of instruction, Friday, 12/11, and are submitted as a group. 
 
 There will also be homework assignments due during this time. Some of the homework problems will be specifically related to project tasks, and you are especially encouraged to work on these problems with your group members.  
 
@@ -25,7 +22,7 @@ Your project should contain the following sections:
 1. **Group Contributions Statement:** Briefly describe which group members contributed to which parts of the project (parts listed below). Here is an example of an acceptable Group Contributions statement. 
 > "All three of us wrote the data acquisition and preparation, Xenith led the exploratory analysis, Rodrigo and Essun led on modeling, all three of us wrote the discussion." 
 4. **Exploratory Analysis:** compute summary statistics and construct visualizations about the relationships between variables. You should explain how your analysis supports your modeling decisions below. Your exploratory analysis should include **at least 3 figures** and **at least 1 displayed table**. May include data loading, preparation and cleaning. *2-person groups need include only 2 figures and 1 table.* 
-5. **Modeling:** deploy at least three machine learning models and evaluate their performance. May include feature engineering. In this section, you should show how you systematically select your features to achieve optimal predictive accuracy. As part of your model evaluation, you are required to use your model(s) to make predictions on unseen (testing) data. You are required to use multinomial logistic regression and decision tree models. You must also select one additional model to deploy. Possibilities include but are not limited to random forests; support vector machines; nearest-neighbor classifiers; and neural networks. You will need to learn how to import and use the corresponding model. In your submission, you should describe briefly, for each model, how it works and why it is suitable for the task at hand. Your explanations don't need to be detailed -- give some intuition for someone who has never seen that model before. *2-person groups need include and discuss only the two required models.* 
+5. **Modeling:** deploy at least three machine learning models and evaluate their performance. Must include (cross)-validation and evaluation on unseen testing data. May include feature engineering. In this section, you should show how you systematically select your features to achieve optimal predictive accuracy. As part of your model evaluation, you are required to use your model(s) to make predictions on unseen (testing) data. You are required to use multinomial logistic regression and decision tree models. You must also select one additional model to deploy. Possibilities include but are not limited to random forests; support vector machines; nearest-neighbor classifiers; and neural networks. You will need to learn how to import and use the corresponding model. In your submission, you should describe briefly, for each model, how it works and why it is suitable for the task at hand. Your explanations don't need to be detailed -- give some intuition for someone who has never seen that model before. *2-person groups need include and discuss only the two required models.* 
 6. **Discussion:** describe the performance of your models, and state which combination of model and measurements you recommend. Discuss how the model could be improved if more or different data were available. Describe possible dangers associated with interpreting or using the model. 
 
 <div class="fancy-h1"> Project Evaluation </div>
@@ -36,7 +33,7 @@ Here's what I'm looking for:
 
 - 2 point for a clear and equitable **Group Contributions** statement.  
 - 3 points for **Exploratory Analysis**: A helpful exploratory analysis, including at least three figures and at least one table that support your decisions in the Modeling section. *2-person groups need include only 2 figures and 1 table.* 
-- 3 points for **Modeling**: A full modeling pipeline, in which you deploy three or more machine learning models, describe how they work at an intuitive level, train them on data, and systematically evaluate their performance. *2-person groups need include only the two required models.*
+- 3 points for **Modeling**: A full modeling pipeline, in which you deploy three or more machine learning models, describe how they work at an intuitive level, train them on data, and systematically evaluate their performance. Your evaluation methods should include both cross-validation to select a candidate model and evaluation on unseen testing data to evaluate its overall predictive power. *2-person groups need include only the two required models.*
 - 2 points for **Writing**: Clear expository writing of the analysis, including narrative text walking the reader through the analysis; description of how the models work; docstrings and comments; and a critical discussion in the final section. 
 
 *I will have slightly lower expectations for the writing component for 2-person groups, but not **much** lower.*
