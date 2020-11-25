@@ -735,7 +735,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Machine Learning II</td>
             <td></td>
             <td>
-                <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_4.jpg">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_4.ipynb">
                     Overfitting I
                 </a>
                 <br>
@@ -788,7 +788,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Machine Learning III</td>
             <td><div class="hw"> HW6 due</div><div class="assignment"> HW7 assigned</div></td>
             <td>
-                <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_7.jpg">
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/ML_7.ipynb">
                     Feature Selection
                 </a>
                 <br>
@@ -835,9 +835,25 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Machine learning IV </td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/digits.ipynb">
+                    Digits Case Study
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/bikeshare.ipynb">
+                    Bikeshare Case Study
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/H6YG4HMAZPU">
+                    Digits Case Study
+                </a>
+                <br>
+                <a href="https://youtu.be/VW4EqunOUL4">
+                    Bikeshare Case Study
+                </a>
+            </td>
+            <td>None.</td>
         </tr>
         <tr>
             <td>12/02</td>
