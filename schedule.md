@@ -771,7 +771,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     (optional, highly recommended for projects)
                 </a>
             </td>
-            </td>
         </tr>
         <tr>
             <td>11/24</td>
