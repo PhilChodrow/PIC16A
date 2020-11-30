@@ -829,7 +829,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="3" class="week_marker_odd"> W9 </th>
+            <th rowspan="4" class="week_marker_odd"> W9 </th>
             <td>11/30</td>
             <td>Monday</td>
             <td>Machine learning IV </td>
@@ -855,21 +855,65 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>None.</td>
         </tr>
         <tr>
-            <td>12/02</td>
-            <td>Wednesday</td>
-            <td>Image Processing I</td>
-            <td><div class="hw"> HW7 due</div><div class="assignment"> HW8 assigned</div></td>
+            <td>12/01</td>
+            <td>Tuesday</td>
+            <td></td>
+            <td><div class="project">Project time</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
+            <td>12/02</td>
+            <td>Wednesday</td>
+            <td>Natural Language Processing I</td>
+            <td><div class="hw"> HW7 due</div><div class="assignment"> HW8 assigned</div></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/NLP/NLP_1.ipynb">
+                    The Term-Document Matrix
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/NLP/NLP_2.ipynb">
+                    Topic Modeling
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/8Vl4mItZP-A">
+                    The Term-Document Matrix
+                </a>
+                <br>
+                <a href="https://youtu.be/uYdjxnlXDwU">
+                    Topic Modeling
+                </a>
+            </td>
+            <td>
+                <a href="https://medium.com/pew-research-center-decoded/an-intro-to-topic-models-for-text-analysis-de5aa3e72bdb">
+                    Topic Modeling (basics)
+                </a>
+                <a href="https://medium.com/pew-research-center-decoded/making-sense-of-topic-models-953a5e42854e">
+                    Topic Modeling (limitations)
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td>12/04</td>
             <td>Friday</td>
-            <td>Image Processing II</td>
+            <td>Natural Language Processing II</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/NLP/NLP_3.ipynb">
+                    Sentiment Analysis I & II
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/E9zPTJ96OOU">
+                    Sentiment Analysis I
+                </a>
+                <br>
+                <a href="https://youtu.be/8gzzg-ZFqZg">
+                    Sentiment Analysis II
+                </a>
+            </td>
             <td></td>
         </tr>
     </tbody>
@@ -878,7 +922,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="3" class="week_marker_even"> W10 </th>
             <td>12/07</td>
             <td>Monday</td>
-            <td>Natural language processing </td>
+            <td>Graphical Interfaces I </td>
             <td></td>
             <td></td>
             <td></td>
@@ -887,7 +931,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>12/09</td>
             <td>Wednesday</td>
-            <td>Graphical interfaces.</td>
+            <td>Graphical Interfaces II </td>
             <td><div class="hw"> HW8 due</div></td>
             <td></td>
             <td></td>
