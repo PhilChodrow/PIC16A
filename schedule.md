@@ -890,6 +890,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 <a href="https://medium.com/pew-research-center-decoded/an-intro-to-topic-models-for-text-analysis-de5aa3e72bdb">
                     Topic Modeling (basics)
                 </a>
+                <br>
                 <a href="https://medium.com/pew-research-center-decoded/making-sense-of-topic-models-953a5e42854e">
                     Topic Modeling (limitations)
                 </a>
