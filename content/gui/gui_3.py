@@ -1,12 +1,8 @@
-# Our next aim is to build a simple app that will 
-# accept user input and show useful output. 
-# Our app will be a penguin classifier: input some 
-# measurements of a penguin, and the classifier will
-# make an educated guess about the penguin's species. 
-# This means that we'll need to find a way to bring in
-# our machine learning expertise "under the hood" of the app.
-# Fortunately, that's actually quite easy to do. 
-# This time, our focus is simply on acquiring user input. 
+# Now, we are finally ready to incorporate a machine
+# learning model into our app. The main things we 
+# need to do are: (a) load in the model, (b) define
+# a way to update its predictions, and (c) add a button
+# that will call this function. 
 
 import tkinter as tk
 import pickle
@@ -173,7 +169,7 @@ answer_label = tk.Label(frame_answer,
                         bd=16, 
                         anchor="w",
                         textvariable=answer_var,
-                        bg = "white")  
+                        bg="white")  
  
 answer_label.grid(row=0, column=0)
 
