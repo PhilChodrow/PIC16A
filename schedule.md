@@ -915,7 +915,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Sentiment Analysis II
                 </a>
             </td>
-            <td></td>
+            <td>None.</td>
         </tr>
     </tbody>
     <tbody class="week">
@@ -925,18 +925,58 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Graphical Interfaces I </td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_1.py">
+                    Frames and Labels
+                </a>
+                <br>
+                <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_2.py">
+                    User Input
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/ggaysFr8JQ0">
+                    Frames and Labels
+                </a>
+                <br>
+                <a href="https://youtu.be/HHc6RZ3Cbwc">
+                    User Input
+                </a>
+            </td>
+            <td>
+                <a href="https://realpython.com/python-gui-tkinter/">
+                    Tkinter Tutorial
+                </a>
+            </td>
         </tr>
         <tr>
             <td>12/09</td>
             <td>Wednesday</td>
             <td>Graphical Interfaces II </td>
             <td><div class="hw"> HW8 due</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/gui/make_model.ipynb">
+                    Interlude: Pickling
+                </a>
+                <br>
+                <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_3.py">
+                    Adding ML
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/acvVpBq-8ck">
+                    Frames and Labels
+                </a>
+                <br>
+                <a href="https://youtu.be/10vR1eJlPfA">
+                    Adding ML
+                </a>
+            </td>
+            <td>
+                <a href="https://realpython.com/python-gui-tkinter/">
+                    Tkinter Tutorial
+                </a>
+            </td>
         </tr>
         <tr>
             <td>12/11</td>
@@ -955,4 +995,4 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
 
 # Final exam
 
-The final exam will take place on December 17th, 2020. It will be released at 8am on 12/17. The exam is intended to require approximately 3 hours of effort. You will have 24 hours to complete the the exam. This exam is open-book and open-notes. 
+The final exam will take place on December 17th, 2020. It will be released at 12:00am on 12/17 and will be due at 11:59pm on 12/17, both times Pacific. The exam is intended to require approximately 3 hours of effort. You will have 24 hours to complete the the exam. This exam is open-book and open-notes. 
