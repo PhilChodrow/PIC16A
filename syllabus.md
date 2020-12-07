@@ -6,37 +6,60 @@ permalink: syllabus/
 
 
 
-**Welcome to PIC16A!** I'm Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+**Welcome to PIC16A!** I'm Professor Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
   <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
 </figure>
 
-1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) are able to learn some cool stuff and get a good grade in this course. 
+1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) can learn some cool stuff and get a good grade in this course. 
 2. **None of us signed up for this.** We are all doing the best we can during a time of catastrophe and intense uncertainty. My main aims in designing this course are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your experience during these difficult times. 
-3. **Your wellbeing comes first.** If at any time during this course, you require accommodations in order to ensure your own wellbeing or that of a loved one, please reach out to me. We will make it happen. 
-4. **We've got your back.** I'll be available to you through multiple channels. Additionally, you have an amazing support team -- your TAs, LAs, and peers will all be helping you in your learning journey.  
+3. **Your wellbeing comes first.** If your wellbeing or that of a loved one comes into conflict with course obligations, I hope that you will attend to the former. 
+I've included a considerable amount of flexibility in this course. It is possible to completely miss roughly two weeks worth of quizzes and assignments without negatively impacting your grade. If you anticipate extended difficulties related to participation or assignments, reach out to me at the earliest opportunity. We'll make it happen. 
+4. **We've got your back.** As the instructor, I'm available to you through multiple channels. You also have an amazing support team---your TAs, LAs, and peers are all here to help you in your learning journey.  
 
-Ok, now on to the usual syllabus stuff. 
+We now return to your regularly scheduled syllabus. 
 
 <div class="fancy-h1"> Course Overview </div>
 
-This course covers the fundamental constructs of the Python programming language, and then surveys some tools often used in computational and data science. Together, we will:  
+Python is a powerful and intuitive programming language, used extensively throughout industry and academia alike. The first part of this course introduces core Python programming constructs, including data types, functions, and classes. The second part of this course includes several applications, with particular focus on data science, data visualization, and machine learning. This offering of PIC16A places special emphasis on collaborative and project-based learning. 
 
-1. Construct Python programs using functions, loops, classes, and other tools. 
-2. Use existing modules and self-written code to solve complex problems. 
-3. Make design decisions about the programming constructs best suited to a given problem. 
-4. Write *reusable* code, by encapsulating core operations in functions and classes, and documenting these constructs carefully. 
-5. Study problems and data sets from science, economics, politics, and literature. 
+## Primary Learning Goals
+
+1. **Programming Fundamentals**: You will use core Python data structures, functions, and object-oriented programming to solve complex problems.  
+2. **Applications**: You will use Python's package ecosystem to approach data science problems drawn from science, economics, politics, and literature. 
+3. **Code Quality**: You will create readable, documented, and reusable code. You will compare and evaluate multiple approaches to programming tasks.  
+
+
 
 You can also consult the provisional [course schedule](https://philchodrow.github.io/PIC16A/schedule/). 
 
-## Official course description ##
+## Official course description 
 
 *Lecture, three hours; discussion, two hours. Enforced requisite: course 10A, Computer Science 31, or equivalent, with grades of C- or better. Python programming and programming with Python packages. General Python programming constructs; standard data structures, flow control, exception handling, and input and output. Object oriented programming with Python. Application programming with commonly used Python modules such as PyQt or tkinter, NumPy, SciPy, and NLTK. P/NP or letter grading.*
 
+<div class="fancy-h1"> Learning Outcomes </div>
 
+Here is some of the stuff that you will be able to do by the end of PIC16A. 
 
+## Programming Fundamentals
+
+  - *Containers*: You will use lists and dictionaries to manage collections of data. 
+  - *Functions*: You will write reusable functions to perform complex, customized tasks. 
+  - *Object-oriented programming*: You will write custom classes and define their behavior, and use inheritance to extend their functionality. 
+
+## Applications
+
+- *Arrays and Vectorizaton*: You will use the Numpy and Pandas packages to efficiently manipulate arrays and data frames. 
+- *Data Visualization*: You will use the Matplotlib package to create insightful and attractive data graphics. 
+- *Machine Learning*: You will deploy and evaluate machine learning algorithms on real-world data sets. 
+- *Project*: You will collaboratively complete an extended project in which you analyze and make predictions on a real scientific data set. 
+
+## Code Quality
+
+- *Concision*: You will eliminate redundant code components and enclose reused code within functions. When operating on arrays and data frames, you will replace for-loops with vectorized functions. 
+- *Documentation*: You will carefully document your code with comments, docstrings, and surrounding text.
+- *Robustness*: You will use exceptions to appropriately inform the user about invalid inputs, and design unit tests to ensure the correct functioning of your functions and classes. 
 
 <div class="fancy-h1"> Basics </div>
 
@@ -47,11 +70,11 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 <dl>
 
 <dt>Discussion A&nbsp;</dt>
-<dd>TR, 1:00pm-1:50pm (Pacific Time)</dd>
+<dd>TR, 12:00pm-1:00pm (Pacific Time)</dd>
 <dt>Discussion B&nbsp;</dt>
-<dd>TR, 2:00pm-2:50pm (Pacific Time)</dd>
+<dd>TR, 1:00pm-2:00pm (Pacific Time)</dd>
 <dt>Lecture&nbsp;</dt>
-<dd>MWF, 1:00pm-1:50pm (Pacific Time)</dd>
+<dd>MWF, 12:00pm-1:00pm (Pacific Time)</dd>
 </dl>
 
 ## Course Team
@@ -68,8 +91,8 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> Mondays, 2:30pm-3:30pm </dd> 
-<dt> &nbsp;</dt> <dd>Tuesdays, 8:00pm-9:00pm (priority given to students outside the US) </dd>
+<dt>Phil </dt> <dd> TBD </dd> 
+<dt> &nbsp;</dt> <dd>TBD </dd>
 
 <dt> Kirill </dt> <dd>via Zoom, <b>TBD</b> </dd>
 </dl>
@@ -83,13 +106,13 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 25%</dd>
   <dt>Participation &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 10%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Mini-Project &nbsp;</dt>
-  <dd> 10%</dd>
+  <dd> 15%</dd>
   <dt>Midterm Exam &nbsp;</dt>
   <dd> 15%</dd>
   <dt>Final Exam &nbsp;</dt>
@@ -98,15 +121,15 @@ You can also consult the provisional [course schedule](https://philchodrow.githu
 
 ### Homework
 
-There will be approximately 8 homework assignments throughout the quarter. You should consult the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. The lowest two homework scores will be dropped. 
+There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. **The lowest two homework scores will be dropped.** 
 
 ### Participation
 
-Your participation score does **not** include lecture attendance. Attendance at scheduled lecture sessions is **encouraged but optional**. You can, in principle, achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, and both individual and group activities.
+Attendance at scheduled lecture sessions is **encouraged but optional**. You can, in principle, achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, supplementary lectures, and both individual and group activities.
 
-**Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). In this case, the preferred solution is for a group of students in similar circumstances to arrange an alternate meeting time. 
+**Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). Students in timezones outside the U.S. will generally be offered timezone exemptions, in which case they will work with a group of students in a similar situation at an alternate meeting time. 
 
-Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. I will send a questionnaire during Week 0 in which you can state inability to attend discussion sections. In this case, I will contact you and we will find alternative arrangements. The lowest five grades from discussion assignments will be dropped. 
+Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. The lowest four grades from discussion assignments will be dropped. You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/coding_expectations/) prior to the first Discussion section of the quarter.  
 
 ### Quizzes
 
