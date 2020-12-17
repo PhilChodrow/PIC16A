@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding Expectations
-permalink: milestones/
+permalink: coding_expectations/
 ---
 
 On this page, I outline my primary expectations for your submitted programming assignments at various points in the quarter. You may find it useful to check the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for concrete instructions on how to turn in work in this course. 

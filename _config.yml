@@ -6,7 +6,7 @@ baseurl: "/PIC16A/" # the subpath of your site, e.g. /blog/
 url: "http://philchodrow.github.io/PIC16A" # the base hostname & protocol for your site
 syllabus: "http://philchodrow.github.io/PIC16A/syllabus/"
 materials: "http://philchodrow.github.io/PIC16A/materials/"
-resources: "http://philchodrow.github.io/PIC16A/resources/" 
+tips: "http://philchodrow.github.io/PIC16A/tips/" 
 schedule: "http://philchodrow.github.io/PIC16A/schedule/" 
 project: "http://philchodrow.github.io/PIC16A/project/" 
 githubdir: "philchodrow/PIC16A"
