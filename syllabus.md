@@ -46,10 +46,12 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
   - *Containers*: You will use lists and dictionaries to manage collections of data. 
   - *Functions*: You will write reusable functions to perform complex, customized tasks. 
+  - *Control Flow*: You will use branching logic and loops to structure sophisticated programs. 
   - *Object-oriented programming*: You will write custom classes and define their behavior, and use inheritance to extend their functionality. 
 
 ## Applications
 
+- *Modules*: You will access and apply a wide variety of Python modules commonly used in software development, data analysis and computational science.
 - *Arrays and Vectorizaton*: You will use the Numpy and Pandas packages to efficiently manipulate arrays and data frames. 
 - *Data Visualization*: You will use the Matplotlib package to create insightful and attractive data graphics. 
 - *Machine Learning*: You will deploy and evaluate machine learning algorithms on real-world data sets. 
@@ -57,7 +59,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 ## Code Quality
 
-- *Concision*: You will eliminate redundant code components and enclose reused code within functions. When operating on arrays and data frames, you will replace for-loops with vectorized functions. 
+- *Concision*: You will eliminate redundant code components and enclose reused code within functions and manipulating arrays with vectorized tools. 
 - *Documentation*: You will carefully document your code with comments, docstrings, and surrounding text.
 - *Robustness*: You will use exceptions to appropriately inform the user about invalid inputs, and design unit tests to ensure the correct functioning of your functions and classes. 
 
@@ -83,9 +85,9 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Kirill Gura. Contact: <a href = "mailto:gura@math.ucla.edu">gura@math.ucla.edu</a> &nbsp;</dd>
+<dd> Aaron George (<em>they/them/theirs</em>). </dd>
 <dt> Learning Assistants &nbsp; </dt>
-<dd> TBD </dd>
+<dd> Matthew Pombo, Adhvaith Vijay </dd>
 </dl>
 
 ## Office Hours (via Zoom)
@@ -106,13 +108,13 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 25%</dd>
+  <dd> 30%</dd>
   <dt>Participation &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Mini-Project &nbsp;</dt>
-  <dd> 15%</dd>
+  <dd> 10%</dd>
   <dt>Midterm Exam &nbsp;</dt>
   <dd> 15%</dd>
   <dt>Final Exam &nbsp;</dt>
@@ -121,7 +123,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 ### Homework
 
-There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to document and submit your work. **The lowest two homework scores will be dropped.** 
+There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
 
 ### Participation
 
@@ -129,19 +131,19 @@ Attendance at scheduled lecture sessions is **encouraged but optional**. You can
 
 **Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). Students in timezones outside the U.S. will generally be offered timezone exemptions, in which case they will work with a group of students in a similar situation at an alternate meeting time. 
 
-Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. The lowest four grades from discussion assignments will be dropped. You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/coding_expectations/) prior to the first Discussion section of the quarter.  
+Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
 
 ### Quizzes
 
 All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
 
-Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
+Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
 
-The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+The lowest 5 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ### Mini-Project
 
-There will be a short group mini-project due at the end of the course. Working with your group, you will produce a small data science project in which you will read, explore, train machine learning models, and communicate your findings using a real data set. Several Discussion sections in the second half of the course will be devoted to helping you get started on the stages of this mini-project. The project will be designed to require approximately 3-5 hours of group coding sessions outside of class times. It will be possible to start on the project by the end of Week 7, and you will have all the tools you need to finish the project by the end of Week 9. 
+There will be a group mini-project due at the end of the course. Working with your group, you will produce a small data science project in which you will read, explore, train machine learning models, and communicate your findings using a real data set. Several Discussion sections in the second half of the course will be devoted to helping you get started on the stages of this mini-project. The project will be designed to require approximately 3-5 person-hours per group member outside of scheduled class times. It will be possible to start on the project by the end of Week 7, and you will have all the tools you need to finish the project by the end of Week 9. 
 
 ### Midterm Exam
 
