@@ -34,7 +34,7 @@ Python is a powerful and intuitive programming language, used extensively throug
 
 You can also consult the provisional [course schedule](https://philchodrow.github.io/PIC16A/schedule/). 
 
-## Official course description 
+## Official Course Description 
 
 *Lecture, three hours; discussion, two hours. Enforced requisite: course 10A, Computer Science 31, or equivalent, with grades of C- or better. Python programming and programming with Python packages. General Python programming constructs; standard data structures, flow control, exception handling, and input and output. Object oriented programming with Python. Application programming with commonly used Python modules such as PyQt or tkinter, NumPy, SciPy, and NLTK. P/NP or letter grading.*
 

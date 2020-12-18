@@ -41,7 +41,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>01/06</td>
             <td>Wednesday</td>
-            <td>Data types, lists</td>
+            <td>Data Types, Lists</td>
             <td></td>
             <td> 
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/basics/numbers.ipynb"> 
@@ -76,7 +76,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>01/08</td>
             <td>Friday</td>
-            <td>Control flow</td>
+            <td>Control Flow</td>
             <td></td>
             <td> 
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/basics/for_loops_and_comprehensions.ipynb"> 
@@ -112,7 +112,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/11</td>
             <td>Monday</td>
             <td>Collections</td>
-            <td><div class="assignment"> HW1 assigned</div></td>
+            <td></td>
             <td> 
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/basics/more_iterables.ipynb"> 
                     Collections
@@ -190,20 +190,28 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_even"> W3 </th>
+            <th rowspan="5" class="week_marker_even"> W3 </th>
         </tr>
         <tr>
             <td>01/18</td>
             <td>Monday</td>
             <td><b>Dr. Martin Luther King Jr. Holiday</b></td>
             <td>
-                <div class="hw">HW1 due</div> 
-                <div class="assignment"> HW2 assigned</div> 
             </td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td>01/19</td>
+            <td>Tuesday</td>
+            <td></td>
+            <td><div class="hw"> HW1 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>01/20</td>
             <td>Wednesday</td>
             <td>Object-Oriented Programming</td>
@@ -231,6 +239,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                     Python Tutorial 9.1-9.4
                 </a>
             </td>
+        </tr>
         <tr>
             <td>01/22</td>
             <td>Friday</td>
@@ -271,7 +280,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Iteration</td>
             <td>
                 <div class="hw">HW2 due</div> 
-                <div class="assignment"> HW3 assigned</div> 
             </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
@@ -394,7 +402,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Modules and Tests</td>
             <td>
                 <div class="hw">HW3 due</div> 
-                <div class="assignment"> HW4 assigned</div> 
             </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/modules.ipynb">
@@ -461,7 +468,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>02/05</td>
             <td>Friday</td>
-            <td>Midterm review</td>
+            <td>Midterm Review</td>
             <td>
                 <div class="hw">HW4 due</div> 
             </td>
@@ -477,7 +484,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>02/08</td>
             <td>Monday</td>
-            <td>No lecture</td>
+            <td>No Lecture</td>
             <td><div class="exam">Midterm exam</div></td>
             <td></td>
             <td></td>
@@ -486,7 +493,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>02/10</td>
             <td>Wednesday</td>
-            <td>Data visualization I</td>
+            <td>Data Visualization I</td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_1.ipynb">
@@ -531,8 +538,10 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>02/12</td>
             <td>Friday</td>
-            <td>Tabular data I</td>
-            <td><div class="assignment"> HW5 assigned</div><div class="project"> Project assigned</div></td>
+            <td>Tabular Data I</td>
+            <td>
+                <div class="project"> Project assigned</div>
+            </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_1.ipynb">
                     Pandas I
@@ -599,7 +608,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>02/17</td>
             <td>Wednesday</td>
-            <td>Tabular data II</td>
+            <td>Tabular Data II</td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_4.ipynb">
@@ -629,7 +638,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>02/18</td>
             <td>Thursday</td>
             <td></td>
-            <td><div class="project"> Project activity</div></td>
+            <td><div class="project"> Project Activity</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -638,7 +647,9 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>02/19</td>
             <td>Friday</td>
             <td>Machine Learning I</td>
-            <td><div class="hw"> HW5 due</div><div class="assignment"> HW6 assigned</div></td>
+            <td>
+                <div class="hw"> HW5 due</div>
+            </td>
             <td>
                 <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_1.jpg">
                     Fundamentals
@@ -760,8 +771,9 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>02/26</td>
             <td>Friday</td>
-            <td>Machine learning IV </td>
-            <td><div class="hw"> HW6 due</div><div class="assignment"> HW7 assigned</div></td>
+            <td>Machine Learning IV </td>
+            <td>
+                <div class="hw"> HW6 due</div>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/digits.ipynb">
                     Digits Case Study
@@ -844,33 +856,13 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>03/05</td>
             <td>Friday</td>
-            <td>Regular Expressions</td>
-            <td><div class="hw"> HW7 due</div><div class="assignment"> HW8 assigned</div></td>
+            <td>Algorithmic Bias</td>
             <td>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
-                    Regex I
-                </a>
-                <br>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_2.ipynb">
-                    Regex II
-                </a>
+                <div class="hw"> HW7 due</div>
             </td>
-            <td>
-                <a href="https://youtu.be/XTcSES2Ya_w">
-                    Regex I
-                </a>
-                <br>
-                <a href="https://youtu.be/z2EYSZ-xPJ4">
-                    Regex II
-                </a>
-            </td>
-            <td>
-                <a href = "https://regexone.com/">
-                RegexOne Tutorial
-                </a>
-                <br>
-                (through Lesson 9)
-            </td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
     <tbody class="week">
@@ -883,6 +875,14 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>More Regular Expressions</td>
             <td></td>
             <td>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
+                    Regex I
+                </a>
+                <br>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_2.ipynb">
+                    Regex II
+                </a>
+                <br>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_3.ipynb">
                     Regex III
                 </a>
@@ -898,6 +898,14 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 <br>
                 <a href="https://youtu.be/8KWirXCC-fA">
                     Regex IV
+                </a>
+                <br>
+                <a href="https://youtu.be/XTcSES2Ya_w">
+                    Regex I
+                </a>
+                <br>
+                <a href="https://youtu.be/z2EYSZ-xPJ4">
+                    Regex II
                 </a>
             </td>
             <td>
@@ -941,7 +949,10 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>03/12</td>
             <td>Friday</td>
             <td>Graphical Interfaces II </td>
-            <td><div class="hw"> HW8 due</div><div class="project">Project due</div></td>
+            <td>
+                <div class="hw"> HW8 due</div>
+                <div class="project">Project due</div>
+            </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/gui/make_model.ipynb">
                     Interlude: Pickling
