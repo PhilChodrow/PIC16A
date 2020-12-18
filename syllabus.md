@@ -108,9 +108,9 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 30%</dd>
+  <dd> 25%</dd>
   <dt>Participation &nbsp;</dt>
-  <dd> 10%</dd>
+  <dd> 15%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Mini-Project &nbsp;</dt>
