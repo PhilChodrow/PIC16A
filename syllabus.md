@@ -147,19 +147,21 @@ There will be a group mini-project due at the end of the course. Working with yo
 
 ### Midterm Exam
 
-The midterm exam will take place on Friday, October 30th. It will be released at 8am on the 10/30, and you will have 24 hours to complete it. The exam is intended to require approximately one hour of effort. This exam is open-book and open-notes.  
+The midterm exam will take place on Monday, February 8. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, February 9th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ### Final Exam
 
-The final exam for this course is scheduled for December 17th, 2020. The exame will be released at 8am on 12/17, and you will have 24 hours to complete it. The exam is intended to require approximately three hours of effort. This exam is open-book and open-notes.  
+The final exam for this course will take place during the standard final exam period, at a time TBD. The exam will be released at 8am, Pacific Time, on the scheduled day, and will be due at 7:59am, Pacific Time, on the following day. The exam is intended to require approximately three hours of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ### Extra Credit
 
-There are two ways to earn extra credit in PIC16A. 
+There are several ways to earn extra credit in PIC16A. 
 
 #### Essay
 
-At any time prior to the end of instruction (Friday, December 11, 2020), you may submit an essay of between 500 and 800 words (approximately two double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem; assess the current state of affairs; and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition; the impact of automation on social services for the poor; and the role of technology in combatting climate change. You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
+At any time prior to the end of instruction, you may submit an essay of between 900 and 1,200 words (3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem, assess the current state of affairs, and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition, the impact of automation on social services for the poor, and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics will likely receive only partial credit. 
+
+You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
 This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. 
 
@@ -182,9 +184,17 @@ You are free to use any sources to which you have access. If you are having trou
 - A [list of articles](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/) on bias in algorithms. This list is curated by Safiya Umoja Noble, author of [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) and faculty here at UCLA. 
 - Cathy O'Neil, author of the excellent book *Weapons of Math Destruction*, has a [blog](https://mathbabe.org/page/2/). Many of her posts are opinion pieces (and therefore unsuitable for citation), but she always provides links to primary material, which you can use. 
 
-#### Discussion Forum
+#### Campuswire 
 
-There is a discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.5% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 2% extra credit.
+There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.5% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
+
+#### Office Hours
+
+You can get extra credit just by coming to office hours! The first time you attend OH and ask me a question, you will receive 0.25% extra credit. 
+
+#### Course Feedback 
+
+There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each. 
 
 <div class="fancy-h1">Learning on Zoom</div>
 
