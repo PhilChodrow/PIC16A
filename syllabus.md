@@ -163,11 +163,11 @@ At any time prior to the end of instruction, you may submit an essay of between 
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
-This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. 
+This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. Please note that, because 3% is quite a lot of extra credit, I will tend to grade these essays quite strictly. Exceptional effort is required if you want all 3 points. 
 
-Your essay should satisfy the following criteria, **each of which is worth one point.**  
+Your essay should satisfy the following criteria.  
 
-- **Sources**: The essay should cite and elaborate on at least three news articles, blog posts, or other sources. Opinion articles do not count. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while at least two must be written. 
+- **Sources**: The essay should cite and elaborate on at least five news articles, scholarly journal articles, or other primary sources. Opinion articles do not count. Blog posts are generally unsuitable, but posts by established experts may be permissible; ask me if you're not sure. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while the remainder must be written. 
 - **Argument**: The essay should have a *thesis statement*, which is supported by the discussion of the sources. Several examples of successful thesis statements: 
     - *Taken together, these articles suggest that algorithmic surveillance of marginalized groups is only increasing with time.*
     - *Although studies have revealed significant biases in Google Search, more recent work suggests that these biases may be less important in practice than once believed.*
