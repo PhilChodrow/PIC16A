@@ -476,8 +476,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td></td>
             <td></td>
         </tr>
-        </tbody>
-        <tbody class="week">
+    </tbody>
+    <tbody class="week">
         <tr>
             <th rowspan="4" class="week_marker_odd"> W6 </th>
         </tr>
@@ -688,7 +688,9 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         </tr>
     </tbody>
     <tbody class="week">
-    <th rowspan="5" class="week_marker_odd"> W8</th>
+        <tr>
+            <th rowspan="5" class="week_marker_odd"> W8</th>
+        </tr>
         <tr>
             <td>02/22</td>
             <td>Monday</td>
@@ -774,6 +776,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Machine Learning IV </td>
             <td>
                 <div class="hw"> HW6 due</div>
+            </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/digits.ipynb">
                     Digits Case Study
