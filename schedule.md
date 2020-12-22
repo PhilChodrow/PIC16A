@@ -895,20 +895,20 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
             <td>
-                <a href="https://youtu.be/FMfTQcke158">
-                    Regex III
-                </a>
-                <br>
-                <a href="https://youtu.be/8KWirXCC-fA">
-                    Regex IV
-                </a>
-                <br>
                 <a href="https://youtu.be/XTcSES2Ya_w">
                     Regex I
                 </a>
                 <br>
                 <a href="https://youtu.be/z2EYSZ-xPJ4">
                     Regex II
+                </a>
+                <br>
+                <a href="https://youtu.be/FMfTQcke158">
+                    Regex III
+                </a>
+                <br>
+                <a href="https://youtu.be/8KWirXCC-fA">
+                    Regex IV
                 </a>
             </td>
             <td>
