@@ -166,7 +166,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/15</td>
             <td>Friday</td>
             <td>Functions</td>
-            <td></td>
+            <td><div class="hw"> HW1 due</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_3.ipynb"> 
                 Functions III
@@ -206,7 +206,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/19</td>
             <td>Tuesday</td>
             <td></td>
-            <td><div class="hw"> HW1 due</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -244,7 +244,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/22</td>
             <td>Friday</td>
             <td>Inheritance</td>
-            <td></td>
+            <td><div class="hw">HW2 due</div> </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/inheritance_I.ipynb">
                     Inheritance I
@@ -279,7 +279,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Iteration</td>
             <td>
-                <div class="hw">HW2 due</div> 
             </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
@@ -362,7 +361,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/29</td>
             <td>Friday</td>
             <td>More Numerical Computation</td>
-            <td></td>
+            <td><div class="hw">HW3 due</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_4.ipynb">
                     NumPy IV
@@ -401,7 +400,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Modules and Tests</td>
             <td>
-                <div class="hw">HW3 due</div> 
             </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/modules.ipynb">
