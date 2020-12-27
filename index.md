@@ -23,4 +23,4 @@ The first half of this course covers fundamental Python constructs, like data ty
 5. Study problems and data sets from science, economics, politics, and literature. 
 
 
-This offering of PIC16A in Fall 2020 uses a *flipped classroom* format, and thereby emphasizes active learning and group problem-solving.  
+This offering of PIC16A uses a *flipped classroom* format, and thereby emphasizes active learning and group problem-solving.  

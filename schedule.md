@@ -875,7 +875,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>03/08</td>
             <td>Monday</td>
-            <td>More Regular Expressions</td>
+            <td>Regular Expressions</td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
