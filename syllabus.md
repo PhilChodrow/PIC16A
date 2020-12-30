@@ -85,7 +85,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Aaron George (<em>they/them/theirs</em>). </dd>
+<dd> Erin George (<em>they/them/theirs</em>). </dd>
 <dt> Learning Assistants &nbsp; </dt>
 <dd> Matthew Pombo, Adhvaith Vijay </dd>
 </dl>
@@ -108,9 +108,9 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 25%</dd>
+  <dd> 20%</dd>
   <dt>Participation &nbsp;</dt>
-  <dd> 15%</dd>
+  <dd> 20%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Mini-Project &nbsp;</dt>
