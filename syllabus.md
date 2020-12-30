@@ -96,7 +96,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt>Phil </dt> <dd> TBD </dd> 
 <dt> &nbsp;</dt> <dd>TBD </dd>
 
-<dt> Kirill </dt> <dd>via Zoom, <b>TBD</b> </dd>
+<dt> Erin </dt> <dd>via Zoom, <b>TBD</b> </dd>
 </dl>
 
 
