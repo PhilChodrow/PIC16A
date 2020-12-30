@@ -120,7 +120,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 ### Homework
 
-There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
+There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
 
 ### Participation
 
