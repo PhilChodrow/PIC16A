@@ -99,9 +99,6 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Erin </dt> <dd>via Zoom, <b>TBD</b> </dd>
 </dl>
 
-
-
-
 <div class="fancy-h1"> Assessment</div>
 
 ## Core Rubric
@@ -163,7 +160,7 @@ At any time prior to the end of instruction, you may submit an essay of between 
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
-This essay will be graded out of 2 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 1.5 points, 1.5% will be added to your final average. Please note that, because 2% is quite a lot of extra credit, I will tend to grade these essays quite strictly. Exceptional effort is required if you want all the full 2 points. 
+This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. Please note that, because 3% is quite a lot of extra credit, I will tend to grade these essays quite strictly. Exceptional effort is required if you want all three points. 
 
 Your essay should satisfy the following criteria.  
 
