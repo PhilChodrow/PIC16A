@@ -1,0 +1,4 @@
+Boston is the capital of MA.
+Lansing is the capital of MI.
+Sacremento is the capital of CA.
+Raleigh is the captial of NC.
