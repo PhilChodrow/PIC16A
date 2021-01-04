@@ -85,7 +85,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Aaron George (<em>they/them/theirs</em>). </dd>
+<dd> Erin George (<em>they/them/theirs</em>). </dd>
 <dt> Learning Assistants &nbsp; </dt>
 <dd> Matthew Pombo, Adhvaith Vijay </dd>
 </dl>
@@ -96,11 +96,8 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt>Phil </dt> <dd> TBD </dd> 
 <dt> &nbsp;</dt> <dd>TBD </dd>
 
-<dt> Kirill </dt> <dd>via Zoom, <b>TBD</b> </dd>
+<dt> Erin </dt> <dd>via Zoom, <b>TBD</b> </dd>
 </dl>
-
-
-
 
 <div class="fancy-h1"> Assessment</div>
 
@@ -108,9 +105,9 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 25%</dd>
+  <dd> 20%</dd>
   <dt>Participation &nbsp;</dt>
-  <dd> 15%</dd>
+  <dd> 20%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Mini-Project &nbsp;</dt>
@@ -123,7 +120,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 ### Homework
 
-There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
+There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
 
 ### Participation
 
@@ -163,7 +160,7 @@ At any time prior to the end of instruction, you may submit an essay of between 
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
-This essay will be graded out of 2 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 1.5 points, 1.5% will be added to your final average. Please note that, because 2% is quite a lot of extra credit, I will tend to grade these essays quite strictly. Exceptional effort is required if you want all the full 2 points. 
+This essay will be graded out of 3 points, and the result will be added as a percentage to your final average in the course. For instance, if your essay earns 2 points, 2% will be added to your final average. Please note that, because 3% is quite a lot of extra credit, I will tend to grade these essays quite strictly. Exceptional effort is required if you want all three points. 
 
 Your essay should satisfy the following criteria.  
 
