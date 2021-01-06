@@ -166,7 +166,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/15</td>
             <td>Friday</td>
             <td>Functions</td>
-            <td></td>
+            <td><div class="hw"> HW1 due</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_3.ipynb"> 
                 Functions III
@@ -206,7 +206,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/19</td>
             <td>Tuesday</td>
             <td></td>
-            <td><div class="hw"> HW1 due</div></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -244,7 +244,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/22</td>
             <td>Friday</td>
             <td>Inheritance</td>
-            <td></td>
+            <td><div class="hw">HW2 due</div> </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/inheritance_I.ipynb">
                     Inheritance I
@@ -279,7 +279,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Iteration</td>
             <td>
-                <div class="hw">HW2 due</div> 
             </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/Iterators_1.ipynb">
@@ -362,7 +361,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>01/29</td>
             <td>Friday</td>
             <td>More Numerical Computation</td>
-            <td></td>
+            <td><div class="hw">HW3 due</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_4.ipynb">
                     NumPy IV
@@ -401,7 +400,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Monday</td>
             <td>Modules and Tests</td>
             <td>
-                <div class="hw">HW3 due</div> 
             </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/modules.ipynb">
@@ -476,8 +474,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td></td>
             <td></td>
         </tr>
-        </tbody>
-        <tbody class="week">
+    </tbody>
+    <tbody class="week">
         <tr>
             <th rowspan="4" class="week_marker_odd"> W6 </th>
         </tr>
@@ -688,7 +686,9 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         </tr>
     </tbody>
     <tbody class="week">
-    <th rowspan="5" class="week_marker_odd"> W8</th>
+        <tr>
+            <th rowspan="5" class="week_marker_odd"> W8</th>
+        </tr>
         <tr>
             <td>02/22</td>
             <td>Monday</td>
@@ -774,6 +774,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>Machine Learning IV </td>
             <td>
                 <div class="hw"> HW6 due</div>
+            </td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/digits.ipynb">
                     Digits Case Study
@@ -872,7 +873,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
         <tr>
             <td>03/08</td>
             <td>Monday</td>
-            <td>More Regular Expressions</td>
+            <td>Regular Expressions</td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
@@ -892,20 +893,20 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
             <td>
-                <a href="https://youtu.be/FMfTQcke158">
-                    Regex III
-                </a>
-                <br>
-                <a href="https://youtu.be/8KWirXCC-fA">
-                    Regex IV
-                </a>
-                <br>
                 <a href="https://youtu.be/XTcSES2Ya_w">
                     Regex I
                 </a>
                 <br>
                 <a href="https://youtu.be/z2EYSZ-xPJ4">
                     Regex II
+                </a>
+                <br>
+                <a href="https://youtu.be/FMfTQcke158">
+                    Regex III
+                </a>
+                <br>
+                <a href="https://youtu.be/8KWirXCC-fA">
+                    Regex IV
                 </a>
             </td>
             <td>
