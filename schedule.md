@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Schedule (Winter 2020)
+title: Course Schedule (Winter 2021)
 permalink: schedule/
 ---
 
