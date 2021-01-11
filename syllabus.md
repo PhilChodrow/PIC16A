@@ -130,6 +130,10 @@ Attendance at scheduled lecture sessions is **encouraged but optional**. You can
 
 Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
 
+#### Missing a Discussion Section 
+
+Generally speaking, if you miss a Discussion section, you can simply use one of your drops. It is still advisable to review the material, but your grade will not be affected. However, if you know of a conflict with your scheduled Discussion in advance, you can also contact your group. **If your group unanimously agrees**, you may (a) notify the TA and (b) meet outside your scheduled Discussion section that day. You will still need to submit the worksheet by the stated deadline on CCLE, which is usually 24 hours after Discussion A begins. 
+
 ### Quizzes
 
 All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
