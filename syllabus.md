@@ -93,10 +93,11 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> TBD </dd> 
-<dt> &nbsp;</dt> <dd>TBD </dd>
+<dt>Phil </dt> <dd> Wednesdays at 8pm (priority international) </dd> 
+<dt> &nbsp;</dt> <dd>Thursdays at 2pm </dd>
 
-<dt> Erin </dt> <dd>via Zoom, <b>TBD</b> </dd>
+<dt> Erin </dt> <dd>Tuesdays at 10am </dd>
+<dt> &nbsp;</dt> <dd>Thursdays at 10am </dd>
 </dl>
 
 <div class="fancy-h1"> Assessment</div>
