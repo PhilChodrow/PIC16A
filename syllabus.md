@@ -100,6 +100,10 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> &nbsp;</dt> <dd>Thursdays at 10am </dd>
 </dl>
 
+## Waitlist Policy
+
+All students on the waitlist will be enrolled in the course at the end of Week 2. Waitlisted students are expected to keep up with all course activities and assignments. If you join the waitlist during the first two weeks, contact me to discuss make-up work. 
+
 <div class="fancy-h1"> Assessment</div>
 
 ## Core Rubric
