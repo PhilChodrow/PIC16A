@@ -93,11 +93,16 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> TBD </dd> 
-<dt> &nbsp;</dt> <dd>TBD </dd>
+<dt>Phil </dt> <dd> Wednesdays at 8pm (priority international) </dd> 
+<dt> &nbsp;</dt> <dd>Thursdays at 2pm </dd>
 
-<dt> Erin </dt> <dd>via Zoom, <b>TBD</b> </dd>
+<dt> Erin </dt> <dd>Tuesdays at 10am </dd>
+<dt> &nbsp;</dt> <dd>Thursdays at 10am </dd>
 </dl>
+
+## Waitlist Policy
+
+All students on the waitlist will be enrolled in the course at the end of Week 2. Waitlisted students are expected to keep up with all course activities and assignments. If you join the waitlist during the first two weeks, contact me to discuss make-up work. 
 
 <div class="fancy-h1"> Assessment</div>
 
@@ -129,6 +134,10 @@ Attendance at scheduled lecture sessions is **encouraged but optional**. You can
 **Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). Students in timezones outside the U.S. will generally be offered timezone exemptions, in which case they will work with a group of students in a similar situation at an alternate meeting time. 
 
 Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
+
+#### Missing a Discussion Section 
+
+Generally speaking, if you miss a Discussion section, you can simply use one of your drops. It is still advisable to review the material, but your grade will not be affected. However, if you know of a conflict with your scheduled Discussion in advance, you can also contact your group. **If your group unanimously agrees**, you may (a) notify the TA and (b) meet outside your scheduled Discussion section that day. You will still need to submit the worksheet by the stated deadline on CCLE, which is usually 24 hours after Discussion A begins. 
 
 ### Quizzes
 
