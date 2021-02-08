@@ -263,6 +263,10 @@ If you are struggling with a problem on a homework assignment, or wondering abou
 
 If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in PIC16A. 
 
+## Advice and Recommendation Letters
+
+I am always happy to talk with you about your future plans, including internships, REUs, and graduate school applications. You are also always welcome to ask me to write a recommendation letter supporting your applications. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in Live Lecture or OH. 
+
 ## Screen Reader Accessibility
 
 It is my sincere goal to ensure that this course is accessible to users of screen readers. It has come to my attention that, the posted lecture notes, it may at times be difficult for screen reader users to distinguish between code input and code output. I have done the following: 
