@@ -145,7 +145,7 @@ All traditional lectures will be pre-recorded and available online. Each lecture
 
 Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
 
-The lowest 5 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ### Mini-Project
 
@@ -262,6 +262,10 @@ If you are struggling with a problem on a homework assignment, or wondering abou
 ## General Academic Concerns
 
 If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in PIC16A. 
+
+## Advice and Recommendation Letters
+
+I am always happy to talk with you about your future plans, including internships, REUs, and graduate school applications. You are also always welcome to ask me to write a recommendation letter supporting your applications. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in Live Lecture or OH. 
 
 ## Screen Reader Accessibility
 
