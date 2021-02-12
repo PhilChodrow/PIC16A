@@ -123,11 +123,22 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
   <dd> 25%</dd>
 </dl>
 
-### Homework
+## Grading Philosophy
+
+I do not grade on the basis of ranks or other distributional information. Your final letter grade in this course is a reflection of your own effort, learning, and teamwork. If every student fully meets my expectations along these axes, then I will not hesitate to give every student an A. 
+
+Concretely, your final letter grade in PIC16A is based on the following two factors: 
+
+1. **Your final course average.** I use the straight scale as a minimum, and reserve the right to be more generous. For example, if you achieve a final average of a 92 in the course, that guarantees you at least an A-. The only exception is the A+ grade, which is not guaranteed by any numerical average. I am very stingy with these and only give them out to students who have shown exceptional teamwork and creativity, in addition to ending the quarter with a very high average.
+2. **My professional assessment of your learning.** This is the "extra" that could push that A- to an A. You will have an opportunity on the final exam to reflect on your time in the course and share with me any information about your learning that may not be reflected in your numerical average.
+
+Thus, **you are not competing against your peers for grades.** This means that you don't hurt your own prospects when you help your peers understand a concept. Indeed, just the opposite -- when reasonably possible, I will reward exceptional collaboration. 
+
+## Homework
 
 There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
 
-### Participation
+## Participation
 
 Attendance at scheduled lecture sessions is **encouraged but optional**. You can, in principle, achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, supplementary lectures, and both individual and group activities.
 
@@ -135,11 +146,11 @@ Attendance at scheduled lecture sessions is **encouraged but optional**. You can
 
 Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
 
-#### Missing a Discussion Section 
+### Missing a Discussion Section 
 
 Generally speaking, if you miss a Discussion section, you can simply use one of your drops. It is still advisable to review the material, but your grade will not be affected. However, if you know of a conflict with your scheduled Discussion in advance, you can also contact your group. **If your group unanimously agrees**, you may (a) notify the TA and (b) meet outside your scheduled Discussion section that day. You will still need to submit the worksheet by the stated deadline on CCLE, which is usually 24 hours after Discussion A begins. 
 
-### Quizzes
+## Quizzes
 
 All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
 
@@ -147,23 +158,23 @@ Quizzes are timed, and typically allow approximately 5 minutes per question. Qui
 
 The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
-### Mini-Project
+## Project
 
-There will be a group mini-project due at the end of the course. Working with your group, you will produce a small data science project in which you will read, explore, train machine learning models, and communicate your findings using a real data set. Several Discussion sections in the second half of the course will be devoted to helping you get started on the stages of this mini-project. The project will be designed to require approximately 3-5 person-hours per group member outside of scheduled class times. It will be possible to start on the project by the end of Week 7, and you will have all the tools you need to finish the project by the end of Week 9. 
+There will be a group project due at the end of the course. Working with your group, you will produce a small data science project in which you will read, explore, train machine learning models, and communicate your findings using a real data set. Several Discussion sections in the second half of the course will be devoted to helping you get started on the stages of this project. The project will be designed to require approximately 3-5 person-hours per group member outside of scheduled class times. It will be possible to start on the project by the end of Week 7, and you will have all the tools you need to finish the project by the end of Week 9. 
 
-### Midterm Exam
+## Midterm Exam
 
 The midterm exam will take place on Monday, February 8. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, February 9th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
-### Final Exam
+## Final Exam
 
 The final exam for this course will take place during the standard final exam period, at a time TBD. The exam will be released at 8am, Pacific Time, on the scheduled day, and will be due at 7:59am, Pacific Time, on the following day. The exam is intended to require approximately three hours of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
-### Extra Credit
+## Extra Credit
 
 There are several ways to earn extra credit in PIC16A. 
 
-#### Essay
+### Essay
 
 At any time prior to the end of instruction, you may submit an essay of between 900 and 1,200 words (3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem, assess the current state of affairs, and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition, the impact of automation on social services for the poor, and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics will likely receive only partial credit. 
 
@@ -190,15 +201,15 @@ You are free to use any sources to which you have access. If you are having trou
 - A [list of articles](https://blog.getpocket.com/2020/06/the-bias-embedded-in-algorithms/) on bias in algorithms. This list is curated by Safiya Umoja Noble, author of [Algorithms of Oppression: How Search Engines Reinforce Racism](https://nyupress.org/9781479837243/algorithms-of-oppression/) and faculty here at UCLA. 
 - Cathy O'Neil, author of the excellent book *Weapons of Math Destruction*, has a [blog](https://mathbabe.org/page/2/). Many of her posts are opinion pieces (and therefore unsuitable for citation), but she always provides links to primary material, which you can use. 
 
-#### Campuswire 
+### Campuswire 
 
 There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.25% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
 
-#### Office Hours
+### Office Hours
 
 You can get extra credit just by coming to office hours! The first time you attend OH and ask me a question, you will receive 0.25% extra credit. 
 
-#### Course Feedback 
+### Course Feedback 
 
 There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each. 
 
