@@ -1,0 +1,8 @@
+1) Hello and Numbers
+2) Strings
+3) Lists
+4) For loops
+5) While and If
+6) More Iterable Objects
+7) Dictionaries
+8) Mutable Objects how python works
