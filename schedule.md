@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Course Schedule (Winter 2021)
+title: Course Schedule (Spring 2021)
 permalink: schedule/
 ---
-
-All assignments, including homework and quizzes, are due at 11:59pm, Pacific Time, on the stated day. 
 
 <br>
 
@@ -756,7 +754,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="6" class="week_marker_odd"> W8</th>
         </tr>
         <tr>
-            <td>05/16</td>
+            <td>05/17</td>
             <td>Monday</td>
             <td>Machine Learning III</td>
             <td></td>
