@@ -4,9 +4,7 @@ title: Syllabus
 permalink: syllabus/
 ---
 
-
-
-**Welcome to PIC16A!** I'm Professor Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+**Welcome to PIC16A!** I'm Professor Phil Chodrow and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
   <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
@@ -85,19 +83,19 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Erin George (<em>they/them/theirs</em>). </dd>
+<dd> Hedi Xia. </dd>
 <dt> Learning Assistants &nbsp; </dt>
-<dd> Matthew Pombo, Adhvaith Vijay </dd>
+<dd> TBD </dd>
 </dl>
 
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> Wednesdays at 8pm (priority international) </dd> 
-<dt> &nbsp;</dt> <dd>Thursdays at 2pm </dd>
+<dt>Phil </dt> <dd> TBD </dd> 
+<dt> &nbsp;</dt> <dd>TBD </dd>
 
-<dt> Erin </dt> <dd>Tuesdays at 10am </dd>
-<dt> &nbsp;</dt> <dd>Thursdays at 10am </dd>
+<dt> Hedi </dt> <dd>TBD </dd>
+<dt> &nbsp;</dt> <dd>TBD </dd>
 </dl>
 
 ## Waitlist Policy
@@ -110,7 +108,7 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 30%</dd>
   <dt>Participation &nbsp;</dt>
   <dd> 20%</dd>
   <dt>Quizzes &nbsp;</dt>
@@ -118,9 +116,9 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
   <dt>Mini-Project &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Midterm Exam &nbsp;</dt>
-  <dd> 15%</dd>
+  <dd> 10%</dd>
   <dt>Final Exam &nbsp;</dt>
-  <dd> 25%</dd>
+  <dd> 20%</dd>
 </dl>
 
 ## Grading Philosophy
@@ -133,6 +131,8 @@ Concretely, your final letter grade in PIC16A is based on the following two fact
 2. **My professional assessment of your learning.** This is the "extra" that could push that A- to an A. You will have an opportunity on the final exam to reflect on your time in the course and share with me any information about your learning that may not be reflected in your numerical average.
 
 Thus, **you are not competing against your peers for grades.** This means that you don't hurt your own prospects when you help your peers understand a concept. Indeed, just the opposite -- when reasonably possible, I will reward exceptional collaboration. 
+
+> We are all on the same team here. 
 
 ## Homework
 
@@ -156,7 +156,7 @@ All traditional lectures will be pre-recorded and available online. Each lecture
 
 Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
 
-The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+**The lowest 5 quiz grades will be dropped.** Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ## Project
 
@@ -164,7 +164,7 @@ There will be a group project due at the end of the course. Working with your gr
 
 ## Midterm Exam
 
-The midterm exam will take place on Monday, February 8. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, February 9th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
+The midterm exam will take place on Monday, May 3rd. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, February 9th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ## Final Exam
 
