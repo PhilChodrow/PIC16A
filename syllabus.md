@@ -270,7 +270,7 @@ Send me an email! Your email should clearly indicate  when you need the letter, 
 
 ### When I Won't Write a Letter
 
-As a matter of moral principle, I will not write letters of recommendation for programs or jobs involving any of the following:
+As a matter of moral principle, I will not write letters of recommendation for programs or jobs with significant components supporting any of the following: 
 
 - Policing (including but not limited to predictive policing, development of algorithms that predict recidivism, etc.);
 - Military applications (such as internships at the Department of Defense or any of its international counterparts);
@@ -281,11 +281,6 @@ I am very happy to discuss this policy with any student who has questions. Conve
 
 The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
-### Asking for a Letter
-
-
-
-Having understood that, if you need me to write a letter for you, please send me an email! 
 
 
 <div class="fancy-h1"> Getting Help </div>
