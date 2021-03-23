@@ -164,7 +164,7 @@ There will be a group project due at the end of the course. Working with your gr
 
 ## Midterm Exam
 
-The midterm exam will take place on Monday, May 3rd. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, February 9th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
+The midterm exam will take place on Monday, May 3rd. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, May 4th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ## Final Exam
 
