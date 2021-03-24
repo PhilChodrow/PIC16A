@@ -43,4 +43,4 @@ These cheatsheets are assembled by DataCamp, a company that produces online tuto
 ## Helpful Readings
 
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/). Not so much a "cheatsheet" as a very rapid review of many fundamental concepts, including a convenient table of contents. 
-- [*A Whirlwind Tour of Python*](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) by Jake VanderPlas. A sequence of online notebooks covering Python basics, with an eye towards data science. Inspiration for several lectures in the first part of the course. 
+- [*A Whirlwind Tour of Python*](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas. A sequence of online notebooks covering Python basics, with an eye towards data science. Inspiration for several lectures in the first part of the course. 
