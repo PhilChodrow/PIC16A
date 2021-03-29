@@ -24,7 +24,7 @@ Especially later in the course, you'll know multiple ways to solve problems. Whe
 
 ## Jupyter Notebook
 
-The website Real Python has an [excellent introduction](https://realpython.com/jupyter-notebook-introduction/) to the Jupyter Notebook environment. You can ignore the installation instructions, since we installed our Jupyter Notebook through Anaconda. You don't need to use the command line utility `nbconvert` to change your notebook into a PDF: see the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for the recommended way. 
+The website Real Python has an [excellent introduction](https://realpython.com/jupyter-notebook-introduction/) to the Jupyter Notebook environment. You can ignore the installation instructions, since we installed our Jupyter Notebook through Anaconda. You don't need to use the command line utility `nbconvert` to change your notebook into a PDF: see the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for the recommended way. 
 
 Make sure that you're clear on how to create and run both code and Markdown cells. 
 
