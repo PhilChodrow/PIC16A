@@ -154,7 +154,7 @@ Generally speaking, if you miss a Discussion section, you can simply use one of 
 
 All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
 
-Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
+Quizzes are timed for 30 minutes. They are due at 10:00am on the day following lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 30-minute period that ends before 10:00am the following Thursday. 
 
 **The lowest 7 quiz grades will be dropped.** Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
@@ -250,7 +250,8 @@ There will be several surveys throughout the quarter which allow you to give me 
 
 <div class="fancy-h1"> Collaboration and Academic Honesty</div>
 
-I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions *at a conceptual level.* In general, **you should not share code with your peers** in any circumstances, as this deprives them of the opportunity to learn how to operationalize their ideas. 
+I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions at a conceptual level. Sharing code is usually ok, but should usually be minimized. That is, you should attempt to share the smallest amount of code possible that would help you ask your question or answer someone else's question. Additionally, you should discuss to ensure that everyone understands what's going on! **Blind copy/paste won't help anyone learn.** 
+
 
 The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
 
