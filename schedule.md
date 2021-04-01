@@ -830,12 +830,12 @@ permalink: schedule/
             <td></td>
             <td></td>
             <td>
-                <a href="https://youtu.be/S-6YGPrmtYc">
-                    Getting Specific About Algorithmic Bias (Rachel Thomas)
+                <a href="https://youtu.be/Ok5sKLXqynQ">
+                    Are We Automating Algorithmic Bias? (Glad You Asked)
                 </a>
                 <br>
-                <a href="https://youtu.be/Y6fUc5_whX8">
-                    Race, Technology, and Algorithmic Bias (Joy Buolamwini, Latanya Sweeney, and Darren Walker)
+                <a href="https://youtu.be/S-6YGPrmtYc">
+                    Getting Specific About Algorithmic Bias (Rachel Thomas)
                 </a>
             </td>
             <td></td>
