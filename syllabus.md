@@ -91,11 +91,10 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> TBD </dd> 
-<dt> &nbsp;</dt> <dd>TBD </dd>
+<dt>Phil </dt> <dd> Wednesdays, 8pm-9pm (priority international) </dd> 
+<dt> &nbsp;</dt> <dd>Thursdays, 2pm-3pm (priority US timezones) </dd>
 
-<dt> Hedi </dt> <dd>TBD </dd>
-<dt> &nbsp;</dt> <dd>TBD </dd>
+<dt> Hedi </dt> <dd>Mondays, 3pm-5pm </dd>
 </dl>
 
 ## Waitlist Policy
