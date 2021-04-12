@@ -24,7 +24,7 @@ Especially later in the course, you'll know multiple ways to solve problems. Whe
 
 ## Jupyter Notebook
 
-The website Real Python has an [excellent introduction](https://realpython.com/jupyter-notebook-introduction/) to the Jupyter Notebook environment. You can ignore the installation instructions, since we installed our Jupyter Notebook through Anaconda. You don't need to use the command line utility `nbconvert` to change your notebook into a PDF: see the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/w1/expectations_for_assignments.ipynb) for the recommended way. 
+The website Real Python has an [excellent introduction](https://realpython.com/jupyter-notebook-introduction/) to the Jupyter Notebook environment. You can ignore the installation instructions, since we installed our Jupyter Notebook through Anaconda. You don't need to use the command line utility `nbconvert` to change your notebook into a PDF: see the [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for the recommended way. 
 
 Make sure that you're clear on how to create and run both code and Markdown cells. 
 
@@ -43,4 +43,4 @@ These cheatsheets are assembled by DataCamp, a company that produces online tuto
 ## Helpful Readings
 
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/). Not so much a "cheatsheet" as a very rapid review of many fundamental concepts, including a convenient table of contents. 
-- [*A Whirlwind Tour of Python*](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) by Jake VanderPlas. A sequence of online notebooks covering Python basics, with an eye towards data science. Inspiration for several lectures in the first part of the course. 
+- [*A Whirlwind Tour of Python*](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas. A sequence of online notebooks covering Python basics, with an eye towards data science. Inspiration for several lectures in the first part of the course. 

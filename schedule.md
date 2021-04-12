@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Course Schedule (Winter 2021)
+title: Course Schedule (Spring 2021)
 permalink: schedule/
 ---
-
-All assignments, including homework and quizzes, are due at 11:59pm, Pacific Time, on the stated day. 
 
 <br>
 
@@ -24,7 +22,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="4" class="week_marker_even"> W1 </th>
         </tr>
         <tr>
-            <td>01/04</td>
+            <td>03/29</td>
             <td>Monday</td>
             <td>Welcome!</td>
             <td><a href="https://docs.anaconda.com/anaconda/install/"> Install Anaconda</a></td>
@@ -39,7 +37,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>01/06</td>
+            <td>03/31</td>
             <td>Wednesday</td>
             <td>Data Types, Lists</td>
             <td></td>
@@ -74,7 +72,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>01/08</td>
+            <td>04/02</td>
             <td>Friday</td>
             <td>Control Flow</td>
             <td></td>
@@ -106,10 +104,10 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_odd"> W2 </th>
+            <th rowspan="5" class="week_marker_odd"> W2 </th>
         </tr>
         <tr>
-            <td>01/11</td>
+            <td>04/05</td>
             <td>Monday</td>
             <td>Collections</td>
             <td></td>
@@ -137,7 +135,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>   
-            <td>01/13</td>
+            <td>04/07</td>
             <td>Wednesday</td>
             <td>Functions</td>
             <td></td>
@@ -163,10 +161,21 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td><a href="https://docs.python.org/3/tutorial/controlflow.html#defining-functions">Python Tutorial 4.6-7</a></td>
         </tr>
         <tr>
-            <td>01/15</td>
+            <td>04/08</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="hw"> HW1 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04/09</td>
             <td>Friday</td>
             <td>Functions</td>
-            <td><div class="hw"> HW1 due</div></td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_3.ipynb"> 
                 Functions III
@@ -193,27 +202,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="5" class="week_marker_even"> W3 </th>
         </tr>
         <tr>
-            <td>01/18</td>
+            <td>04/12</td>
             <td>Monday</td>
-            <td><b>Dr. Martin Luther King Jr. Holiday</b></td>
-            <td>
-            </td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>01/19</td>
-            <td>Tuesday</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>01/20</td>
-            <td>Wednesday</td>
             <td>Object-Oriented Programming</td>
             <td></td>
             <td>
@@ -241,10 +231,10 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>01/22</td>
-            <td>Friday</td>
+            <td>04/14</td>
+            <td>Wednesday</td>
             <td>Inheritance</td>
-            <td><div class="hw">HW2 due</div> </td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/object_oriented_programming/inheritance_I.ipynb">
                     Inheritance I
@@ -269,14 +259,20 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
         </tr>
-    </tbody>
-    <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_odd"> W4 </th>
+            <td>04/15</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="hw"> HW2 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>01/25</td>
-            <td>Monday</td>
+            <td>04/16</td>
+            <td>Friday</td>
             <td>Iteration</td>
             <td>
             </td>
@@ -312,8 +308,24 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td></td>
             <td></td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>01/27</td>
+            <th rowspan="5" class="week_marker_odd"> W4 </th>
+        </tr>
+        <tr>
+            <td>04/19</td>
+            <td>Monday</td>
+            <td><i>Take a break! </i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04/21</td>
             <td>Wednesday</td>
             <td>Numerical Computation</td>
             <td></td>
@@ -358,10 +370,21 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>01/29</td>
+            <td>04/22</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="hw"> HW3 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04/23</td>
             <td>Friday</td>
             <td>More Numerical Computation</td>
-            <td><div class="hw">HW3 due</div></td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/numpy_4.ipynb">
                     NumPy IV
@@ -393,10 +416,10 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_even"> W5 </th>
+            <th rowspan="5" class="week_marker_even"> W5 </th>
         </tr>  
         <tr>
-            <td>02/01</td>
+            <td>04/26</td>
             <td>Monday</td>
             <td>Modules and Tests</td>
             <td>
@@ -431,7 +454,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>02/03</td>
+            <td>04/28</td>
             <td>Wednesday</td>
             <td>Input/Output</td>
             <td></td>
@@ -462,14 +485,23 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 CSV docs
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td>04/29</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="hw"> HW4 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr> 
         <tr>
-            <td>02/05</td>
+            <td>04/30</td>
             <td>Friday</td>
             <td>Midterm Review</td>
-            <td>
-                <div class="hw">HW4 due</div> 
-            </td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -480,7 +512,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="4" class="week_marker_odd"> W6 </th>
         </tr>
         <tr>
-            <td>02/08</td>
+            <td>05/03</td>
             <td>Monday</td>
             <td>No Lecture</td>
             <td><div class="exam">Midterm exam</div></td>
@@ -489,9 +521,9 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td></td>
         </tr>
         <tr>
-            <td>02/10</td>
+            <td>05/05</td>
             <td>Wednesday</td>
-            <td>Data Visualization I</td>
+            <td>Data Visualization</td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/np_plt/plt_1.ipynb">
@@ -534,7 +566,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>02/12</td>
+            <td>05/07</td>
             <td>Friday</td>
             <td>Tabular Data I</td>
             <td>
@@ -586,26 +618,8 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <th rowspan="6" class="week_marker_even"> W7 </th>
         </tr>
         <tr>
-            <td>02/15</td>
+            <td>05/10</td>
             <td>Monday</td>
-            <td><b>President's Day</b></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>02/16</td>
-            <td>Tuesday</td>
-            <td></td>
-            <td><div class="project"> Project activity</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>02/17</td>
-            <td>Wednesday</td>
             <td>Tabular Data II</td>
             <td></td>
             <td>
@@ -633,21 +647,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>02/18</td>
-            <td>Thursday</td>
+            <td>05/11</td>
+            <td>Tuesday</td>
             <td></td>
-            <td><div class="project"> Project Activity</div></td>
+            <td><div class="project"> Project activity</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>02/19</td>
-            <td>Friday</td>
+            <td>05/12</td>
+            <td>Wednesday</td>
             <td>Machine Learning I</td>
-            <td>
-                <div class="hw"> HW5 due</div>
-            </td>
+            <td></td>
             <td>
                 <a href="https://philchodrow.github.io/PIC16A/content/ML/ML_1.jpg">
                     Fundamentals
@@ -684,14 +696,18 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
         </tr>
-    </tbody>
-    <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_odd"> W8</th>
+            <td>05/13</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="project"> Project Activity</div><div class="hw"> HW5 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>02/22</td>
-            <td>Monday</td>
+            <td>05/14</td>
+            <td>Friday</td>
             <td>Machine Learning II</td>
             <td></td>
             <td>
@@ -732,18 +748,14 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 </a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>02/23</td>
-            <td>Tuesday</td>
-            <td></td>
-            <td><div class="project"> Project activity</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <th rowspan="6" class="week_marker_odd"> W8</th>
         </tr>
         <tr>
-            <td>02/24</td>
-            <td>Wednesday</td>
+            <td>05/17</td>
+            <td>Monday</td>
             <td>Machine Learning III</td>
             <td></td>
             <td>
@@ -769,12 +781,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>02/26</td>
-            <td>Friday</td>
+            <td>05/18</td>
+            <td>Tuesday</td>
+            <td></td>
+            <td><div class="project"> Project activity</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05/19</td>
+            <td>Wednesday</td>
             <td>Machine Learning IV </td>
-            <td>
-                <div class="hw"> HW6 due</div>
-            </td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/ML/digits.ipynb">
                     Digits Case Study
@@ -795,13 +814,39 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
             <td>None.</td>
         </tr>
+        <tr>
+            <td>05/20</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="project"> Project activity</div><div class="hw"> HW6 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05/21</td>
+            <td>Friday</td>
+            <td>Algorithmic Bias</td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="https://youtu.be/Ok5sKLXqynQ">
+                    Are We Automating Algorithmic Bias? (Glad You Asked)
+                </a>
+                <br>
+                <a href="https://youtu.be/S-6YGPrmtYc">
+                    Getting Specific About Algorithmic Bias (Rachel Thomas)
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_even"> W9 </th>
+            <th rowspan="5" class="week_marker_even"> W9 </th>
         </tr>
         <tr>
-            <td>03/01</td>
+            <td>05/24</td>
             <td>Monday</td>
             <td>Natural Language Processing I</td>
             <td></td>
@@ -834,7 +879,7 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>03/03</td>
+            <td>05/26</td>
             <td>Wednesday</td>
             <td>Natural Language Processing II</td>
             <td></td>
@@ -855,12 +900,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             <td>None.</td>
         </tr>
         <tr>
-            <td>03/05</td>
+            <td>05/27</td>
+            <td>Thursday</td>
+            <td></td>
+            <td><div class="hw"> HW7 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05/28</td>
             <td>Friday</td>
-            <td>Algorithmic Bias</td>
-            <td>
-                <div class="hw"> HW7 due</div>
-            </td>
+            <td><i>Get some rest, work on projects, etc.</i></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -868,12 +920,21 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_odd"> W10 </th>
+            <th rowspan="5" class="week_marker_odd"> W10 </th>
         </tr>
         <tr>
-            <td>03/08</td>
+            <td>05/31</td>
             <td>Monday</td>
-            <td>Regular Expressions</td>
+            <td><i>Memorial Day Holiday</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>06/02</td>
+            <td>Wednesday</td>
+            <td>Regular Expressions <i>(optional content)</i></td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
@@ -918,10 +979,19 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
             </td>
         </tr>
         <tr>
-            <td>03/10</td>
-            <td>Wednesday</td>
-            <td>Graphical Interfaces I </td>
+            <td>06/03</td>
+            <td>Thursday</td>
             <td></td>
+            <td><div class="hw"> HW8 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>06/04</td>
+            <td>Friday</td>
+            <td>Graphical Interfaces <i>(optional content)</i></td>
+            <td><div class="project"> Project due</div></td>
             <td>
                 <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_1.py">
                     Frames and Labels
@@ -929,6 +999,13 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 <br>
                 <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_2.py">
                     User Input
+                </a>
+                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/gui/make_model.ipynb">
+                    Interlude: Pickling
+                </a>
+                <br>
+                <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_3.py">
+                    Adding ML
                 </a>
             </td>
             <td>
@@ -939,31 +1016,6 @@ All assignments, including homework and quizzes, are due at 11:59pm, Pacific Tim
                 <a href="https://youtu.be/HHc6RZ3Cbwc">
                     User Input
                 </a>
-            </td>
-            <td>
-                <a href="https://realpython.com/python-gui-tkinter/">
-                    Tkinter Tutorial
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>03/12</td>
-            <td>Friday</td>
-            <td>Graphical Interfaces II </td>
-            <td>
-                <div class="hw"> HW8 due</div>
-                <div class="project">Project due</div>
-            </td>
-            <td>
-                <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/gui/make_model.ipynb">
-                    Interlude: Pickling
-                </a>
-                <br>
-                <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_3.py">
-                    Adding ML
-                </a>
-            </td>
-            <td>
                 <a href="https://youtu.be/acvVpBq-8ck">
                     Frames and Labels
                 </a>

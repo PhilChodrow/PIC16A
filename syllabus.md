@@ -4,9 +4,7 @@ title: Syllabus
 permalink: syllabus/
 ---
 
-
-
-**Welcome to PIC16A!** I'm Professor Phil Chodrow, your instructor, and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+**Welcome to PIC16A!** I'm Professor Phil Chodrow and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
   <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
@@ -85,19 +83,18 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Erin George (<em>they/them/theirs</em>). </dd>
+<dd> Hedi Xia. </dd>
 <dt> Learning Assistants &nbsp; </dt>
-<dd> Matthew Pombo, Adhvaith Vijay </dd>
+<dd> TBD </dd>
 </dl>
 
 ## Office Hours (via Zoom)
 
 <dl>
-<dt>Phil </dt> <dd> Wednesdays at 8pm (priority international) </dd> 
-<dt> &nbsp;</dt> <dd>Thursdays at 2pm </dd>
+<dt>Phil </dt> <dd> Wednesdays, 8pm-9pm (priority international) </dd> 
+<dt> &nbsp;</dt> <dd>Thursdays, 2pm-3pm (priority US timezones) </dd>
 
-<dt> Erin </dt> <dd>Tuesdays at 10am </dd>
-<dt> &nbsp;</dt> <dd>Thursdays at 10am </dd>
+<dt> Hedi </dt> <dd>Mondays, 3pm-5pm </dd>
 </dl>
 
 ## Waitlist Policy
@@ -110,7 +107,7 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
 
 <dl>
   <dt>Homework &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 30%</dd>
   <dt>Participation &nbsp;</dt>
   <dd> 20%</dd>
   <dt>Quizzes &nbsp;</dt>
@@ -118,9 +115,9 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
   <dt>Mini-Project &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Midterm Exam &nbsp;</dt>
-  <dd> 15%</dd>
+  <dd> 10%</dd>
   <dt>Final Exam &nbsp;</dt>
-  <dd> 25%</dd>
+  <dd> 20%</dd>
 </dl>
 
 ## Grading Philosophy
@@ -133,6 +130,8 @@ Concretely, your final letter grade in PIC16A is based on the following two fact
 2. **My professional assessment of your learning.** This is the "extra" that could push that A- to an A. You will have an opportunity on the final exam to reflect on your time in the course and share with me any information about your learning that may not be reflected in your numerical average.
 
 Thus, **you are not competing against your peers for grades.** This means that you don't hurt your own prospects when you help your peers understand a concept. Indeed, just the opposite -- when reasonably possible, I will reward exceptional collaboration. 
+
+> We are all on the same team here. 
 
 ## Homework
 
@@ -154,9 +153,9 @@ Generally speaking, if you miss a Discussion section, you can simply use one of 
 
 All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
 
-Quizzes are timed, and typically allow approximately 5 minutes per question. Quizzes are due at 11:59pm on the day of lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 15-minute period that ends before 11:59pm that Wednesday. 
+Quizzes are timed for 30 minutes. They are due at 10:00am on the day following lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 30-minute period that ends before 10:00am the following Thursday. 
 
-The lowest 7 quiz grades will be dropped. Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+**The lowest 7 quiz grades will be dropped.** Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ## Project
 
@@ -164,7 +163,7 @@ There will be a group project due at the end of the course. Working with your gr
 
 ## Midterm Exam
 
-The midterm exam will take place on Monday, February 8. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, February 9th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
+The midterm exam will take place on Monday, May 3rd. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, May 4th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ## Final Exam
 
@@ -176,7 +175,7 @@ There are several ways to earn extra credit in PIC16A.
 
 ### Essay
 
-At any time prior to the end of instruction, you may submit an essay of between 900 and 1,200 words (3-4 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem, assess the current state of affairs, and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition, the impact of automation on social services for the poor, and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics will likely receive only partial credit. 
+At any time prior to the end of instruction, you may submit an essay of between 600 and 900 words (2-3 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem, assess the current state of affairs, and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition, the impact of automation on social services for the poor, and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics will likely receive only partial credit. 
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
@@ -184,7 +183,7 @@ This essay will be graded out of 3 points, and the result will be added as a per
 
 Your essay should satisfy the following criteria.  
 
-- **Sources**: The essay should cite and elaborate on at least five news articles, scholarly journal articles, or other primary sources. Opinion articles do not count. Blog posts are generally unsuitable, but posts by established experts may be permissible; ask me if you're not sure. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while the remainder must be written. 
+- **Sources**: The essay should cite and elaborate on at **least three** news articles, scholarly journal articles, or other primary sources. Opinion articles do not count. Blog posts are generally unsuitable, but posts by established experts may be permissible; ask me if you're not sure. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while the remainder must be written. 
 - **Argument**: The essay should have a *thesis statement*, which is supported by the discussion of the sources. Several examples of successful thesis statements: 
     - *Taken together, these articles suggest that algorithmic surveillance of marginalized groups is only increasing with time.*
     - *Although studies have revealed significant biases in Google Search, more recent work suggests that these biases may be less important in practice than once believed.*
@@ -250,7 +249,8 @@ There will be several surveys throughout the quarter which allow you to give me 
 
 <div class="fancy-h1"> Collaboration and Academic Honesty</div>
 
-I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions *at a conceptual level.* In general, **you should not share code with your peers** in any circumstances, as this deprives them of the opportunity to learn how to operationalize their ideas. 
+I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions at a conceptual level. Sharing code is usually ok, but should usually be minimized. That is, you should attempt to share the smallest amount of code possible that would help you ask your question or answer someone else's question. Additionally, you should discuss to ensure that everyone understands what's going on! **Blind copy/paste won't help anyone learn.** 
+
 
 The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
 
@@ -270,7 +270,7 @@ Send me an email! Your email should clearly indicate  when you need the letter, 
 
 ### When I Won't Write a Letter
 
-As a matter of moral principle, I will not write letters of recommendation for programs or jobs involving any of the following:
+As a matter of moral principle, I will not write letters of recommendation for programs or jobs with significant components supporting any of the following: 
 
 - Policing (including but not limited to predictive policing, development of algorithms that predict recidivism, etc.);
 - Military applications (such as internships at the Department of Defense or any of its international counterparts);
@@ -281,11 +281,6 @@ I am very happy to discuss this policy with any student who has questions. Conve
 
 The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
-### Asking for a Letter
-
-
-
-Having understood that, if you need me to write a letter for you, please send me an email! 
 
 
 <div class="fancy-h1"> Getting Help </div>
