@@ -7,7 +7,7 @@ permalink: project/
 Part of your final assessment in PIC16A is via a **group mini-project.** In this project, you and your partners will perform and communicate about a complete data analysis of a real data set. 
 <div class="fancy-h1"> Timeline </div>
 
-You'll have three scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. Projects are due on the last day of instruction, Friday, 12/11, and are submitted as a group. 
+You'll have three scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. Projects are due on the last day of instruction (i.e. Friday of Week 10) are submitted as a group. 
 
 There will also be homework assignments due during this time. Some of the homework problems will be specifically related to project tasks, and you are especially encouraged to work on these problems with your group members.  
 
@@ -15,7 +15,7 @@ Your primary resource in this project should be your group members. However, if 
 
 <div class="fancy-h1"> Project Components </div>
 
-Your project should be contained and submitted in a single Jupyter notebook. You'll perform components of the project in different notebooks over the course of the scheduled Discussion periods and homework assignments. Your group is responsible for moving the required code into your final project file. 
+Your project should be contained and submitted in a single Jupyter notebook. You'll perform components of the project in different notebooks over the course of the scheduled Discussion periods and homework assignments. Your group is responsible for moving the required code into your final project file. You may find it useful to employ [Google Colab](https://colab.research.google.com/), which allows collaboration on Jupyter Notebooks similarly to, say, Google Docs. 
 
 Your project should contain the following sections: 
 
@@ -34,7 +34,7 @@ Here's what I'm looking for:
 - 20% for a clear and equitable **Group Contributions** statement.  
 - 20% points for **Writing, Documentation, and Style**: Clear expository writing of the analysis, including narrative text walking the reader through the analysis; description of how the models work; docstrings and comments; and a critical discussion in the final section. 
 - 20% points for **Exploratory Analysis**: A helpful exploratory analysis, including at least three figures and at least one table that support your decisions in the Modeling section. *2-person groups need include only 2 figures and 1 table.* These figures and tables must be **relevant to your modeling**, and this relevance must be explained in your text. 
-- 20% points for **Modeling**: A full modeling pipeline, in which you deploy three or more machine learning models, describe how they work at an intuitive level, train them on data, and systematically evaluate their performance. Your evaluation methods should include both cross-validation to select a candidate model and evaluation on unseen testing data to evaluate its overall predictive power. *2-person groups need include only the two required models.*
+- 20% points for **Modeling**: A full modeling pipeline, in which you deploy three or more machine learning models, describe how they work at an intuitive level, train them on data, and systematically evaluate their performance. Your evaluation methods should include both cross-validation to select the complexity parameters of a candidate model and evaluation on unseen testing data to evaluate its overall predictive power. Finally, you should also supply an analysis of any errors that your model makes; decision regions and confusion matrices are two good ways to approach this. *2-person groups need include only two models.* 
 - 20% for **Model Performance**: you should indicate your best model, and demonstrate its predictive accuracy on test data not used to train the model. **Your best model must use no more than 3 features (data columns)**. This component of your score is calculated as `20 x (test accuracy)`. For example, if you achieve 92% accuracy on the test data, then your score for this part is 18.4. 
 
 *I will have slightly lower expectations for the writing component for 2-person groups, but not **much** lower.*
