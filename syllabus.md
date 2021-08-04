@@ -4,16 +4,18 @@ title: Syllabus
 permalink: syllabus/
 ---
 
-**Welcome to PIC16A!** I'm Professor Phil Chodrow and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+**Welcome to PIC16A!** I'm Professor [Phil Chodrow](www.philchodrow.com) and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
   <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
 </figure>
 
-1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. You (yes, **you**) can learn some cool stuff and get a good grade in this course. 
-2. **None of us signed up for this.** We are all doing the best we can during a time of catastrophe and intense uncertainty. My main aims in designing this course are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your experience during these difficult times. 
-3. **Your wellbeing comes first.** If your wellbeing or that of a loved one comes into conflict with course obligations, I hope that you will attend to the former. 
-I've included a considerable amount of flexibility in this course. It is possible to completely miss roughly two weeks worth of quizzes and assignments without negatively impacting your grade. If you anticipate extended difficulties related to participation or assignments, reach out to me at the earliest opportunity. We'll make it happen. 
+1. **I want you to succeed.** The purpose of this course is for you to build a set of skills that can support you in your studies, hobbies, and careers. It is not here to "weed you out," trick you, or discourage you. You (yes, **you**) can learn some cool stuff and get a good grade in this course. 
+2. **It's still tough out there.** Although some parts of our lives might be returning to normal, other parts remain affected by the COVID-19 pandemic. My main aims in designing this course are to (a) offer you flexibility to adapt to changing circumstances and (b) encourage you to support and be supported by your classmates. Python programming is fun, and I hope that this course can be a positive part of your experience during these challenging times. 
+3. **Your wellbeing comes first.** If your wellbeing or that of a loved one comes into conflict with course obligations, I hope that you will prioritize the former. 
+I've included a considerable amount of flexibility in this course. 
+If you anticipate extended difficulties related to participation or assignments, reach out to me at the earliest opportunity. 
+We'll find a path that prioritizes your wellbeing while still enabling you to succeed in the course. . 
 4. **We've got your back.** As the instructor, I'm available to you through multiple channels. You also have an amazing support team---your TAs, LAs, and peers are all here to help you in your learning journey.  
 
 We now return to your regularly scheduled syllabus. 
@@ -42,10 +44,10 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 ## Programming Fundamentals
 
-  - *Containers*: You will use lists and dictionaries to manage collections of data. 
-  - *Functions*: You will write reusable functions to perform complex, customized tasks. 
-  - *Control Flow*: You will use branching logic and loops to structure sophisticated programs. 
-  - *Object-oriented programming*: You will write custom classes and define their behavior, and use inheritance to extend their functionality. 
+- *Containers*: You will use lists and dictionaries to manage collections of data. 
+- *Functions*: You will write reusable functions to perform complex, customized tasks. 
+- *Control Flow*: You will use branching logic and loops to structure sophisticated programs. 
+- *Object-oriented programming*: You will write custom classes and define their behavior, and use inheritance to extend their functionality. 
 
 ## Applications
 
@@ -65,37 +67,43 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 <!-- # Basics  -->
 
-## Schedule
-
-<dl>
-
-<dt>Discussion A&nbsp;</dt>
-<dd>TR, 12:00pm-1:00pm (Pacific Time)</dd>
-<dt>Discussion B&nbsp;</dt>
-<dd>TR, 1:00pm-2:00pm (Pacific Time)</dd>
-<dt>Lecture&nbsp;</dt>
-<dd>MWF, 12:00pm-1:00pm (Pacific Time)</dd>
-</dl>
-
 ## Course Team
 
 <dl>
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> Hedi Xia. </dd>
+<dd> TBD. </dd>
 <dt> Learning Assistants &nbsp; </dt>
-<dd> TBD </dd>
+<dd> TBD. </dd>
 </dl>
 
-## Office Hours (via Zoom)
+## Schedule
 
 <dl>
-<dt>Phil </dt> <dd> Wednesdays, 8pm-9pm (priority international) </dd> 
-<dt> &nbsp;</dt> <dd>Thursdays, 2pm-3pm (priority US timezones) </dd>
 
-<dt> Hedi </dt> <dd>Mondays, 3pm-5pm </dd>
+<dt>Discussion A&nbsp;</dt>
+<dd>TR, 9:00am-9:50am (Pacific Time), Royce Hall 156 </dd>
+<dt>Discussion B&nbsp;</dt>
+<dd>TR, 10:00am-10:50am (Pacific Time), Bunche Hall 3211</dd>
+<dt>Lecture&nbsp;</dt>
+<dd>MWF, 9:00am-9:50am (Pacific Time), Boelter Hall 5249</dd>
 </dl>
+
+## Student Hours (via Zoom)
+
+Student hours are *your time* to come speak with me or the TA about anything related to the course. Come ask for help about homework assignments; concepts and techniques; your project; your career; or anything else that might be on your mind.
+
+**I want you to come to Student Hours.** You'll get a small amount of extra credit the first time you come to Student Hours and ask a question.
+
+<dl>
+<dt>Prof. Chodrow </dt> <dd> TBD </dd> 
+<dt> &nbsp;</dt> <dd>TBD </dd>
+
+<dt> TA </dt> <dd>TBD </dd>
+</dl>
+
+If you're not able to attend the scheduled Student Hours, please email me and we will set up a separate time. 
 
 ## Waitlist Policy
 
@@ -135,27 +143,36 @@ Thus, **you are not competing against your peers for grades.** This means that y
 
 ## Homework
 
-There will be 8 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. **The lowest two homework scores will be dropped.** 
+There will be 7 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. 
 
 ## Participation
 
-Attendance at scheduled lecture sessions is **encouraged but optional**. You can, in principle, achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, supplementary lectures, and both individual and group activities.
+Attendance at scheduled lecture sessions is **encouraged but optional**. You can achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, supplementary lectures, and both individual and group activities.
 
-**Attendance at discussion sessions is required**, except in circumstances that make this extremely difficult (such as lack of internet access or time zone issues). Students in timezones outside the U.S. will generally be offered timezone exemptions, in which case they will work with a group of students in a similar situation at an alternate meeting time. 
+**Attendance at discussion sessions is expected**. What "expected" means is that Discussion activities count toward your overall grade. It is not possible to obtain a grade higher than an A- without attending Discussion. 
 
-Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
+Under certain circumstances, you can receive an exemption which will allow you not to attend the scheduled Discussion section. You should request an exemption from me if: 
+
+- You are in a timezone outside the U.S. that makes attendance at the scheduled times disruptive to your sleep schedule. 
+- You are concerned for the health of yourself or your loved ones, and therefore do not feel safe attending a course activity in person.  
+
+In either case, I will match you with a group of students in a similar situation. You will be responsible for working out an alternative meeting time over Zoom. 
+
+Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest two grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
 
 ### Missing a Discussion Section 
 
-Generally speaking, if you miss a Discussion section, you can simply use one of your drops. It is still advisable to review the material, but your grade will not be affected. However, if you know of a conflict with your scheduled Discussion in advance, you can also contact your group. **If your group unanimously agrees**, you may (a) notify the TA and (b) meet outside your scheduled Discussion section that day. You will still need to submit the worksheet by the stated deadline on CCLE, which is usually 24 hours after Discussion A begins. 
+Generally speaking, if you miss a Discussion section, you can simply use one of your drops. It is still advisable to review the material, but your grade will not be affected. 
+
+If you know of a conflict with your scheduled Discussion **in advance**, you can contact your group. **If your group unanimously agrees**, you may (a) notify the TA and (b) meet outside your scheduled Discussion section that day. You will still need to submit the worksheet by the stated deadline on CCLE, which is usually 24 hours after Discussion A begins. 
 
 ## Quizzes
 
 All traditional lectures will be pre-recorded and available online. Each lecture day, there will be a quiz consisting of questions related to that day's lecture videos and required readings. The primary purpose of the quizzes is to encourage you to study the required lecture content in time to apply your knowledge in the group Discussion sections. 
 
-Quizzes are timed for 30 minutes. They are due at 10:00am on the day following lecture. For example, a typical quiz on a Wednesday might consist of 2-3 questions, and can be taken in any contiguous 30-minute period that ends before 10:00am the following Thursday. 
+Quizzes are timed for 30 minutes. They are due at 10:00am on the day following lecture. For example, a typical quiz corresponding to Wednesday's lecture might consist of 2-3 questions, and can be taken in any contiguous 30-minute period that ends before 10:00am the following Thursday. 
 
-**The lowest 7 quiz grades will be dropped.** Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
+**The lowest 5 quiz grades will be dropped.** Lectures, lecture notes, and required readings will always be posted at least 48 hours before the quiz is due. 
 
 ## Project
 
@@ -163,7 +180,7 @@ There will be a group project due at the end of the course. Working with your gr
 
 ## Midterm Exam
 
-The midterm exam will take place on Monday, May 3rd. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on Tuesday, May 4th. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
+The midterm exam will take place on the Monday of Week 6. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on the following Tuesday. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ## Final Exam
 
@@ -175,7 +192,18 @@ There are several ways to earn extra credit in PIC16A.
 
 ### Essay
 
-At any time prior to the end of instruction, you may submit an essay of between 600 and 900 words (2-3 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem, assess the current state of affairs, and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition, the impact of automation on social services for the poor, and the role of technology in combatting climate change. Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics will likely receive only partial credit. 
+At any time prior to the end of instruction, you may submit an essay of between 600 and 900 words (2-3 double-spaced pages) on a topic broadly related to the themes of algorithms, equity, and justice. Your essay should address a concrete problem, assess the current state of affairs, and suggest one or more paths forward. Examples of suitable topics related to algorithms and justice include but are no means limited to bias in facial recognition, the impact of automation on social services for the poor, and the role of technology in combatting climate change. 
+
+Not sure whether your topic is appropriate? A good topic will usually include the following two components: 
+
+- **Concrete benefits or harms**. Examples of concrete benefits or harms include changes to one’s likelihood of being arrested, granted health services, approved for a loan, or granted reasonably-priced health insurance.
+- **Disparate impacts**. You should show that the system in question harms or benefits certain groups more than others.
+
+**A bad example**: arguing that social media is driving political polarization. This is an interesting topic, but it does not describe concrete benefits or harms, nor does it describe disparate impact. 
+
+**A better example**: arguing that polarization on social media is leading to an increase in hate crimes (concrete harm) toward specific marginalized groups (disparate impact).
+
+Please note that questions of equity and justice are more specific than the general impact of social media or tech companies on society as a whole. Essays on such general topics will receive only partial credit. 
 
 You are welcome to argue any angle on your topic, provided that you can offer sound sources and argumentation. For example, you may argue that bias in facial recognition is a major problem in need of solution, or you may argue that no substantial problem exists. You are welcome to ask me about your sources and proposed argument before you begin writing.   
 
@@ -183,7 +211,7 @@ This essay will be graded out of 3 points, and the result will be added as a per
 
 Your essay should satisfy the following criteria.  
 
-- **Sources**: The essay should cite and elaborate on at **least three** news articles, scholarly journal articles, or other primary sources. Opinion articles do not count. Blog posts are generally unsuitable, but posts by established experts may be permissible; ask me if you're not sure. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while the remainder must be written. 
+- **Sources**: The essay should cite and elaborate on at **least four** news articles, scholarly journal articles, or other primary sources. Opinion articles do not count. Blog posts are generally unsuitable, but posts by established experts may be permissible; ask me if you're not sure. You should use a consistent citation convention. If you're not sure which one to use, [APA](https://www.library.cornell.edu/sites/default/files/apa_2010.pdf) and [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) are both good choices. Up to one source may be a documentary film, while the remainder must be written. 
 - **Argument**: The essay should have a *thesis statement*, which is supported by the discussion of the sources. Several examples of successful thesis statements: 
     - *Taken together, these articles suggest that algorithmic surveillance of marginalized groups is only increasing with time.*
     - *Although studies have revealed significant biases in Google Search, more recent work suggests that these biases may be less important in practice than once believed.*
@@ -204,15 +232,15 @@ You are free to use any sources to which you have access. If you are having trou
 
 There is a Campuswire discussion forum associated with this course, where you can post both questions and answers about the course content. If you post a particularly insightful question or answer, I will (at my discretion) award you 0.25% of extra credit toward your final grade. You can earn extra credit this way up to four times, for a total of 1% extra credit.
 
-### Office Hours
+### Student Hours
 
-You can get extra credit just by coming to office hours! The first time you attend OH and ask me a question, you will receive 0.25% extra credit. 
+You can get extra credit just by coming to Student Hours! The first time you attend OH and ask me a question, you will receive 0.25% extra credit. 
 
 ### Course Feedback 
 
 There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each. 
 
-<div class="fancy-h1">Learning on Zoom</div>
+<!-- <div class="fancy-h1">Learning on Zoom</div>
 
 ## Cameras
 
@@ -222,7 +250,7 @@ There will be several surveys throughout the quarter which allow you to give me 
 
 ## Microphones
 
-  In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise. 
+  In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise.  -->
 
 <div class="fancy-h1">Course Environment </div>
 
@@ -241,7 +269,7 @@ There will be several surveys throughout the quarter which allow you to give me 
     </div>
     <div class="grey-bg">
         <h3>Names and Pronouns</h3>
-        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their expressed preferences. 
+        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their correct pronouns. 
     </div>
 </div>
 
@@ -249,10 +277,9 @@ There will be several surveys throughout the quarter which allow you to give me 
 
 <div class="fancy-h1"> Collaboration and Academic Honesty</div>
 
-I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions at a conceptual level. Sharing code is usually ok, but should usually be minimized. That is, you should attempt to share the smallest amount of code possible that would help you ask your question or answer someone else's question. Additionally, you should discuss to ensure that everyone understands what's going on! **Blind copy/paste won't help anyone learn.** 
+I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions at a conceptual level. Sharing code is usually ok, but should usually be minimized. That is, you should attempt to share the smallest amount of code possible that would help you ask your question or answer someone else's question. Additionally, you should discuss to ensure that everyone understands what's going on! **Blind copy/paste won't help anyone learn.**
 
-
-The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code). 
+The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code).
 
 <div class="fancy-h1"> Advice and Letters of Recommendation</div>
 
@@ -281,8 +308,6 @@ I am very happy to discuss this policy with any student who has questions. Conve
 
 The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
-
-
 <div class="fancy-h1"> Getting Help </div>
 
 ## Extensions Policy
@@ -302,7 +327,6 @@ If you are struggling with a problem on a homework assignment, or wondering abou
 ## General Academic Concerns
 
 If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in PIC16A. 
-
 
 ## Screen Reader Accessibility
 
@@ -329,7 +353,6 @@ You are always welcome to speak with me about any experience or aspect of your l
 
 <div class="fancy-h1"> Resources for Equity, Health, and Wellbeing </div>
 
-
 ## Sexual Misconduct
 
 - UCLA's [Sexual Violence Index](https://www.sexualharassment.ucla.edu/Portals/42/Documents/UCLA%20Sexual%20Violence%20Index%20062018.pdf), including definitions, more thorough descriptions of available resources, and suggested safety measures. 
@@ -355,7 +378,6 @@ You are always welcome to speak with me about any experience or aspect of your l
 ### My Obligations under Title IX
 
 I am a Responsible Employee, which means that I am required by the University to report incidents of sexual harassment or sexual violence to the Title IX Coordinator. **If you disclose such an incident to me, I will report it to the Title IX Coordinator.** This may lead to follow-up from the Title IX office and a possible investigation into the incident. If you would like to speak to a resource who will maintain strict confidentiality, see [Confidential Resources](#confidential-resources).
-
 
 ## Mental Health
 
