@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Mini-Project
+title: Group Project
 permalink: project/
 ---
 
