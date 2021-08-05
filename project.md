@@ -4,7 +4,7 @@ title: Group Project
 permalink: project/
 ---
 
-Part of your final assessment in PIC16A is via a **group project.** In this project, you and your partners will perform and communicate about a complete data analysis of a real data set. 
+Part of your final assessment in PIC16A is via a **group project.** In this project, you and your partners will perform and communicate about a complete data analysis of a real data set.  
 
 <div class="fancy-h1"> Project Overview </div>
 
