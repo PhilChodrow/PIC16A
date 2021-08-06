@@ -4,7 +4,7 @@ title: Syllabus
 permalink: syllabus/
 ---
 
-**Welcome to PIC16A!** I'm Professor [Phil Chodrow](www.philchodrow.com) and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
+**Welcome to PIC16A!** I'm Professor [Phil Chodrow](https://www.philchodrow.com) and I'm grateful that you're here. Before we dive into the details, I want to lay out some guiding principles for this course: 
 
 <figure style="float:right">
   <img alt="Three stylized hands, appearing to made out of circuitry, reach toward each other. The hands are bright blue, green, and pink." src = "https://s3.amazonaws.com/media.eremedia.com/wp-content/uploads/2017/09/13112109/diversity-700x439.jpg" width="300" height="200"/> 
@@ -15,7 +15,7 @@ permalink: syllabus/
 3. **Your wellbeing comes first.** If your wellbeing or that of a loved one comes into conflict with course obligations, I hope that you will prioritize the former. 
 I've included a considerable amount of flexibility in this course. 
 If you anticipate extended difficulties related to participation or assignments, reach out to me at the earliest opportunity. 
-We'll find a path that prioritizes your wellbeing while still enabling you to succeed in the course. . 
+We'll find a path that prioritizes your wellbeing while still enabling you to succeed in the course. 
 4. **We've got your back.** As the instructor, I'm available to you through multiple channels. You also have an amazing support team---your TAs, LAs, and peers are all here to help you in your learning journey.  
 
 We now return to your regularly scheduled syllabus. 
@@ -149,7 +149,7 @@ There will be 7 homework assignments throughout the quarter. You should consult 
 
 Attendance at scheduled lecture sessions is **encouraged but optional**. You can achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, supplementary lectures, and both individual and group activities.
 
-**Attendance at discussion sessions is expected**. What "expected" means is that Discussion activities count toward your overall grade. It is not possible to obtain a grade higher than an A- without attending Discussion. 
+**Attendance at discussion sessions is expected**. What "expected" means is that Discussion activities count toward your overall grade. The highest grade that can be obtained in PIC16A without attending Discussion is a B+. 
 
 Under certain circumstances, you can receive an exemption which will allow you not to attend the scheduled Discussion section. You should request an exemption from me if: 
 
