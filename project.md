@@ -18,9 +18,9 @@ In the dystopian future, there are *too many penguins*:
 </figure>
 Because there are so many, we can't take many detailed measurements on all of them! In order to classify the species of penguins in large volume, we need to figure out *which* measurements are most important for distinguishing penguin species. 
 
-**Your goal in this mini project is to determine a small set of measurements that are highly predictive of a penguin's species.** Options include (but are not limited to) the island on which the penguin was encountered, the length and depth of the culmen (bill), the length of the flipper, the body mass, and the sex of the penguin. That is, you should systematically determine which of these features is most predictive of the penguin's species, using at least three distinct machine learning algorithms and evaluating the results. You are required to test decision trees and multinomial logistic regression. You may optionally use any additional algorithms that you would like. 
+**Your goal in this mini project is to determine a small set of measurements that are highly predictive of a penguin's species.** Options include (but are not limited to) the island on which the penguin was encountered, the length and depth of the culmen (bill), the length of the flipper, the body mass, and the sex of the penguin. That is, you should determine which of these features is most predictive of the penguin's species, using at least three distinct machine learning algorithms and evaluating the results. Two of your models must be decision trees and multinomial logistic regression. The third model is up to you! 
 
-Part of the point of this project is to use a small number of measurements (i.e. columns in the data). **Your final set of models that must use one (1) qualitative feature and two (2) quantitative features,** corresponding to a total of just three distinct measurements per penguin. You're permitted to use different features in each model, but each one must use one qualitative feature and two quantitative features. 
+Part of the point of this project is to use a small number of measurements (i.e. columns in the data). **Your final set of models must use one (1) qualitative feature and two (2) quantitative features,** corresponding to a total of just three distinct measurements per penguin. You're permitted to use different features in each model, but each one must use one qualitative feature and two quantitative features. 
 
 For training and evaluating your models, we will use the Palmer Penguins data set. 
 The Palmer Penguins data set was collected by collected by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station, Antarctica LTER](https://pal.lternet.edu/), a member of the [Long Term Ecological Research Network](https://lternet.edu/). [Download the CSV](https://philchodrow.github.io/PIC16A/content/IO_and_modules/IO/palmer_penguins.csv) data. 
@@ -37,7 +37,7 @@ In data science, it is important to develop a thorough understanding of the data
 
 ## Timeline
 
-You'll have three scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. 
+You'll have several scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. 
 
 Projects are due in the middle of the Final Exam Period. There will be an optional opportunity in the middle of Week 10 to submit your project for a "mock grade" in order to get feedback and learn what you can do to improve your work. 
 
@@ -45,7 +45,7 @@ Projects are due in the middle of the Final Exam Period. There will be an option
 
 Your project should be contained and submitted in a single Jupyter notebook, rendered as a PDF file. You'll complete some components of the project in different notebooks over the course of the scheduled Discussion periods. Your group is responsible for moving the required code into your final project file. 
 
-It can be challenging to collaborate on a single Jupyter Notebook in which multiple people need to contribute code. One way to address this is to share the notebook in Box or a similar tool. Another good alternative is [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), which allows you to work on Jupyter Notebooks in a collaborative environment somewhat reminiscent of Google Docs. Please note that Colab is not appropriate for use in Discussion activities. 
+It can be challenging to collaborate on a single Jupyter Notebook in which multiple people need to contribute code. One way to address this is to share the notebook in Box or a similar tool. Another good alternative is [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), which allows you to work on Jupyter Notebooks in a collaborative environment somewhat reminiscent of Google Docs. Please note that Colab is not appropriate for use in Discussion activities -- we still expect you to use Jupyter Notebook while screensharing. 
 
 ## Working in Groups
 
@@ -68,7 +68,7 @@ Your project should contain the following components, demarcated by Markdown hea
 
 1. **Group Contributions Statement.** See above. 
 2. **Data import and cleaning.** You'll need to write code to read in your data; separate it into training and test sets; and clean it in various ways. Please note that you are required to split **before** you clean. This means that you'll need to perform the cleaning operation twice, once on the training and once on the test set. Make sure that any repetitive operations are placed in functions and reused -- don't copy and paste code!! 
-2. **Exploratory Analysis.** Compute summary statistics and construct visualizations about the relationships between variables. Your exploratory analysis should include **at least 3 figures** and **at least 1 displayed table**. May include data loading, preparation and cleaning. Please note that visualizations related to cross-validation and decision regions are not *exploratory* visualizations and do not count toward this requirement. For each figure, you should explain how it illustrates a point which supports your modeling decisions below. All figures and tables should be polished and legible, with clear legends and axis-labels. *2-person groups need include only 2 figures and 1 table.* 
+2. **Exploratory Analysis.** Compute summary statistics and construct visualizations about the relationships between variables. Your exploratory analysis should include **at least 3 figures** and **at least 1 displayed table**. May include data loading, preparation and cleaning. Please note that visualizations related to cross-validation and decision regions are not *exploratory* visualizations and do not count toward this requirement. For each figure, you should explain how it illustrates a point which supports your modeling decisions below. Even if you ultimately select your features using some method that is unrelated to the figures, your discussion should give your reader an intuitive interpretation about why those features might be helpful or informative. All figures and tables should be polished and legible, with clear legends and axis-labels. *2-person groups need include only 2 figures and 1 table.* 
 3. **Feature Selection.** Your models must use one qualitative feature (like Island or Sex) and two quantitative features (like Culmen Length or Body Mass). You should spend one section in which you perform an analysis to choose these features, and justify your choice. Your approach can be based on your exploratory data analysis; automated feature selection; or any other method -- but you must be prepared to *justify* and *write about* your proposal. You are permitted to use different combinations of features for each of your three models (below). In this case, you should use the Feature Selection section to explain and illustrate your approach for a single model, which you can then repeat (without extensive explanation) for the other two models. Please remember that repetitive code should be wrapped in functions. 
 5. **Modeling.** Deploy at least three machine learning models and evaluate their performance. One of your models must be multinomial logistic regression, and another model must be a decision tree. The third model is up to you. Possibilities include but are not limited to random forests; support vector machines; nearest-neighbor classifiers; and neural networks. Must include, for each of three models: 
   - Cross-validation to choose complexity parameters. 
@@ -105,3 +105,11 @@ Here is a [very nice analysis](https://humansofdata.atlan.com/2016/07/machine-le
 - **Discussion**: The author critically considers what has been learned from the model; where the model might fail; and what this implies about the data. 
 
 You can also steal some good tricks here with `pandas`, `matplotlib`, and `scikit-learn`!
+
+## Wondering About Data Writing? 
+
+If you're not sure whether you are practicing effective data writing, ask yourself: 
+
+> Could the Week 6 version of me learn how to perform data analysis and machine learning, using my writing as a tutorial? 
+
+If so, you might be writing well about your project! If you're still not sure, talk to your group members and then feel free to ask me. 
