@@ -831,7 +831,7 @@ permalink: schedule/
             <td></td>
             <td>
                 <a href="https://youtu.be/Ok5sKLXqynQ">
-                    Are We Automating Algorithmic Bias? (Glad You Asked)
+                    Are We Automating Racism? (Glad You Asked)
                 </a>
                 <br>
                 <a href="https://youtu.be/S-6YGPrmtYc">

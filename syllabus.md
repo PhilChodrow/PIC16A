@@ -18,19 +18,33 @@ If you anticipate extended difficulties related to participation or assignments,
 We'll find a path that prioritizes your wellbeing while still enabling you to succeed in the course. 
 4. **We've got your back.** As the instructor, I'm available to you through multiple channels. You also have an amazing support team---your TAs, LAs, and peers are all here to help you in your learning journey.  
 
-We now return to your regularly scheduled syllabus. 
+<div class="fancy-h1"> Who Am I? </div>
+
+I’m  a visiting assistant professor in the Department of Mathematics at UCLA. My pronouns are *he/him/his*. I grew up in Virginia, did undergrad at Swarthmore College in Pennsylvania, and did my PhD (after a few years traveling and working) at MIT. Then I came here to UCLA! 
+
+I love applied math, ethical data science, Star Trek, penguins, cooking, tea, studio Ghibli movies, traditional martial arts, and effective pedagogy.
+
+## How to Address Me
+
+If you’re not sure, please call me “Professor Chodrow.” I usually invite students in PIC16B, Learning Assistants who work with my students, and student research collaborators to address me as “Phil.”
+
+Please remember to address all your professors respectfully and according to their preferences. When in doubt, “Professor X” or “Dr. X” is always appropriate. Before addressing a professor by their first name, ask yourself whether they have explicitly invited you to do so. Ask yourself twice if addressing a female, LGBTQ+, or BIPOC professor – routine disregard of titles and credentials is one of many ways in which academic culture replicates harm against these scholars. You may find [this poem](https://pressfolios-production.s3.amazonaws.com/uploads/story/story_pdf/254906/2549061489249557.pdf) by Susan Harlan to be of interest.
+
+## More FAQs
+
+I've collected a bunch of FAQs about myself and various things that don't quite fit into a course syllabus [here](https://www.philchodrow.com/for-students/).
+
 
 <div class="fancy-h1"> Course Overview </div>
 
-Python is a powerful and intuitive programming language, used extensively throughout industry and academia alike. The first part of this course introduces core Python programming constructs, including data types, functions, and classes. The second part of this course includes several applications, with particular focus on data science, data visualization, and machine learning. This offering of PIC16A places special emphasis on collaborative and project-based learning. 
+Python is a powerful and intuitive programming language, used extensively throughout industry and academia alike. The first part of this course introduces core Python programming constructs, including data types, functions, and classes. The second part of this course includes several applications, with particular focus on data science, data visualization, and machine learning. We will also address topics related to the benefits and harms of coding, especially as related to the topic of algorithmic bias. This offering of PIC16A places special emphasis on collaborative and project-based learning. 
 
 ## Primary Learning Goals
 
 1. **Programming Fundamentals**: You will use core Python data structures, functions, and object-oriented programming to solve complex problems.  
 2. **Applications**: You will use Python's package ecosystem to approach data science problems drawn from science, economics, politics, and literature. 
 3. **Code Quality**: You will create readable, documented, and reusable code. You will compare and evaluate multiple approaches to programming tasks.  
-
-
+4. **Programming and Society**: You will think critically about the impact of programming on society at large, and evaluate both benefits and harms of code products on disparate populations. 
 
 You can also consult the provisional [course schedule](https://philchodrow.github.io/PIC16A/schedule/). 
 
@@ -63,6 +77,14 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 - *Documentation*: You will carefully document your code with comments, docstrings, and surrounding text.
 - *Robustness*: You will use exceptions to appropriately inform the user about invalid inputs, and design unit tests to ensure the correct functioning of your functions and classes. 
 
+## Programming and Society
+
+- *Concepts*: You will be able to define different kinds of *algorithmic bias*, as well as associated concepts like *feedback loops*. 
+- *Analysis*: You will be able to analyze existing and proposed code products and raise questions about their impacts on different groups of people. 
+- *Replication*: You will conduct data analyses to document algorithmic bias in real-world systems, study how those systems came to possess bias, and propose improvements.  
+
+
+
 <div class="fancy-h1"> Basics </div>
 
 <!-- # Basics  -->
@@ -71,7 +93,7 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 
 <dl>
 <dt> Instructor &nbsp;</dt>
-<dd> Phil Chodrow (<em>he/him/his</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
+<dd> Phil Chodrow (<em>he/him</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
 <dd> TBD. </dd>
 <dt> Learning Assistants &nbsp; </dt>
@@ -111,6 +133,13 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
 
 <div class="fancy-h1"> Assessment</div>
 
+
+
+
+**Grading is broken.** Grades are used in higher education to both (a) give you feedback on how you can grow and (b) assess your "merit" or "mastery" of course content. This latter purpose is especially broken. There's no pedagogical justification for these so-called "formative assessments." The results are not predictive of future success or "merit," and academics are, on average, bad at designing assessments that equitably measure meaningful competency. Professor Amy J. Ko at the University of Washington has an excellent [reflection](https://medium.com/bits-and-behavior/grading-is-ineffective-harmful-and-unjust-lets-stop-doing-it-52d2ef8ffc47) on the deep flaws of grading, which you might wish to read. 
+
+If I could drop grades and simply give you feedback on how you can grow, I would in a heartbeat. Unfortunately, the policy of the Department of Mathematics and UCLA is that I must give grades. The system below does not overcome the fundamental flaws of grading, but I hope that it can at least be less opaque and inequitable than many other systems. 
+
 ## Core Rubric
 
 <dl>
@@ -128,7 +157,7 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
   <dd> 20%</dd>
 </dl>
 
-## Grading Philosophy
+## We Are All On The Same Team
 
 I do not grade on the basis of ranks or other distributional information. Your final letter grade in this course is a reflection of your own effort, learning, and teamwork. If every student fully meets my expectations along these axes, then I will not hesitate to give every student an A. 
 
@@ -139,11 +168,20 @@ Concretely, your final letter grade in PIC16A is based on the following two fact
 
 Thus, **you are not competing against your peers for grades.** This means that you don't hurt your own prospects when you help your peers understand a concept. Indeed, just the opposite -- when reasonably possible, I will reward exceptional collaboration. 
 
-> We are all on the same team here. 
+
+## Expected Effort
+
+Every student will need a different amount of time each week to maintain the brisk pace of this course. That said, this is a pretty intense class, and you should be prepared to devote a considerable amount of time to it. I expect that most students will need something like 10-12 hours a week for this class, on average. That will be less in some weeks, and more in a few. 
+
+If you're spending much longer than that, it's ok! There's nothing wrong, and I believe you can succeed in the course. Please reach out to me if you're concerned about the amount of time you're spending on this class.  
 
 ## Homework
 
 There will be 7 homework assignments throughout the quarter. You should consult the [coding expectations](http://philchodrow.github.io/PIC16A/coding_expectations/) and  [expectations for submitted assignments](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb) for guidance on how to polish, document and submit your work. 
+
+Homework assignments can be pretty challenging in this course. Some of them might require 5 or more hours to complete. Please **start early** and **ask for help** to make sure you can complete a high-quality assignment. 
+
+The lowest homework score will be dropped. Homeworks can be submitted up to 3 days late, at a discount of 10% per 24 hours past the deadline.  For example, if you turn in a homework 20 hours late that would have received a 98%, your grade will be an 88%. If you turned it in 39 hours late your grade would be a 78%, and so on. Homeworks turned in more than 3 days (72 hours) late will receive 0% unless you've received an extension from me. 
 
 ## Participation
 
@@ -158,7 +196,7 @@ Under certain circumstances, you can receive an exemption which will allow you n
 
 In either case, I will match you with a group of students in a similar situation. You will be responsible for working out an alternative meeting time over Zoom. 
 
-Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. **The lowest two grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
+Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. Your Discussion activities are graded on participation: if you've put in 50 minutes of solid effort, you'll get full credit. Generally, you'll only receive less than full credit if you didn't attend Discussion (in which case you'll receive a 0 for that day). **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
 
 ### Missing a Discussion Section 
 
@@ -187,6 +225,97 @@ The midterm exam will take place on the Monday of Week 6. It will be released at
 The final exam for this course will take place during the standard final exam period, at a time TBD. The exam will be released at 8am, Pacific Time, on the scheduled day, and will be due at 7:59am, Pacific Time, on the following day. The exam is intended to require approximately three hours of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ## Extra Credit
+
+There are a few ways to earn extra credit in PIC16A, which I describe in the "Extra Credit" section below. 
+
+<div class="fancy-h1"> COVID-19 </div>
+
+## Precautions
+
+- Mask-wearing is required for all in-person activities. If a student declines to wear a mask, I or the TA will immediately halt the activity. 
+- To the extent possible in our assigned space, we will try to maintain physical distancing. This can be a little tricky with group-work, and we'll need to do some experimentation to get things right. 
+
+## Positive Test
+
+I'll be real with you: it's likely that several people in this class, possibly including you or I, will test positive for  COVID-19 during this quarter. 
+
+If you test positive or experience symptoms of COVID-19, please: 
+
+1. **Do not come to class.** 
+2. Follow UCLA Health's [instructions](https://www.uclahealth.org/conditions-we-treat/coronavirus/covid-19-positive) for what to do next. 
+3. If you're able, send me an email to let me know that you are experiencing health issues and that you will need appropriate accommodations. 
+4. Listen to your body, drink lots of fluids, and rest. You're going to be ok, and your grade in this course is going to be ok, too. 
+
+If you've tested positive but are feeling well, it's still possible to catch all course content and activities. I'll be recording Live Lectures and posting them on CCLE -- catch up with them there. Tell your group that you will need to Zoom in to Discussion. Come to Zoom Student Hours. You don't have to miss a thing! Just don't physically come to class until you've completed your quarantine. If you aren't feeling well, then don't push yourself. I'll make sure you're able to make up work without penalty. 
+
+If I test positive, I will cancel in-person Live Lectures and Student Hours. Depending on my state, I may offer online Live Lecture and Student Hours as a replacement. 
+
+<div class="fancy-h1"> The Hidden Curriculum </div>
+
+The *hidden curriculum* refers to the implicit knowledge and habits---not usually taught explicitly---that students pick up "along the way" in their education. These often relate to asking for help, using available resources, and planning work. Often, students with college-educated parents are more comfortable in the hidden curriculum than first-generation college students. I'd like to make sure that **everyone** knows the following about my class. 
+
+- **It's never wrong to ask me for help.** <br>
+It is literally my job to help you succeed in this class. If at any time you're concerned about your ability to keep up the pace, just reach out and we'll see what we can do. I won't always be able to give you exactly the support you request, but I will do my best. I'm more able to help you out if you **approach me early**, as soon as issues come up. 
+- **Your wellbeing comes first.** <br>
+If you are experiencing circumstances that make it difficult for you to complete your work for this class---especially if those circumstances are health-related---please let me know. There are plenty of drops for Discussion and quizzes, and I will grant extensions on homework assignments with valid reasons. "I didn't manage my time well this week" isn't a valid reason (in this case I would suggest you use your one homework drop), but "I am sick," "my internet is unreliable," "I am changing housing," etc. etc. are all appropriate. 
+- **Student Hours are for you.** <br>
+Student Hours, often called "Office Hours" in other courses, are **your time**. Come by to ask questions, chat with me, or just work on homework. You don't need a "reason" to come to Student Hours, and you shouldn't worry about disturbing me. Again, it's **your time.** 
+- **You can ask me to advocate for you.** <br>
+This is most commonly related to letters of recommendation (see section "Advice and Letters of Recommendation"), but if there's another way in which I can use my position to help you, let me know. 
+- **If something is hard for you, that's ok.** <br>
+Maybe you're struggling on a problem. That's good! I know it feels frustrating, but *that is where learning happens.* If you are having a hard time on a problem, please remember: 
+  - You are not the only one. I promise. 
+  - You are not a bad student. 
+  - You can still succeed in this class and in future endeavors involving programming. 
+  - Ask for help! I, the TA, the LAs, and your classmates are all here for you. 
+- **It's ok---actually, it's awesome---to collaborate with your peers on homework.** <br>
+It's not cheating to work together on homeworks (at least in this class). Make sure to credit your collaborators at the top of your assignment, and observe the considerations in the section "Collaboration and Academic Honesty." 
+
+
+
+
+<!-- <div class="fancy-h1">Learning on Zoom</div>
+
+## Cameras
+
+  We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation admits. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
+
+  When working in groups in your discussion section, it is especially important to engage with your group members as peers, mentors, and individuals. You are **strongly encouraged** to turn your cameras on when working with your teams. LAs rotating through the groups may ask you why your camera is off. 
+
+## Microphones
+
+  In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise.  -->
+
+<div class="fancy-h1">Course Environment </div>
+
+<div class="blocks">
+    <div class="pink-bg">
+        <h3>Diversity</h3>
+        You deserve to be welcomed and celebrated by our community. We embrace diversity of age, background, beliefs, ethnicity, gender, gender identity, gender expression, national origin, religious affiliation, sexual orientation, and other visible and non-visible categories. <b>Discrimination is not tolerated in my classroom.</b>
+    </div>
+    <div class="lightblue-bg">
+        <h3>Title IX</h3>
+        You deserve a learning environment free from discrimination, sexual harassment, sexual assault, domestic violence, dating violence, and stalking. If you experience these behaviors or otherwise know of a Title IX violation, you have many options for support and/or reporting. The UCLA <a href="https://www.sexualharassment.ucla.edu/">Title IX Office</a> can help you navigate your options.  
+    </div>
+    <div class="yellow-bg">
+        <h3>Accessibility</h3>
+        You deserve to fully and equitably participate in our learning environment. I am actively putting effort into ensuring that course materials are screen-reader accessible, and welcome feedback on where I can do better. The UCLA <a href = "https://www.cae.ucla.edu/"> Center for Accessible Education</a> and <a href="https://dcp.ucla.edu/">Disabilities and Computing Program</a> may be able to help remove barriers to learning. 
+    </div>
+    <div class="grey-bg">
+        <h3>Names and Pronouns</h3>
+        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their correct pronouns. 
+    </div>
+</div>
+
+<br>
+
+<div class="fancy-h1"> Collaboration and Academic Honesty</div>
+
+I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions at a conceptual level. Sharing code is usually ok, but should usually be minimized. That is, you should attempt to share the smallest amount of code possible that would help you ask your question or answer someone else's question. Additionally, you should discuss to ensure that everyone understands what's going on! **Blind copy/paste won't help anyone learn.**
+
+The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code).
+
+<div class="fancy-h1"> Extra Credit</div>
 
 There are several ways to earn extra credit in PIC16A. 
 
@@ -240,47 +369,6 @@ You can get extra credit just by coming to Student Hours! The first time you att
 
 There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each. 
 
-<!-- <div class="fancy-h1">Learning on Zoom</div>
-
-## Cameras
-
-  We're all humans. Many of us are feeling isolated or lonely in the time of COVID. As your instructor, it brightens my day to see your faces. So, when attending lecture, **please consider turning your camera on**, if your situation admits. There is no judgement and no penalty for attending lecture in bed, in you pajamas, wrapped in a blanket, etc. Conversely, there is no penalty for leaving your camera off, and I will not inquire. 
-
-  When working in groups in your discussion section, it is especially important to engage with your group members as peers, mentors, and individuals. You are **strongly encouraged** to turn your cameras on when working with your teams. LAs rotating through the groups may ask you why your camera is off. 
-
-## Microphones
-
-  In large meetings, it's good etiquette to mute your microphone when you are not actively talking. Feel free to unmute yourself when you have a question for me or for the TA. When working in small groups, leave your microphone on unless there's a lot of ambient noise.  -->
-
-<div class="fancy-h1">Course Environment </div>
-
-<div class="blocks">
-    <div class="pink-bg">
-        <h3>Diversity</h3>
-        You deserve to be welcomed and celebrated by our community. We embrace diversity of age, background, beliefs, ethnicity, gender, gender identity, gender expression, national origin, religious affiliation, sexual orientation, and other visible and non-visible categories. <b>Discrimination is not tolerated in my classroom.</b>
-    </div>
-    <div class="lightblue-bg">
-        <h3>Title IX</h3>
-        You deserve a learning environment free from discrimination, sexual harassment, sexual assault, domestic violence, dating violence, and stalking. If you experience these behaviors or otherwise know of a Title IX violation, you have many options for support and/or reporting. The UCLA <a href="https://www.sexualharassment.ucla.edu/">Title IX Office</a> can help you navigate your options.  
-    </div>
-    <div class="yellow-bg">
-        <h3>Accessibility</h3>
-        You deserve to fully and equitably participate in our learning environment. I am actively putting effort into ensuring that course materials are screen-reader accessible, and welcome feedback on where I can do better. The UCLA <a href = "https://www.cae.ucla.edu/"> Center for Accessible Education</a> and <a href="https://dcp.ucla.edu/">Disabilities and Computing Program</a> may be able to help remove barriers to learning. 
-    </div>
-    <div class="grey-bg">
-        <h3>Names and Pronouns</h3>
-        You deserve to be addressed in the manner that reflects who you are. I welcome to tell me your pronouns and/or preferred name at any time, either in person or via email. Conversely, please address your classmates according to their correct pronouns. 
-    </div>
-</div>
-
-<br>
-
-<div class="fancy-h1"> Collaboration and Academic Honesty</div>
-
-I heartily encourage you to collaborate with your peers on homework and many in-class activities. You should ask questions, brainstorm ideas, and offer suggestions at a conceptual level. Sharing code is usually ok, but should usually be minimized. That is, you should attempt to share the smallest amount of code possible that would help you ask your question or answer someone else's question. Additionally, you should discuss to ensure that everyone understands what's going on! **Blind copy/paste won't help anyone learn.**
-
-The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code).
-
 <div class="fancy-h1"> Advice and Letters of Recommendation</div>
 
 ## Advice
@@ -308,41 +396,10 @@ I am very happy to discuss this policy with any student who has questions. Conve
 
 The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
-<div class="fancy-h1"> Getting Help </div>
-
-## Extensions Policy
-
-These are challenging times. From disease to internet access to political unrest, there are many reasons why you might struggle to complete your work on time. In awareness of this situation, PIC16A includes an large number of drops for homework, participation assignments, and quizzes -- around two weeks worth of drops in each category.  Additionally, there are several opportunities to earn a substantial amount of extra credit. 
-
-Research indicates that students of varying cultural backgrounds may feel more or less comfortable asking for extensions on assignments. Because of this, **I will generally not grant extensions** on assignments. If you are not able to complete an assignment on time, you will need to use one of your drops. If you foresee that you will be unable to complete multiple weeks worth of assignments, then please contact me and we will find a solution.   
-
-## Coding Problems
-
-If you are struggling with a problem on a homework assignment, or wondering about an in-class activity, you have several ways to get help. In approximate order, you should try: 
-
-1. Posting your question on the class discussion forum AND/OR asking your Discussion group members.  
-2. Attending the next MWF lecture period, which will often be used for relevant examples or Q&A. 
-3. Attending the office hours of either Kirill or myself. 
-
-## General Academic Concerns
-
-If you have concerns about your grades, general understanding, or ability to keep up in the course, you should initiate a conversation with me. We will set up a separate meeting to make sure you have the resources you need to succeed in PIC16A. 
-
-## Screen Reader Accessibility
-
-It is my sincere goal to ensure that this course is accessible to users of screen readers. It has come to my attention that, the posted lecture notes, it may at times be difficult for screen reader users to distinguish between code input and code output. I have done the following: 
-
-1. Code blocks are preceded by an indicator of the form `In [2]`, standing for "Input Number 2."  
-2. When a code block returns a value, the output is preceded by an indicator of the form `Out[2]`, standing for "Output Number 2."
-3. When a code block does not return a value, such as when a `print` statement is used, the output is not preceded by an output indicator. Instead, I have added a comment `# ---` between the input code and the printed output. 
-
-Thus, input and output blocks are separated by either an `Out[2]` indicator or a comment `# ---`. 
-
-If you have additional suggestions for how the course can be better made accessible to users of screen readers or other assistive technologies, I will receive them gratefully. 
 
 <div class="fancy-h1"> Listening </div>
 
-You are always welcome to speak with me about any experience or aspect of your life that may effect your safety, ability to learn, or ability to participate equitably in the UCLA community. 
+You are always welcome to speak with me about any experience or aspect of your life that may effect your safety, ability to learn, or ability to participate equitably in the UCLA community. I offer you the following commitments: 
 
 - I commit to welcoming and celebrating you, as you are. 
 - I commit to making time for you. 
