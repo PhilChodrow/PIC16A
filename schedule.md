@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Course Schedule (Spring 2021)
+title: Course Schedule (Fall 2021)
 permalink: schedule/
 ---
+
+Normal font means a Lecture day, *italics means a Discussion day.*
 
 <br>
 
@@ -19,12 +21,21 @@ permalink: schedule/
     </tr>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_even"> W1 </th>
+            <th rowspan="3" class="week_marker_odd"> W0 </th>
         </tr>
         <tr>
-            <td>03/29</td>
-            <td>Monday</td>
-            <td>Welcome!</td>
+            <td>09/23</td>
+            <td><i>Thursday</i></td>
+            <td><i>Why Programming?</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>09/24</td>
+            <td>Friday</td>
+            <td>Hello, PIC16A</td>
             <td><a href="https://docs.anaconda.com/anaconda/install/"> Install Anaconda</a></td>
             <td></td>
             <td></td>
@@ -36,9 +47,14 @@ permalink: schedule/
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/preliminaries/expectations_for_assignments.ipynb">Assignments</a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>03/31</td>
-            <td>Wednesday</td>
+            <th rowspan="6" class="week_marker_even"> W1 </th>
+        </tr>
+        <tr>
+            <td>09/27</td>
+            <td>Monday</td>
             <td>Data Types, Lists</td>
             <td></td>
             <td> 
@@ -72,8 +88,17 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>04/02</td>
-            <td>Friday</td>
+            <td>09/28</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>09/29</td>
+            <td>Wednesday</td>
             <td>Control Flow</td>
             <td></td>
             <td> 
@@ -101,14 +126,18 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
-    </tbody>
-    <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_odd"> W2 </th>
+            <td>09/30</td>
+            <td><i>Thursday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>04/05</td>
-            <td>Monday</td>
+            <td>10/01</td>
+            <td>Friday</td>
             <td>Collections</td>
             <td></td>
             <td> 
@@ -134,9 +163,14 @@ permalink: schedule/
                 <a href="https://docs.python.org/3/tutorial/datastructures.html">Python Tutorial 5</a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
+        <tr>
+            <th rowspan="6" class="week_marker_odd"> W2 </th>
+        </tr>
         <tr>   
-            <td>04/07</td>
-            <td>Wednesday</td>
+            <td>10/04</td>
+            <td>Monday</td>
             <td>Functions</td>
             <td></td>
             <td>
@@ -161,10 +195,10 @@ permalink: schedule/
             <td><a href="https://docs.python.org/3/tutorial/controlflow.html#defining-functions">Python Tutorial 4.6-7</a></td>
         </tr>
         <tr>
-            <td>04/08</td>
-            <td>Thursday</td>
+            <td>10/05</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
             <td></td>
-            <td><div class="hw"> HW1 due</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -172,9 +206,9 @@ permalink: schedule/
             <td></td>
         </tr>
         <tr>
-            <td>04/09</td>
-            <td>Friday</td>
-            <td>Functions</td>
+            <td>10/06</td>
+            <td>Wednesday</td>
+            <td>More Functions</td>
             <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/functions/functions_3.ipynb"> 
@@ -196,14 +230,20 @@ permalink: schedule/
             </td>
             <td><a href="https://docs.python.org/3/tutorial/errors.html">Python Tutorial 8</a></td>
         </tr>
-    </tbody>
-    <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_even"> W3 </th>
+            <td>10/07</td>
+            <td><i>Thursday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td><div class="hw"> HW1 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>04/12</td>
-            <td>Monday</td>
+            <td>10/08</td>
+            <td>Friday</td>
             <td>Object-Oriented Programming</td>
             <td></td>
             <td>
@@ -230,8 +270,33 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>04/14</td>
+            <th rowspan="6" class="week_marker_even"> W3 </th>
+        </tr>
+        <tr>
+            <td>10/11</td>
+            <td>Monday</td>
+            <td><b>Indigenous People's Day</b></td>
+            <td>No lecture, no quiz</td>
+            <td></td>
+            <td></td>
+            <td><a src="https://equity.ucla.edu/know/resources-on-native-american-and-indigenous-affairs/native-american-and-indigenous-peoples-faqs/#indla">FAQs: Native American and Indigenous Peoples</a></td>
+        </tr>
+        <tr>
+            <td>10/12</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10/13</td>
             <td>Wednesday</td>
             <td>Inheritance</td>
             <td></td>
@@ -260,9 +325,9 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>04/15</td>
-            <td>Thursday</td>
-            <td></td>
+            <td>10/14</td>
+            <td><i>Thursday</i></td>
+            <td><i>Discussion activity</i></td>
             <td><div class="hw"> HW2 due</div></td>
             <td></td>
             <td></td>
@@ -271,7 +336,7 @@ permalink: schedule/
             <td></td>
         </tr>
         <tr>
-            <td>04/16</td>
+            <td>10/15</td>
             <td>Friday</td>
             <td>Iteration</td>
             <td>
@@ -311,22 +376,11 @@ permalink: schedule/
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_odd"> W4 </th>
+            <th rowspan="6" class="week_marker_odd"> W4 </th>
         </tr>
         <tr>
-            <td>04/19</td>
+            <td>10/18</td>
             <td>Monday</td>
-            <td><i>Take a break! </i></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>04/21</td>
-            <td>Wednesday</td>
             <td>Numerical Computation</td>
             <td></td>
             <td>
@@ -370,10 +424,10 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>04/22</td>
-            <td>Thursday</td>
+            <td>10/19</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
             <td></td>
-            <td><div class="hw"> HW3 due</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -381,8 +435,8 @@ permalink: schedule/
             <td></td>
         </tr>
         <tr>
-            <td>04/23</td>
-            <td>Friday</td>
+            <td>10/20</td>
+            <td>Wednesday</td>
             <td>More Numerical Computation</td>
             <td></td>
             <td>
@@ -413,17 +467,22 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
-    </tbody>
-    <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_even"> W5 </th>
-        </tr>  
+            <td>10/21</td>
+            <td><i>Thursday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td><div class="hw"> HW3 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
-            <td>04/26</td>
-            <td>Monday</td>
+            <td>10/22</td>
+            <td>Friday</td>
             <td>Modules and Tests</td>
-            <td>
-            </td>
+            <td></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/IO_and_modules/modules/modules.ipynb">
                     Modules
@@ -453,9 +512,14 @@ permalink: schedule/
                 </a> 
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>04/28</td>
-            <td>Wednesday</td>
+            <th rowspan="6" class="week_marker_even"> W5 </th>
+        </tr>  
+        <tr>
+            <td>10/25</td>
+            <td>Monday</td>
             <td>Input/Output</td>
             <td></td>
             <td>
@@ -487,9 +551,29 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>04/29</td>
-            <td>Thursday</td>
+            <td>10/26</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
             <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10/27</td>
+            <td>Wednesday</td>
+            <td>Midterm Review</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10/28</td>
+            <td><i>Thursday</i></td>
+            <td><i>Discussion activity</i></td>
             <td><div class="hw"> HW4 due</div></td>
             <td></td>
             <td></td>
@@ -498,10 +582,10 @@ permalink: schedule/
             <td></td>
         </tr> 
         <tr>
-            <td>04/30</td>
+            <td>10/29</td>
             <td>Friday</td>
-            <td>Midterm Review</td>
-            <td></td>
+            <td>No Lecture</td>
+            <td><div class="exam">Midterm exam</div></td>
             <td></td>
             <td></td>
             <td></td>
@@ -509,20 +593,11 @@ permalink: schedule/
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="4" class="week_marker_odd"> W6 </th>
+            <th rowspan="6" class="week_marker_odd"> W6 </th>
         </tr>
         <tr>
-            <td>05/03</td>
+            <td>11/01</td>
             <td>Monday</td>
-            <td>No Lecture</td>
-            <td><div class="exam">Midterm exam</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>05/05</td>
-            <td>Wednesday</td>
             <td>Data Visualization</td>
             <td></td>
             <td>
@@ -566,12 +641,21 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>05/07</td>
-            <td>Friday</td>
+            <td>11/02</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/03</td>
+            <td>Wednesday</td>
             <td>Tabular Data I</td>
-            <td>
-                <div class="project"> Project assigned</div>
-            </td>
+            <td><div class="project"> Project assigned</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/pd/pd_1.ipynb">
                     Pandas I
@@ -612,14 +696,20 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
-    </tbody>
-    <tbody class="week">
         <tr>
-            <th rowspan="6" class="week_marker_even"> W7 </th>
-        </tr>
+            <td>11/04</td>
+            <td><i>Thursday</i></td>
+            <td><i><div class="project"> Project activity</div></i></td>
+            <td> No HW due this week!!</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr> 
         <tr>
-            <td>05/10</td>
-            <td>Monday</td>
+            <td>11/05</td>
+            <td>Friday</td>
             <td>Tabular Data II</td>
             <td></td>
             <td>
@@ -646,18 +736,14 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
+    </tbody>
+    <tbody class="week">
         <tr>
-            <td>05/11</td>
-            <td>Tuesday</td>
-            <td></td>
-            <td><div class="project"> Project activity</div></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <th rowspan="6" class="week_marker_even"> W7 </th>
         </tr>
         <tr>
-            <td>05/12</td>
-            <td>Wednesday</td>
+            <td>11/08</td>
+            <td>Monday</td>
             <td>Machine Learning I</td>
             <td></td>
             <td>
@@ -697,17 +783,17 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>05/13</td>
-            <td>Thursday</td>
+            <td>11/09</td>
+            <td><i>Tuesday</i></td>
+            <td><i><div class="project"> Project activity</div></i></td>
             <td></td>
-            <td><div class="project"> Project Activity</div><div class="hw"> HW5 due</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>05/14</td>
-            <td>Friday</td>
+            <td>11/10</td>
+            <td>Wednesday</td>
             <td>Machine Learning II</td>
             <td></td>
             <td>
@@ -748,13 +834,31 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>11/11</td>
+            <td><i>Thursday</i></td>
+            <td><i>Veteran's Day: No Discussion!</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/12</td>
+            <td>Friday</td>
+            <td>Catch up day: no videos, no quiz</td>
+            <td><div class="hw"> HW5 due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
     <tbody class="week">
         <tr>
             <th rowspan="6" class="week_marker_odd"> W8</th>
         </tr>
         <tr>
-            <td>05/17</td>
+            <td>11/15</td>
             <td>Monday</td>
             <td>Machine Learning III</td>
             <td></td>
@@ -781,16 +885,16 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>05/18</td>
-            <td>Tuesday</td>
+            <td>11/16</td>
+            <td><i>Tuesday</i></td>
+            <td><i><div class="project"> Project activity</div></i></td>
             <td></td>
-            <td><div class="project"> Project activity</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>05/19</td>
+            <td>11/17</td>
             <td>Wednesday</td>
             <td>Machine Learning IV </td>
             <td></td>
@@ -815,19 +919,19 @@ permalink: schedule/
             <td>None.</td>
         </tr>
         <tr>
-            <td>05/20</td>
-            <td>Thursday</td>
+            <td>11/18</td>
+            <td><i>Thursday</i></td>
+            <td><i><div class="project"> Project activity</div></i></td>
             <td></td>
-            <td><div class="project"> Project activity</div><div class="hw"> HW6 due</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>05/21</td>
+            <td>11/19</td>
             <td>Friday</td>
             <td>Algorithmic Bias</td>
-            <td></td>
+            <td><div class="hw"> HW6 due</div></td>
             <td></td>
             <td>
                 <a href="https://youtu.be/Ok5sKLXqynQ">
@@ -843,10 +947,10 @@ permalink: schedule/
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_even"> W9 </th>
+            <th rowspan="6" class="week_marker_even"> W9 </th>
         </tr>
         <tr>
-            <td>05/24</td>
+            <td>11/22</td>
             <td>Monday</td>
             <td>Natural Language Processing I</td>
             <td></td>
@@ -879,7 +983,16 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>05/26</td>
+            <td>11/23</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11/24</td>
             <td>Wednesday</td>
             <td>Natural Language Processing II</td>
             <td></td>
@@ -900,18 +1013,18 @@ permalink: schedule/
             <td>None.</td>
         </tr>
         <tr>
-            <td>05/27</td>
-            <td>Thursday</td>
+            <td>11/25</td>
+            <td><i>Thursday</i></td>
+            <td><i>Thanksgiving -- get some rest</i></td>
             <td></td>
-            <td><div class="hw"> HW7 due</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>05/28</td>
+            <td>11/26</td>
             <td>Friday</td>
-            <td><i>Get some rest, work on projects, etc.</i></td>
+            <td>Thanksgiving -- get some rest</td>
             <td></td>
             <td></td>
             <td></td>
@@ -920,22 +1033,13 @@ permalink: schedule/
     </tbody>
     <tbody class="week">
         <tr>
-            <th rowspan="5" class="week_marker_odd"> W10 </th>
+            <th rowspan="6" class="week_marker_odd"> W10 </th>
         </tr>
         <tr>
-            <td>05/31</td>
+            <td>11/29</td>
             <td>Monday</td>
-            <td><i>Memorial Day Holiday</i></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>06/02</td>
-            <td>Wednesday</td>
             <td>Regular Expressions <i>(optional content)</i></td>
-            <td></td>
+            <td><div class="hw"> HW7 due</div></td>
             <td>
                 <a href="https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/content/regex/regex_1.ipynb">
                     Regex I
@@ -979,19 +1083,19 @@ permalink: schedule/
             </td>
         </tr>
         <tr>
-            <td>06/03</td>
-            <td>Thursday</td>
+            <td>11/30</td>
+            <td><i>Tuesday</i></td>
+            <td><i>Discussion activity</i></td>
             <td></td>
-            <td><div class="hw"> HW8 due</div></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>06/04</td>
-            <td>Friday</td>
+            <td>12/01</td>
+            <td>Wednesday</td>
             <td>Graphical Interfaces <i>(optional content)</i></td>
-            <td><div class="project"> Project due</div></td>
+            <td></td>
             <td>
                 <a href="https://github.com/PhilChodrow/PIC16A/blob/master/content/gui/gui_1.py">
                     Frames and Labels
@@ -1030,5 +1134,24 @@ permalink: schedule/
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>12/02</td>
+            <td><i>Thursday</i></td>
+            <td><i>Discussion activity</i></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12/03</td>
+            <td>Friday</td>
+            <td>Exam review</td>
+            <td><div class="project"> Project due</div></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         </tbody>
     </table>
+    
