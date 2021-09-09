@@ -271,6 +271,8 @@ Maybe you're struggling on a problem. That's good! I know it feels frustrating, 
 - **It's ok---actually, it's awesome---to collaborate with your peers on homework.** <br>
 It's not cheating to work together on homeworks (at least in this class). Make sure to credit your collaborators at the top of your assignment, and observe the considerations in the section "Collaboration and Academic Honesty." 
 
+To expand on one of the points above: if you are a first-gen student, I especially encourage you to reach out to me. I'll offer you what tips I can about navigating your time at UCLA. 
+
 
 
 
