@@ -282,7 +282,7 @@ Normal font means a Lecture day, *italics means a Discussion day.*
             <td>No lecture, no quiz</td>
             <td></td>
             <td></td>
-            <td><a src="https://equity.ucla.edu/know/resources-on-native-american-and-indigenous-affairs/native-american-and-indigenous-peoples-faqs/#indla">FAQs: Native American and Indigenous Peoples</a></td>
+            <td><a href="https://equity.ucla.edu/know/resources-on-native-american-and-indigenous-affairs/native-american-and-indigenous-peoples-faqs/#indla">FAQs: Native American and Indigenous Peoples</a></td>
         </tr>
         <tr>
             <td>10/12</td>
