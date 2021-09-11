@@ -146,15 +146,15 @@ If I could drop grades and simply give you feedback on how you can grow, I would
   <dt>Homework &nbsp;</dt>
   <dd> 30%</dd>
   <dt>Participation &nbsp;</dt>
-  <dd> 20%</dd>
+  <dd> 15%</dd>
   <dt>Quizzes &nbsp;</dt>
   <dd> 10%</dd>
   <dt>Mini-Project &nbsp;</dt>
-  <dd> 10%</dd>
+  <dd> 15%</dd>
   <dt>Midterm Exam &nbsp;</dt>
-  <dd> 10%</dd>
-  <dt>Final Exam &nbsp;</dt>
   <dd> 20%</dd>
+  <dt>Final Exam &nbsp;</dt>
+  <dd> 10%</dd>
 </dl>
 
 ## We Are All On The Same Team
@@ -187,7 +187,7 @@ The lowest homework score will be dropped. Homeworks can be submitted up to 3 da
 
 Attendance at scheduled lecture sessions is **encouraged but optional**. You can achieve a 100% in this course without ever attending a scheduled lecture section. Of course, attendance at lecture will help you learn the material more rapidly and thoroughly. Scheduled lecture sessions will include Q&A, discussion, supplementary lectures, and both individual and group activities.
 
-**Attendance at discussion sessions is expected**. What "expected" means is that Discussion activities count toward your overall grade. The highest grade that can be obtained in PIC16A without attending Discussion is a B+. 
+**Attendance at Discussion sessions is expected**. What "expected" means is that Discussion activities count toward your overall grade. The highest grade that can be obtained in PIC16A without attending Discussion is a B+. 
 
 Under certain circumstances, you can receive an exemption which will allow you not to attend the scheduled Discussion section. You should request an exemption from me if: 
 
@@ -222,7 +222,13 @@ The midterm exam will take place on the Monday of Week 6. It will be released at
 
 ## Final Exam
 
-The final exam for this course will take place during the standard final exam period, at a time TBD. The exam will be released at 8am, Pacific Time, on the scheduled day, and will be due at 7:59am, Pacific Time, on the following day. The exam is intended to require approximately three hours of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
+The final exam for this course will take place during the standard final exam period, at the time determined by the Registrar's office. The final exam **is not a coding exam**. Instead, you'll be asked to write very short essays on topics such as: 
+
+- Key concepts in machine learning. 
+- Algorithmic bias and the limitations of machine learning. 
+- Your role in the project, and what you learned from your experience.  
+
+This exam is not intended to be "tricky." If you've been following lectures and actively participating in your group project, you should do fine. 
 
 ## Extra Credit
 
