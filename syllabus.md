@@ -131,6 +131,16 @@ If you're not able to attend the scheduled Student Hours, please email me and we
 
 All students on the waitlist will be enrolled in the course at the end of Week 2. Waitlisted students are expected to keep up with all course activities and assignments. If you join the waitlist during the first two weeks, contact me to discuss make-up work. 
 
+<div class="fancy-h1">How You'll Learn</div>
+
+
+Here's a simple summary of what you'll do in a typical week of PIC16A. <br> <br> 
+
+<img src="https://raw.githubusercontent.com/PhilChodrow/PIC16A/master/_images/week-in-the-life.png"/>
+
+<br> 
+
+
 <div class="fancy-h1"> Assessment</div>
 
 
@@ -238,7 +248,7 @@ There are a few ways to earn extra credit in PIC16A, which I describe in the "Ex
 
 ## Precautions
 
-- Mask-wearing is required for all in-person activities. If a student declines to wear a mask, I or the TA will immediately halt the activity. 
+- Mask-wearing is required for all in-person activities unless you have received an exemption from a medical professional. 
 - To the extent possible in our assigned space, we will try to maintain physical distancing. This can be a little tricky with group-work, and we'll need to do some experimentation to get things right. 
 
 ## Positive Test
@@ -247,7 +257,7 @@ I'll be real with you: it's likely that several people in this class, possibly i
 
 If you test positive or experience symptoms of COVID-19, please: 
 
-1. **Do not come to class.** 
+1. **Do not come to Lecture or Discussion.** 
 2. Follow UCLA Health's [instructions](https://www.uclahealth.org/conditions-we-treat/coronavirus/covid-19-positive) for what to do next. 
 3. If you're able, send me an email to let me know that you are experiencing health issues and that you will need appropriate accommodations. 
 4. Listen to your body, drink lots of fluids, and rest. You're going to be ok, and your grade in this course is going to be ok, too. 
