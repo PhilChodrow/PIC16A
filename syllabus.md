@@ -276,7 +276,7 @@ It is literally my job to help you succeed in this class. If at any time you're 
 - **Your wellbeing comes first.** <br>
 If you are experiencing circumstances that make it difficult for you to complete your work for this class---especially if those circumstances are health-related---please let me know. There are plenty of drops for Discussion and quizzes, and I will grant extensions on homework assignments with valid reasons. "I didn't manage my time well this week" isn't a valid reason (in this case I would suggest you use your one homework drop), but "I am sick," "my internet is unreliable," "I am changing housing," etc. etc. are all appropriate. 
 - **Student Hours are for you.** <br>
-Student Hours, often called "Office Hours" in other courses, are **your time**. Come by to ask questions, chat with me, or just work on homework. You don't need a "reason" to come to Student Hours, and you shouldn't worry about disturbing me. Again, it's **your time.** 
+Student Hours, often called "Office Hours" in other courses, are **your time**. Come by to ask questions, chat with me, or just work on homework. You don't need a "reason" to come to Student Hours, and you shouldn't worry about disturbing me. Again, it's **your time.** I'll be very happy to see you.
 - **You can ask me to advocate for you.** <br>
 This is most commonly related to letters of recommendation (see section "Advice and Letters of Recommendation"), but if there's another way in which I can use my position to help you, let me know. 
 - **If something is hard for you, that's ok.** <br>
