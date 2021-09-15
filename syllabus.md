@@ -136,7 +136,8 @@ All students on the waitlist will be enrolled in the course at the end of Week 2
 
 Here's a simple summary of what you'll do in a typical week of PIC16A. <br> <br> 
 
-<img src="https://raw.githubusercontent.com/PhilChodrow/PIC16A/master/_images/week-in-the-life.png"/>
+<img alt="A summary of activities during the week. Monday: lecture videos + readings, got it; skip live lecture, take quiz, start on HW with group. Tuesday: Discussion, I'm the reviewer today, get a head-start on tomrrow's lecture videos + readings, kind of confused -- post on Campuswire. Wednesday: still confused; attend live lecture, I think I've got it, take quiz, think a little about extra credit essay. Thursday: Discussion, I'm the Driver today, my cat helped me type the code, finish HW solo, go to OH. Friday: Lecture videos + readings, got it, skip lecture, look at new HW, take quiz, answer a few questions on Campuswire. Weekend: rest." 
+src="https://raw.githubusercontent.com/PhilChodrow/PIC16A/master/_images/week-in-the-life.png"/>
 
 <br> 
 
