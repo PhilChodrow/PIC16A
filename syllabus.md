@@ -16,6 +16,7 @@ permalink: syllabus/
 I've included a considerable amount of flexibility in this course. 
 If you anticipate extended difficulties related to participation or assignments, reach out to me at the earliest opportunity. 
 We'll find a path that prioritizes your wellbeing while still enabling you to succeed in the course. 
+I've given some examples below about some situations in which I hope you'll reach out. 
 4. **We've got your back.** As the instructor, I'm available to you through multiple channels. You also have an amazing support team---your TAs, LAs, and peers are all here to help you in your learning journey.  
 
 <div class="fancy-h1"> Who Am I? </div>
@@ -229,7 +230,7 @@ There will be a group project due at the end of the course. Working with your gr
 
 ## Midterm Exam
 
-The midterm exam will take place on the Monday of Week 6. It will be released at 8am, Pacific Time, and will be due 24 hours later at 7:59am, Pacific Time, on the following Tuesday. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
+The midterm exam will take place in Week 5 or Week 6. It will be released at 8am, Pacific Time on one day, and will be due 24 hours later at 7:59am, Pacific Time, on the following day. The exam is intended to require approximately ninety minutes of effort, but you are free to spend more time on it within the 24 hours. This exam is open-book and open-notes.  
 
 ## Final Exam
 
@@ -244,6 +245,8 @@ This exam is not intended to be "tricky." If you've been following lectures and 
 ## Extra Credit
 
 There are a few ways to earn extra credit in PIC16A, which I describe in the "Extra Credit" section below. 
+
+
 
 <div class="fancy-h1"> COVID-19 </div>
 
@@ -289,6 +292,20 @@ Maybe you're struggling on a problem. That's good! I know it feels frustrating, 
 It's not cheating to work together on homeworks (at least in this class). Make sure to credit your collaborators at the top of your assignment, and observe the considerations in the section "Collaboration and Academic Honesty." 
 
 To expand on one of the points above: if you are a first-gen student, I especially encourage you to reach out to me. I'll offer you what tips I can about navigating your time at UCLA. 
+
+<div class="fancy-h1"> Prioritizing Your Wellbeing </div>
+
+One of the guiding principles of this course is that **your wellbeing comes first.** 
+If your wellbeing comes into conflict with the course obligations, I hope that you'll prioritize your wellbeing and reach out to me. 
+
+- If you or someone you love is experiencing a **health crisis**, prioritize your wellbeing. You can use some of your drops to take a break from assignments, or you can also ask me for an extension or other accommodation. 
+- If some aspect of the course is causing undue **stress or anxiety**, feel free to let me know. I regularly make adjustments to the course to promote student mental health while still meeting course learning objectives. 
+- If you do not have **reliable internet** or other resources needed to access class resources, let me know and we'll see what we can do. 
+- If you are having trouble **managing your time**, feel free to ask me for advice. I don't usually grant accommodations for this reason, but I may be able to help you use your time more efficiently in the future. 
+
+
+These examples are not exhaustive. If you are in any situation in which you feel that your obligations to PIC16A are detrimental to your wellbeing or the wellbeing of someone you love, **please consider contacting me.** 
+
 
 
 
