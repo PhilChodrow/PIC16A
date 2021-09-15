@@ -304,7 +304,7 @@ If your wellbeing comes into conflict with the course obligations, I hope that y
 - If you are having trouble **managing your time**, feel free to ask me for advice. I don't usually grant accommodations for this reason, but I may be able to help you use your time more efficiently in the future. 
 
 
-These examples are not exhaustive. If you are in any situation in which you feel that your obligations to PIC16A are detrimental to your wellbeing or the wellbeing of someone you love, **please consider contacting me.** 
+These examples are not exhaustive. If you are in any situation in which you feel that your obligations to PIC16A are detrimental to your wellbeing or the wellbeing of someone you love, **please consider contacting me.** Please also remember that the sooner you approach me, the better I can help you. 
 
 
 
