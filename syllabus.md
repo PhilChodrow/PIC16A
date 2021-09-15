@@ -22,7 +22,7 @@ We'll find a path that prioritizes your wellbeing while still enabling you to su
 
 I’m  a visiting assistant professor in the Department of Mathematics at UCLA. My pronouns are *he/him/his*. I grew up in Virginia, did undergrad at Swarthmore College in Pennsylvania, and did my PhD (after a few years traveling and working) at MIT. Then I came here to UCLA! 
 
-I love applied math, ethical data science, Star Trek, penguins, cooking, tea, studio Ghibli movies, traditional martial arts, and effective pedagogy.
+I love applied math, ethical data science, Star Trek, penguins, cooking, tea, Studio Ghibli movies, traditional martial arts, and effective pedagogy.
 
 ## How to Address Me
 
