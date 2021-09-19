@@ -208,7 +208,7 @@ Under certain circumstances, you can receive an exemption which will allow you n
 
 In either case, I will match you with a group of students in a similar situation. You will be responsible for working out an alternative meeting time over Zoom. 
 
-Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. Your Discussion activities are graded on participation: if you've put in 50 minutes of solid effort, you'll get full credit. Generally, you'll only receive less than full credit if you didn't attend Discussion (in which case you'll receive a 0 for that day). **The lowest four grades from discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
+Discussion sections will include **graded** group work, including exercises and creative problem-solving. This graded work is the basis of your participation score. Your Discussion activities are graded on participation: if you've put in 50 minutes of solid effort, you'll get full credit. Generally, you'll only receive less than full credit if you didn't attend Discussion (in which case you'll receive a 0 for that day). **The lowest three grades from Discussion assignments will be dropped.** You are expected to consult the [expectations for working in groups](http://philchodrow.github.io/PIC16A/groups/) prior to the first Discussion section of the quarter.  
 
 ### Missing a Discussion Section 
 
