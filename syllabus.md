@@ -250,14 +250,13 @@ There are a few ways to earn extra credit in PIC16A, which I describe in the "Ex
 
 <div class="fancy-h1"> COVID-19 </div>
 
-## Precautions
+## Masks
 
-- Mask-wearing is required for all in-person activities unless you have received an exemption from a medical professional. 
-- To the extent possible in our assigned space, we will try to maintain physical distancing. This can be a little tricky with group-work, and we'll need to do some experimentation to get things right. 
+Mask-wearing is required for all in-person activities unless you have received an exemption from CAE.  
 
 ## Positive Test
 
-I'll be real with you: it's likely that several people in this class, possibly including you or I, will test positive for  COVID-19 during this quarter. 
+I'll be real with you: there is a fair chance that several people in this class, possibly including you or I, will test positive for  COVID-19 during this quarter. 
 
 If you test positive or experience symptoms of COVID-19, please: 
 
@@ -266,7 +265,7 @@ If you test positive or experience symptoms of COVID-19, please:
 3. If you're able, send me an email to let me know that you are experiencing health issues and that you will need appropriate accommodations. 
 4. Listen to your body, drink lots of fluids, and rest. You're going to be ok, and your grade in this course is going to be ok, too. 
 
-If you've tested positive but are feeling well, it's still possible to catch all course content and activities. I'll be recording Live Lectures and posting them on CCLE -- catch up with them there. Tell your group that you will need to Zoom in to Discussion. Come to Zoom Student Hours. You don't have to miss a thing! Just don't physically come to class until you've completed your quarantine. If you aren't feeling well, then don't push yourself. I'll make sure you're able to make up work without penalty. 
+If you've tested positive but are feeling ok, it's still possible to catch all course content and activities. I'll be recording Live Lectures and posting them on CCLE -- catch up with them there. Tell your group that you will need to Zoom in to Discussion. Come to Zoom Student Hours. You don't have to miss a thing! Just don't physically come to class until you've completed your quarantine. If you aren't feeling well, then don't push yourself. I'll make sure you're able to make up work without penalty. 
 
 If I test positive, I will cancel in-person Live Lectures and Student Hours. Depending on my state, I may offer online Live Lecture and Student Hours as a replacement. 
 
@@ -287,7 +286,7 @@ Maybe you're struggling on a problem. That's good! I know it feels frustrating, 
   - You are not the only one. I promise. 
   - You are not a bad student. 
   - You can still succeed in this class and in future endeavors involving programming. 
-  - Ask for help! I, the TA, the LAs, and your classmates are all here for you. 
+  - Ask for help! You've got me,  the TA, the LAs, and your classmates. We are all here for you. 
 - **It's ok---actually, it's awesome---to collaborate with your peers on homework.** <br>
 It's not cheating to work together on homeworks (at least in this class). Make sure to credit your collaborators at the top of your assignment, and observe the considerations in the section "Collaboration and Academic Honesty." 
 
