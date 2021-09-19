@@ -350,6 +350,34 @@ I heartily encourage you to collaborate with your peers on homework and many in-
 
 The quizzes, midterm, and finals are open-book and open-notes. You should not discuss any aspect of these evaluations with your peers, and doing so will constitute a violation of UCLA's [student code of conduct](https://www.deanofstudents.ucla.edu/Individual-Student-Code).
 
+
+<div class="fancy-h1"> Advice and Letters of Recommendation</div>
+
+## Advice
+
+I am always happy to talk with you about your future plans, including internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. 
+
+## Letters of Recommendation
+
+You are also always welcome to ask me to write a recommendation letter supporting your applications. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
+
+### To Request a Letter
+
+Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
+
+### When I Won't Write a Letter
+
+As a matter of moral principle, I will not write letters of recommendation for programs or jobs with significant components supporting any of the following: 
+
+- Policing (including but not limited to predictive policing, development of algorithms that predict recidivism, etc.);
+- Military applications (such as internships at the Department of Defense or any of its international counterparts);
+- Weapons manufacturing, broadly construed;
+- Intelligence gathering (such as internships at the NSA, FBI, or any international counterpart).
+
+I am very happy to discuss this policy with any student who has questions. Conversations about when and how mathematics, data science, and programming should be used are lacking in our community. If you'd like to engage me in such a conversation, that would be great! However, this policy is non-negotiable. Therefore, if I refuse to write you a letter on these grounds, please know that it doesn't reflect on your merit or whether I like you. 
+
+The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
+
 <div class="fancy-h1"> Extra Credit</div>
 
 There are several ways to earn extra credit in PIC16A. 
@@ -404,32 +432,6 @@ You can get extra credit just by coming to Student Hours! The first time you att
 
 There will be several surveys throughout the quarter which allow you to give me feedback on the course. Completing these feedback surveys is worth 0.25% extra credit, each. 
 
-<div class="fancy-h1"> Advice and Letters of Recommendation</div>
-
-## Advice
-
-I am always happy to talk with you about your future plans, including internships, REUs, and graduate school applications. Because I am a creature of the academy, I am less knowledgeable about industry jobs, although you are welcome to ask about those too. 
-
-## Letters of Recommendation
-
-You are also always welcome to ask me to write a recommendation letter supporting your applications. I will usually agree to do so, although see the exceptions below. I will also tell you if I feel that the letter I would write would not be strong. Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or OH. If you'd like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.  
-
-### To Request a Letter
-
-Send me an email! Your email should clearly indicate  when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it's written. If possible, please include some sort of resume/CV --- it doesn't have to be official --- detailing your past experiences relevant to the application. **Please give me at least one month of advance notice** when possible. 
-
-### When I Won't Write a Letter
-
-As a matter of moral principle, I will not write letters of recommendation for programs or jobs with significant components supporting any of the following: 
-
-- Policing (including but not limited to predictive policing, development of algorithms that predict recidivism, etc.);
-- Military applications (such as internships at the Department of Defense or any of its international counterparts);
-- Weapons manufacturing, broadly construed;
-- Intelligence gathering (such as internships at the NSA, FBI, or any international counterpart).
-
-I am very happy to discuss this policy with any student who has questions. Conversations about when and how mathematics, data science, and programming should be used are lacking in our community. If you'd like to engage me in such a conversation, that would be great! However, this policy is non-negotiable. Therefore, if I refuse to write you a letter on these grounds, please know that it doesn't reflect on your merit or whether I like you. 
-
-The [Just Mathematics Collective](https://www.justmathematicscollective.net/) has compiled a list of resources for students on making ethical career decisions, which is available [here](https://justmathematicscollective.net/career_resources.html). The text of this section is lightly modified from their [suggested text](https://www.justmathematicscollective.net/letter_writing.html) on letter-writing. 
 
 
 <div class="fancy-h1"> Listening </div>
