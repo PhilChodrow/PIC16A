@@ -96,9 +96,9 @@ Here is some of the stuff that you will be able to do by the end of PIC16A.
 <dt> Instructor &nbsp;</dt>
 <dd> Phil Chodrow (<em>he/him</em>). Contact: <a href = "mailto:phil@math.ucla.edu">phil@math.ucla.edu</a> &nbsp;</dd>
 <dt> Teaching Assistant &nbsp; </dt>
-<dd> TBD. </dd>
+<dd> Hui Jin </dd>
 <dt> Learning Assistants &nbsp; </dt>
-<dd> TBD. </dd>
+<dd> Jaya Ren and Jonathan Liu </dd>
 </dl>
 
 ## Schedule
@@ -120,10 +120,10 @@ Student hours are *your time* to come speak with me or the TA about anything rel
 **I want you to come to Student Hours.** You'll get a small amount of extra credit the first time you come to Student Hours and ask a question.
 
 <dl>
-<dt>Prof. Chodrow </dt> <dd> TBD </dd> 
-<dt> &nbsp;</dt> <dd>TBD </dd>
+<dt>Prof. Chodrow </dt> <dd> Mondays at 10am PT, in person or via Zoom </dd> 
+<dt> &nbsp;</dt> <dd>Wednesdays at 6:30pm PT, via Zoom </dd>
 
-<dt> TA </dt> <dd>TBD </dd>
+<dt> Hui </dt> <dd>TBD </dd>
 </dl>
 
 If you're not able to attend the scheduled Student Hours, please email me and we will set up a separate time. 
