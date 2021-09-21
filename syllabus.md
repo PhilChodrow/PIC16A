@@ -175,7 +175,7 @@ I do not grade on the basis of ranks or other distributional information. Your f
 
 Concretely, your final letter grade in PIC16A is based on the following two factors: 
 
-1. **Your final course average.** I use the straight scale as a minimum, and reserve the right to be more generous. For example, if you achieve a final average of a 92 in the course, that guarantees you at least an A-. The only exception is the A+ grade, which is not guaranteed by any numerical average. I am very stingy with these and only give them out to students who have shown exceptional teamwork and creativity, in addition to ending the quarter with a very high average.
+1. **Your final course average.** I use the straight scale as a minimum, and reserve the right to be more generous. For example, if you achieve a final average of a 92 in the course, that guarantees you at least an A-. The only exception is the A+ grade, which is not guaranteed by any numerical average. I am very stingy with these and only give them out to students who have shown exceptional teamwork, creativity, reflection, and growth, in addition to ending the quarter with a very high average.
 2. **My professional assessment of your learning.** This is the "extra" that could push that A- to an A. You will have an opportunity on the final exam to reflect on your time in the course and share with me any information about your learning that may not be reflected in your numerical average.
 
 Thus, **you are not competing against your peers for grades.** This means that you don't hurt your own prospects when you help your peers understand a concept. Indeed, just the opposite -- when reasonably possible, I will reward exceptional collaboration. 
