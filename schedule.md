@@ -21,16 +21,7 @@ Normal font means a Lecture day, *italics means a Discussion day.*
     </tr>
     <tbody class="week">
         <tr>
-            <th rowspan="3" class="week_marker_odd"> W0 </th>
-        </tr>
-        <tr>
-            <td>09/23</td>
-            <td><i>Thursday</i></td>
-            <td><i>Why Programming?</i></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <th rowspan="2" class="week_marker_odd"> W0 </th>
         </tr>
         <tr>
             <td>09/24</td>
