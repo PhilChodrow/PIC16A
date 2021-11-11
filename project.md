@@ -39,7 +39,7 @@ In data science, it is important to develop a thorough understanding of the data
 
 You'll have several scheduled discussion periods in Weeks 7 and 8 to work on this project (see the Schedule). In total, the project is intended to require approximately 10 hours of effort from each of you (that is, ~30 total person-hours for a three-person group, or ~20 total hours for a two-person group). You are expected to coordinate with each other to schedule additional meetings or delegate responsibilities as appropriate to complete the project. 
 
-Projects are due in the middle of the Final Exam Period. There will be an optional opportunity in the middle of Week 10 to submit your project for a "mock grade" in order to get feedback and learn what you can do to improve your work. 
+Projects are due on the last day of instruction. There will be an optional opportunity early in Week 10 to submit your project for a "mock grade" in order to get feedback and learn what you can do to improve your work. 
 
 ## Submission Logistics 
 
