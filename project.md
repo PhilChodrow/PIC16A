@@ -77,6 +77,31 @@ Your project should contain the following components, demarcated by Markdown hea
   - Discussion of the mistakes made by each model. Your discussion should give intuition for *why* the model fails in certain cases, using the decision regions to illustrate your explanation. 
 6. **Discussion.** Describe the overall performance of your models, state which combination of model and features (measurements) you recommend. Discuss how the model could be improved if more or different data were available. 
 
+## Details on Decision Regions
+
+For each model, you are expected to create decision region plots. You can learn more about the basic concept, and find some code to help get you started, in [these notes](https://nbviewer.org/github/PhilChodrow/PIC16A/blob/master/live_lectures/22-live-lecture.ipynb) from Live Lecture. 
+
+Here's an example of a well-constructed set of decision-regions in which the qualitative variable used was the *island*. 
+
+<figure class="image" style="width:100%">
+  <img src="https://raw.githubusercontent.com/PhilChodrow/PIC16A/master/_images/example-regions.png" alt="Three decision-region plots. Different regions of the plots are either red, green, or blue. There are dots of corresponding colors scattered across the regions.">
+</figure>
+
+Please note: 
+
+- There is an informative legend that states which species corresponds to which colors. 
+- Each plot has informative titles and axis labels (I've intentionally hidden which columns I've used; you should be sure to clearly state them). 
+- The plots are easy to read and compare side-by-side. 
+
+For full credit, your decision regions code should be wrapped in a function that allows you to easily create different plots. 
+
+I encourage you to get creative! Some customizations you can try include: 
+
+- Showing different sets of plots for the training and testing data. 
+- Highlighting model prediction errors. 
+- Changing up the colors. 
+- Anything else you can think of! Feel free to run it by me if you aren't sure. 
+
 <div class="fancy-h1"> Project Assessment </div>
 
 The project is worth 25% of your final grade, and will be graded out of 100 points. All members of the team will receive the same project grade, unless I either (a) receive private communication from a team-member that raises concerns about the team's collaboration or (b) the contributions statement suggests a highly inequitable division of labor. 
