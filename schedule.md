@@ -767,10 +767,6 @@ Normal font means a Lecture day, *italics means a Discussion day.*
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html">
                     Scikit-Learn Intro
                 </a>
-                <br>
-                <a href="http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf">
-                    Chapter 1: Intro to ML with Python
-                </a>
             </td>
         </tr>
         <tr>
@@ -816,12 +812,6 @@ Normal font means a Lecture day, *italics means a Discussion day.*
             <td>
                 <a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html">
                     Hyperparameters and Validation
-                </a>
-                <br>
-                <a href="http://noracook.io/Books/Python/introductiontomachinelearningwithpython.pdf">
-                    Chapter 2: Supervised Algorithms 
-                    <br>
-                    (optional, highly recommended for projects)
                 </a>
             </td>
         </tr>
