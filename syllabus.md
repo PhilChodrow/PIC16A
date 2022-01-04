@@ -27,9 +27,9 @@ I love applied math, ethical data science, Star Trek, penguins, cooking, tea, St
 
 ## How to Address Me
 
-If you’re not sure, please call me “Professor Chodrow.” I usually invite students in PIC16B, Learning Assistants who work with my students, and student research collaborators to address me as “Phil.”
+If you're not sure, please call me "Professor Chodrow." I usually invite  Learning Assistants and student research collaborators to address me as "Phil." 
 
-Please remember to address all your professors respectfully and according to their preferences. When in doubt, “Professor X” or “Dr. X” is always appropriate. Before addressing a professor by their first name, ask yourself whether they have explicitly invited you to do so. Ask yourself twice if addressing a female, LGBTQ+, or BIPOC professor – routine disregard of titles and credentials is one of many ways in which academic culture replicates harm against these scholars. You may find [this poem](https://pressfolios-production.s3.amazonaws.com/uploads/story/story_pdf/254906/2549061489249557.pdf) by Susan Harlan to be of interest.
+Please remember to address all your professors respectfully and according to their preferences. As argued in a [recent study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048538/pdf/pnas.201805284.pdf), many of us have harmful, gendered biases about when we use earned titles like “Dr.” or “Professor." A small, simple thing you can do to make academia a more equitable place is to check your own potential biases. If you’re not sure, “Professor X” or “Dr. X” is always a safe choice — but even better is to just ask what your instructor prefers! My own personal preference is related to [this short poem](https://pressfolios-production.s3.amazonaws.com/uploads/story/story_pdf/254906/2549061489249557.pdf) by Susan Harlan.
 
 ## More FAQs
 
