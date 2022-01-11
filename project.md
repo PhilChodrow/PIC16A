@@ -104,7 +104,7 @@ I encourage you to get creative! Some customizations you can try include:
 
 <div class="fancy-h1"> Project Assessment </div>
 
-The project is worth 25% of your final grade, and will be graded out of 100 points. All members of the team will receive the same project grade, unless I either (a) receive private communication from a team-member that raises concerns about the team's collaboration or (b) the contributions statement suggests a highly inequitable division of labor. 
+The project is worth 15% of your final grade, and will be graded out of 100 points. All members of the team will receive the same project grade, unless I either (a) receive private communication from a team-member that raises concerns about the team's collaboration or (b) the contributions statement suggests a highly inequitable division of labor. 
 
 The exact rubric for the project is fairly detailed, but here's the high-level breakdown: 
 
